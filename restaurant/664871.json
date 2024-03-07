@@ -1,0 +1,1320 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "664871",
+              "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+              "cuisines": [
+                "Desserts",
+                "Ice Cream"
+              ],
+              "veg": true,
+              "nudgeBanners": [
+                {
+                  "minValue": 125,
+                  "maxValue": 179,
+                  "priority": 4,
+                  "couponCode": "SPECIALS",
+                  "discountInfo": {
+                    "discountType": "Percentage",
+                    "value": 20
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save upto ₹40 | Code SPECIALS",
+                  "unlockedMessage": "SPECIALS Coupon Unlocked! Use it to save upto ₹40",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133946085",
+                              "name": "Feast Cadbury Crackle 70ml",
+                              "category": "New Launches",
+                              "description": "Experience the delight of Cadbury Crackle chocolate  in a Kwality Walls Feast. Every bite has the deliciousness of Cadbury crackle Chocolate with signature hard chocolate. For any chocolate lover. Kcal/Serving: 244",
+                              "imageId": "a4cce6bbd22329636834b0f9fb53de2f",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148641",
+                              "name": "Hazelnut Chocolate Ice Cream 500ml",
+                              "category": "New Launches",
+                              "description": "(500ml Tub) Ice Cream Crafted for Indulgence! Decadent Chocolate Ice Cream full of crunchy and roasted hazelnuts and rich chocolate.  A perfect indulgent treat. Kcal/Serving: 165",
+                              "imageId": "c30a941f8010959f4901bee7b8b2317b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 32500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "117854458",
+                              "name": "Majestic Kesar Pista Tub 500ml",
+                              "category": "New Launches",
+                              "description": "(500ml Tub) Royal Delight In Every Bite! A Rich and Creamy Scoop with mesmerizing aroma of Kesar and richness of Pista. Treat your senses with an authentic duo of royal extravaganza! Kcal/Serving: 165",
+                              "imageId": "9c3b591c590b8ac9c72d445c9d1574d7",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121906057",
+                              "name": "Dry Fruit Delight Cup 100ml",
+                              "category": "New Launches",
+                              "description": "(100ml Cup) A Dry Fruit Lover's Paradise! Crunchy Cashew Nuts, Almonds and Delicious Raisins In Every Bite Of Creamy Bite. Kcal/Serving: 126",
+                              "imageId": "d8287c213336579305ddcc7236e0c784",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121906059",
+                              "name": "Choco Brownie Fudge Cup 100ml",
+                              "category": "New Launches",
+                              "description": "(100ml Cup) Rich Chocolate Cup Full Of Chunky Brownie Pieces And Chocolate Fudge. A ,cup That Will Make A Dark Chocolate Lover Rock N Roll. Kcal/Serving: 144",
+                              "imageId": "4e89a700975407399950c4bba74922ed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121906060",
+                              "name": "Divine Chocolate Chocochip Cup 100ml",
+                              "category": "New Launches",
+                              "description": "(100ml Cup) A Real Chocolate Indulgence Made With Rich Cocoa. Loaded With Choco Chips & Rich Chocolate Sauce In Every Creamy Bite. Kcal/Serving: 133",
+                              "imageId": "e71fce503542d98bfee7a16bd133b799",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148631",
+                              "name": "Cadbury Crackle 700ml",
+                              "category": "Premium Family Tubs",
+                              "description": "(700ml Tub) A Cadbury lover's delight!\nCadbury Crackle chunks in a rich creamy chocolate tub with swirls of rich chocolate sauce. A perfect partner for celebrations! Kcal/Serving: 155",
+                              "imageId": "90a4e49b01848470a12792efa43a6767",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 37900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148632",
+                              "name": "Choco Brownie Fudge 700ml",
+                              "category": "Premium Family Tubs",
+                              "description": "(700ml Tub) Rich chocolate tub  full of chunky brownie pieces and chocolate fudge.  \nA tub that will make a dark chocolate lover Rock N Roll. Kcal/Serving: 150",
+                              "imageId": "fa387aa9b3aaaa8ae0cd907405a5d73b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148678",
+                              "name": "Oreo & Cream 700ml",
+                              "category": "Premium Family Tubs",
+                              "description": "(700ml Tub) The Original Oreo Tub!\nCrunchy Oreo cookie chunks in rich creamy vanilla.  Kcal/Serving: 126",
+                              "imageId": "6a60ed96e444ca2cdd4cb4e9bce8e315",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 29900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148681",
+                              "name": "Divine Chocolate Sensation 700ml",
+                              "category": "Premium Family Tubs",
+                              "description": "(700ml Tub) A real chocolate indulgence made with rich cocoa. Loaded with choco chips & rich chocolate sauce in every creamy scoop. Kcal/Serving: 126",
+                              "imageId": "1bb7bbb6b1011b0a3f379e9be0526f57",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148688",
+                              "name": "Fruit & Nut 700ml",
+                              "category": "Premium Family Tubs",
+                              "description": "(700ml Tub) A dry fruit lover's paradise! Crunchy cashew nuts, almond and delicious raisins in every bite of creamy scoop. Kcal/Serving: 128",
+                              "imageId": "c873ed6921f3dc15bf0e92f2ba46b219",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.9",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148692",
+                              "name": "Tender Coconut 500ml",
+                              "category": "Classic Family Tubs",
+                              "description": "(500ml Tub) Feel naturally refreshed with every bite. Creamy tub loaded with chunks of coconut in every scoop. Kcal/Serving: 149",
+                              "imageId": "c43a1cb1e1b4cbee971324e0ae39cbbe",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148649",
+                              "name": "Butterscotch 700ml",
+                              "category": "Classic Family Tubs",
+                              "description": "(700ml Tub) Creamy butterscotch tub loaded with chunks of caramel coated cashew nuts. Kcal/Serving: 126",
+                              "imageId": "7d805045086796ecab2caf73a052ec0f",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "18 ratings",
+                                  "ratingCountV2": "18"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148653",
+                              "name": "Alphonso Mango 700ml",
+                              "category": "Classic Family Tubs",
+                              "description": "(700ml Tub) Enjoy the delight of real  alphonso mango in a delicious creamy tub.  A fruit lover's ultimate delight! Kcal/Serving: 94",
+                              "imageId": "213425b9eac4bec6e6d3c9170a5ce386",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148633",
+                              "name": "Vanilla 700ml",
+                              "category": "Classic Family Tubs",
+                              "description": "(700ml Tub) Rich creamy vanilla dessert thats more vanilla-tasting than any vanilla you have ever tasted in all of vanillas entirety. Kcal/Serving: 112",
+                              "imageId": "e804df5ec4db781b6bbdca268da6d6a8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "123536149",
+                              "name": "Milk cake Ice cream500ml",
+                              "category": "Mithai Ice Cream",
+                              "description": "(500ml Tub) Indulgence of milk cake & sweetness of icecream, best of both the worlds in one tub. Mithai bhi, icecream bhi. Kcal/Serving: 143",
+                              "imageId": "96b50de3b1479168e93d33131958ce97",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "123536150",
+                              "name": "Gulab Jamun Ice cream 500ml",
+                              "category": "Mithai Ice Cream",
+                              "description": "(500ml Tub) Indulgence of gulab jamun and the sweetness of icecream, best of both the worlds in one tub. Mithai bhi, icecream bhi. Kcal/Serving: 128",
+                              "imageId": "041d127a0b948caba84c8e96f2b6997c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148634",
+                              "name": "Magnum Almond  Ice Cream 80ml",
+                              "category": "Magnum Ice Cream Sticks",
+                              "description": "Expertly crafted icecream with Madagascar vanilla, crunchy Australian almonds and Belgian chocolate. Kcal/Serving: 223",
+                              "imageId": "650d407befc8665b9fe71a8ad58fe2e0",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148636",
+                              "name": "Magnum Chocolate Truffle Ice Cream 80ml",
+                              "category": "Magnum Ice Cream Sticks",
+                              "description": "Rich chocolate icecream with truffle sauce wrapped in thick Belgian chocolate. Kcal/Serving: 182",
+                              "imageId": "737d22db3969261f12cf3464821cbb22",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148638",
+                              "name": "Cornetto Chokissimo 110ml",
+                              "category": "Cornetto Cone",
+                              "description": "(110ml) Disc as soft as a kiss!\nCrunchy waffle cone filled with creamy chocolate and brownie pieces with a soft chocolate disc and almond sprinkles on top. Kcal/Serving: 249",
+                              "imageId": "4935a18cef8264f63f9e4e709760e980",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "15 ratings",
+                                  "ratingCountV2": "15"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "New Launches",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133946085",
+                              "name": "Feast Cadbury Crackle 70ml",
+                              "description": "Experience the delight of Cadbury Crackle chocolate  in a Kwality Walls Feast. Every bite has the deliciousness of Cadbury crackle Chocolate with signature hard chocolate. For any chocolate lover. Kcal/Serving: 244",
+                              "imageId": "a4cce6bbd22329636834b0f9fb53de2f",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148641",
+                              "name": "Hazelnut Chocolate Ice Cream 500ml",
+                              "description": "(500ml Tub) Ice Cream Crafted for Indulgence! Decadent Chocolate Ice Cream full of crunchy and roasted hazelnuts and rich chocolate.  A perfect indulgent treat. Kcal/Serving: 165",
+                              "imageId": "c30a941f8010959f4901bee7b8b2317b",
+                              "isVeg": 1,
+                              "price": 32500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117854458",
+                              "name": "Majestic Kesar Pista Tub 500ml",
+                              "description": "(500ml Tub) Royal Delight In Every Bite! A Rich and Creamy Scoop with mesmerizing aroma of Kesar and richness of Pista. Treat your senses with an authentic duo of royal extravaganza! Kcal/Serving: 165",
+                              "imageId": "9c3b591c590b8ac9c72d445c9d1574d7",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906057",
+                              "name": "Dry Fruit Delight Cup 100ml",
+                              "description": "(100ml Cup) A Dry Fruit Lover's Paradise! Crunchy Cashew Nuts, Almonds and Delicious Raisins In Every Bite Of Creamy Bite. Kcal/Serving: 126",
+                              "imageId": "d8287c213336579305ddcc7236e0c784",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906059",
+                              "name": "Choco Brownie Fudge Cup 100ml",
+                              "description": "(100ml Cup) Rich Chocolate Cup Full Of Chunky Brownie Pieces And Chocolate Fudge. A ,cup That Will Make A Dark Chocolate Lover Rock N Roll. Kcal/Serving: 144",
+                              "imageId": "4e89a700975407399950c4bba74922ed",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906060",
+                              "name": "Divine Chocolate Chocochip Cup 100ml",
+                              "description": "(100ml Cup) A Real Chocolate Indulgence Made With Rich Cocoa. Loaded With Choco Chips & Rich Chocolate Sauce In Every Creamy Bite. Kcal/Serving: 133",
+                              "imageId": "e71fce503542d98bfee7a16bd133b799",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Premium Family Tubs",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148631",
+                              "name": "Cadbury Crackle 700ml",
+                              "description": "(700ml Tub) A Cadbury lover's delight!\nCadbury Crackle chunks in a rich creamy chocolate tub with swirls of rich chocolate sauce. A perfect partner for celebrations! Kcal/Serving: 155",
+                              "imageId": "90a4e49b01848470a12792efa43a6767",
+                              "isVeg": 1,
+                              "price": 37900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148632",
+                              "name": "Choco Brownie Fudge 700ml",
+                              "description": "(700ml Tub) Rich chocolate tub  full of chunky brownie pieces and chocolate fudge.  \nA tub that will make a dark chocolate lover Rock N Roll. Kcal/Serving: 150",
+                              "imageId": "fa387aa9b3aaaa8ae0cd907405a5d73b",
+                              "isVeg": 1,
+                              "price": 31900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148678",
+                              "name": "Oreo & Cream 700ml",
+                              "description": "(700ml Tub) The Original Oreo Tub!\nCrunchy Oreo cookie chunks in rich creamy vanilla.  Kcal/Serving: 126",
+                              "imageId": "6a60ed96e444ca2cdd4cb4e9bce8e315",
+                              "isVeg": 1,
+                              "price": 29900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148681",
+                              "name": "Divine Chocolate Sensation 700ml",
+                              "description": "(700ml Tub) A real chocolate indulgence made with rich cocoa. Loaded with choco chips & rich chocolate sauce in every creamy scoop. Kcal/Serving: 126",
+                              "imageId": "1bb7bbb6b1011b0a3f379e9be0526f57",
+                              "isVeg": 1,
+                              "price": 25900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148688",
+                              "name": "Fruit & Nut 700ml",
+                              "description": "(700ml Tub) A dry fruit lover's paradise! Crunchy cashew nuts, almond and delicious raisins in every bite of creamy scoop. Kcal/Serving: 128",
+                              "imageId": "c873ed6921f3dc15bf0e92f2ba46b219",
+                              "isVeg": 1,
+                              "price": 25900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Classic Family Tubs",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148692",
+                              "name": "Tender Coconut 500ml",
+                              "description": "(500ml Tub) Feel naturally refreshed with every bite. Creamy tub loaded with chunks of coconut in every scoop. Kcal/Serving: 149",
+                              "imageId": "c43a1cb1e1b4cbee971324e0ae39cbbe",
+                              "isVeg": 1,
+                              "price": 24900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148649",
+                              "name": "Butterscotch 700ml",
+                              "description": "(700ml Tub) Creamy butterscotch tub loaded with chunks of caramel coated cashew nuts. Kcal/Serving: 126",
+                              "imageId": "7d805045086796ecab2caf73a052ec0f",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148653",
+                              "name": "Alphonso Mango 700ml",
+                              "description": "(700ml Tub) Enjoy the delight of real  alphonso mango in a delicious creamy tub.  A fruit lover's ultimate delight! Kcal/Serving: 94",
+                              "imageId": "213425b9eac4bec6e6d3c9170a5ce386",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148633",
+                              "name": "Vanilla 700ml",
+                              "description": "(700ml Tub) Rich creamy vanilla dessert thats more vanilla-tasting than any vanilla you have ever tasted in all of vanillas entirety. Kcal/Serving: 112",
+                              "imageId": "e804df5ec4db781b6bbdca268da6d6a8",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Magnum Ice Cream Sticks",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148634",
+                              "name": "Magnum Almond  Ice Cream 80ml",
+                              "category": "Magnum Ice Cream Sticks",
+                              "description": "Expertly crafted icecream with Madagascar vanilla, crunchy Australian almonds and Belgian chocolate. Kcal/Serving: 223",
+                              "imageId": "650d407befc8665b9fe71a8ad58fe2e0",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114148636",
+                              "name": "Magnum Chocolate Truffle Ice Cream 80ml",
+                              "category": "Magnum Ice Cream Sticks",
+                              "description": "Rich chocolate icecream with truffle sauce wrapped in thick Belgian chocolate. Kcal/Serving: 182",
+                              "imageId": "737d22db3969261f12cf3464821cbb22",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Cornetto Cone",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148638",
+                              "name": "Cornetto Chokissimo 110ml",
+                              "description": "(110ml) Disc as soft as a kiss!\nCrunchy waffle cone filled with creamy chocolate and brownie pieces with a soft chocolate disc and almond sprinkles on top. Kcal/Serving: 249",
+                              "imageId": "4935a18cef8264f63f9e4e709760e980",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148675",
+                              "name": "Cornetto Oreo 110ml",
+                              "description": "(110ml) Oreo cookie chunks in creamy vanilla, delicious chocolate disc and crunchy waffle cone.  An all time favourite for cone lovers! Kcal/Serving: 246",
+                              "imageId": "2d665bfdf73e8abb87bcc2252d3d8482",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148714",
+                              "name": "Cornetto Butterscotch 105ml",
+                              "description": "(105ml) Creamy butterscotch loaded with chunks of caramel cashew topping in a crunchy waffle cone. Kcal/Serving: 198",
+                              "imageId": "2f25b3897c950594eda32c440147c0c1",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148720",
+                              "name": "Cornetto Double Chocolate 105ml",
+                              "description": "(105ml) A yummilicious duo of milk and dark chocolate topped with chocolate sauce, chocochips in a crunchy waffle cone. Kcal/Serving: 184",
+                              "imageId": "fc3e3ddb31a071ee0cac2d705d50f05f",
+                              "isVeg": 1,
+                              "price": 4000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Family Value Packs",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148723",
+                              "name": "Kesar Pista 700ml",
+                              "description": "(700ml) Royal delight in every bite!\nA rich and creamy scoop loaded with rich flavorful kesar and pieces of pista.  Kcal/Serving: 117",
+                              "imageId": "241508c685ea9654924e7da8b30d36df",
+                              "isVeg": 1,
+                              "price": 18500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148725",
+                              "name": "Blackcurrent & Raisins 700ml",
+                              "description": "(700ml) Creamy dessert blended with delicious black currant and raisins. A refreshing summer treat! Kcal/Serving: 114",
+                              "imageId": "92a950b4a6013437fc4b20046a57a896",
+                              "isVeg": 1,
+                              "price": 18500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148728",
+                              "name": "Creamy Kulfi 700ml",
+                              "description": "(700ml ) Rich & creamy desi kulfi icecream loaded with almonds and a twist of rose sauce. A perfect companion for hosting! Kcal/Serving: 133",
+                              "imageId": "77e841fe347b91093b2b59fad0bc1810",
+                              "isVeg": 1,
+                              "price": 18500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148694",
+                              "name": "Chocolate 700ml",
+                              "description": "(700ml) Finest chocolate scoop made with rich cocoa. So rich & chocolatey that will make you go Choco Doodle Do. Kcal/Serving: 114",
+                              "imageId": "5f77d8cf5ce521ab695e5653e42798d2",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148695",
+                              "name": "Blushing Strawberry 700ml",
+                              "description": "(700ml) A fruit lover's delight.\nA scoop that tastes like fresh strawberries.  Kcal/Serving: 112",
+                              "imageId": "7f117972975162d026bc695e8ee2c33a",
+                              "isVeg": 1,
+                              "price": 12500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Sundae & Scoops",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906069",
+                              "name": "Trixy blueberry cheesecake Sundae 110ml",
+                              "description": "(110ml) Parlour like fun in a cup!\n3 delicious layers - blueberry sauce, creamy cheesecake dessert  and crunchy cinnamon cookies. Kcal/Serving: 340",
+                              "imageId": "5faebccba249157225f27649495f961d",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148657",
+                              "name": "Trixy Cookie Sundae 110ml",
+                              "description": "(110ml) Parlour like fun in a cup. \n3 delicious layers - silky chocolate disc, delicious cookies & cream and crunchy choco cookies. Kcal/Serving: 235",
+                              "imageId": "13589c4b44ab6cd1aebb836dcbc7a183",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114148660",
+                              "name": "Kulfi Cup Icecream 100ml",
+                              "description": "(100ml) Your favourite Desi Matka Kulfi in a cup!\nRich creamy kulfi loaded with almonds - a desi delight for an  icecream lover. Kcal/Serving: 139",
+                              "imageId": "1187e4c231b87107dd9ad9f20d5520c5",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906068",
+                              "name": "Oreo and Cream Cup 100ml",
+                              "description": "(100ml )Crunchy Oreo cookie chunks with rich and creamy vanilla in a cup. Kcal/Serving: 126",
+                              "imageId": "1e68d44690ff3929a4ec66e73702cbdf",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Value Combos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906043",
+                              "name": "Cassatta [125ml x 2pcs]",
+                              "description": "Creamy rainbow trio between crunchy cashew nuts, tutti frutti and soft cake. Kcal/Serving: 157",
+                              "imageId": "e6428eccd2cb0885efa9652d84ec3b1b",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906042",
+                              "name": "Cornetto Choco Vanilla [105ml x 4pcs]",
+                              "description": "(105ml) A yummilicious duo of rich and creamy vanilla  topped with chocolate sauce and chocochips in a crunchy waffle cone. Kcal/Serving: 177",
+                              "imageId": "6fe33b2572dec595b51cf6e911e5017f",
+                              "isVeg": 1,
+                              "price": 12000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906044",
+                              "name": "Black Forest Feast  - [70ml x 3pcs]",
+                              "description": "Black Forest cake meets Feast!\nCake pieces through layers of Feast with a solid chocolate surprise at the end. Kcal/Serving: 249",
+                              "imageId": "907fb5ca628c112308a00c4141407db3",
+                              "isVeg": 1,
+                              "price": 13500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906047",
+                              "name": "Sandwich Chocolate and Vanilla [90ml x 2pcs]",
+                              "description": "Looking for a sweet snack? A hearty delicious sandwich filled creamy vanilla and yummy chocolate between two crunchy biscuits. Kcal/Serving: 168",
+                              "imageId": "99cb4206bb02ea4afe6ab9c37eb035af",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906045",
+                              "name": "Aamras [60ml x 2pcs]",
+                              "description": "Aamras All Year Round!\nDelicious mango stick made with pulp of real alphonso mangoes. Kcal/Serving: 195",
+                              "imageId": "64c8411c16c0586a847492ec93daffc3",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906048",
+                              "name": "Oreo Party Pack [700ml x 2pcs]",
+                              "description": "The Original Oreo Party Pack!\nCrunchy Oreo cookie chunks in rich creamy vanilla.  Kcal/Serving: 252",
+                              "imageId": "65921eb644c7fe9d1386cfd72d8062cb",
+                              "isVeg": 1,
+                              "price": 39800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906053",
+                              "name": "Mango Party Pack [700ml x 2pcs]",
+                              "description": "Enjoy the delight of real  alphonso mango in a delicious creamy Party Pack.  A fruit lover's ultimate delight! Kcal/Serving: 188",
+                              "imageId": "8a8a3c588d8df3921c1831030deee394",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906051",
+                              "name": "Butterscotch Party Pack [700ml x 2pcs]",
+                              "description": "Creamy butterscotch Party Pack loaded with chunks of caramel coated cashew nuts. Kcal/Serving: 252",
+                              "imageId": "d16da60da3d4eddc8d9384d6b6e1a80c",
+                              "isVeg": 1,
+                              "price": 30000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121906054",
+                              "name": "Vanilla Party Pack [700ml x 2pcs]",
+                              "description": "Rich creamy vanilla dessert thats more vanilla-tasting than any vanilla you have ever tasted in all of vanillas entirety. Kcal/Serving: 224",
+                              "imageId": "94a61de6ae90919924296b4ba1abf115",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+                      "area": "Nas_RTO Circle",
+                      "completeAddress": "SHREE KAPALESHWAR ENTERPRISES: PLOT NO-11, OM SHIV BUNGLOW, TAPOVAN ROAD, PANCHVATI, NASHIK, MAHARASHTRA- 422003 (HUL- I10A275P2765)"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

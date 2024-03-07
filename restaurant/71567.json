@@ -1,0 +1,3722 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "71567",
+              "name": "Kaka Ka Dhaba",
+              "cuisines": [
+                "Biryani",
+                "Chinese"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675335",
+                              "name": "Chicken Manchow Soup",
+                              "category": "Non-Veg Soup",
+                              "imageId": "c7lhtufpg7qdut2ltb9h",
+                              "inStock": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "243 ratings",
+                                  "ratingCountV2": "243"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675821",
+                              "name": "Finger Chips",
+                              "category": "Veg Snacks",
+                              "imageId": "0ebd249d9267804311c1a5157db8d7e9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.7",
+                                  "ratingCount": "46 ratings",
+                                  "ratingCountV2": "46"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675320",
+                              "name": "Paneer Thai Pan Ki",
+                              "category": "Veg. Chinese Snacks",
+                              "imageId": "yhxruzdxpr1jhbxpgih8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 33000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "165 ratings",
+                                  "ratingCountV2": "165"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675496",
+                              "name": "Fish Thai Pan Ki",
+                              "category": "Chinese Snacks Non Veg",
+                              "imageId": "efqm3gatntyxnvtlz5bo",
+                              "inStock": 1,
+                              "price": 41000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "95 ratings",
+                                  "ratingCountV2": "95"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675539",
+                              "name": "Egg Fried Rice",
+                              "category": "Non-Veg. Chinese Rice Noodls & Spring Roll",
+                              "imageId": "dshytvmflfoowsqracdk",
+                              "inStock": 1,
+                              "price": 25000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "62 ratings",
+                                  "ratingCountV2": "62"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675276",
+                              "name": "Chicken Fried Rice",
+                              "category": "Non-Veg. Chinese Rice Noodls & Spring Roll",
+                              "imageId": "bk9souzpr5jhwhcqiqja",
+                              "inStock": 1,
+                              "price": 31000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "168 ratings",
+                                  "ratingCountV2": "168"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675327",
+                              "name": "Chicken Hakka Noodles",
+                              "category": "Non-Veg. Chinese Rice Noodls & Spring Roll",
+                              "imageId": "lbwpcnj0n5b8hixjcxi1",
+                              "inStock": 1,
+                              "price": 28000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "112 ratings",
+                                  "ratingCountV2": "112"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675523",
+                              "name": "Veg Fried Rice",
+                              "category": "Veg.Chinese Rice Noodles & Spring Roll",
+                              "imageId": "jz2a9ptuhckd6p8ieeee",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "137 ratings",
+                                  "ratingCountV2": "137"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675317",
+                              "name": "Veg Hakka Noodles",
+                              "category": "Veg.Chinese Rice Noodles & Spring Roll",
+                              "imageId": "vqgrt5bofdodbz8nncvi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 24500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "153 ratings",
+                                  "ratingCountV2": "153"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675663",
+                              "name": "Veg Spring Roll",
+                              "category": "Veg.Chinese Rice Noodles & Spring Roll",
+                              "imageId": "vc8fl6ovi5uzrnjwawhl",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "43 ratings",
+                                  "ratingCountV2": "43"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675328",
+                              "name": "Veg Cheese Roll",
+                              "category": "Veg.Chinese Rice Noodles & Spring Roll",
+                              "imageId": "fkbyeqvcjgkxatcxa3tr",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.9",
+                                  "ratingCount": "95 ratings",
+                                  "ratingCountV2": "95"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675406",
+                              "name": "Veg Lahori",
+                              "category": "Vegetables",
+                              "imageId": "yk8yizwzsp5xh3kzvepv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 34000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "283 ratings",
+                                  "ratingCountV2": "283"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675704",
+                              "name": "Veg Bhuna",
+                              "category": "Vegetables",
+                              "imageId": "htfpnyw9e4bcp3i9zubl",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 42000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "157 ratings",
+                                  "ratingCountV2": "157"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675720",
+                              "name": "Chana Masala",
+                              "category": "Vegetables",
+                              "imageId": "nvrojmnhlce7svzrqy1h",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "143 ratings",
+                                  "ratingCountV2": "143"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675537",
+                              "name": "Dal Fry",
+                              "category": "Vegetables",
+                              "imageId": "2d33adc3091a90ce1f32b429dca09b0c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "133 ratings",
+                                  "ratingCountV2": "133"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675541",
+                              "name": "Dal Tadka",
+                              "category": "Vegetables",
+                              "imageId": "g1yu1696m4hpk9zs56vb",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 20000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "324 ratings",
+                                  "ratingCountV2": "324"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675733",
+                              "name": "Paneer Kofta",
+                              "category": "Vegetables",
+                              "imageId": "4ab5d06c95f07b74d9ce844b0d799f34",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 34000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "33 ratings",
+                                  "ratingCountV2": "33"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675742",
+                              "name": "Mushroom Masala",
+                              "category": "Vegetables",
+                              "imageId": "6eae8e28fae72af54bca33d41d93ba39",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "57 ratings",
+                                  "ratingCountV2": "57"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675752",
+                              "name": "Palak Paneer",
+                              "category": "Vegetables",
+                              "imageId": "i2mgqgkvwzbykbvhx3ao",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "84 ratings",
+                                  "ratingCountV2": "84"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19675754",
+                              "name": "Paneer Makhanwala",
+                              "category": "Vegetables",
+                              "imageId": "fodkxz86v2qtxbldipoi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 34000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "95 ratings",
+                                  "ratingCountV2": "95"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Cold Beverage",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367675",
+                              "name": "Assorted S,Drinks 500 Ml",
+                              "isVeg": 1,
+                              "price": 6500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367676",
+                              "name": "Pack Drinking Water 250ml",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367681",
+                              "name": "Butter Milk",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675468",
+                              "name": "Lassi",
+                              "isVeg": 1,
+                              "price": 6500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367685",
+                              "name": "Red Bull 250Ml",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Ice Cream",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367687",
+                              "name": "Butter Scotch Cup Ice Cream",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367689",
+                              "name": "Cassata Ice Cream",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367691",
+                              "name": "Chocobar Ice Cream",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367694",
+                              "name": "Chocolate Cone Ice Cream",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367696",
+                              "name": "Malai Kulfi(Sp) Ice Cream",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367700",
+                              "name": "Vanilla Cup Ice Cream",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367702",
+                              "name": "Straw Berry Cup Ice Cream",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367706",
+                              "name": "Kesar Pista Ice Cream",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367710",
+                              "name": "Special Falooda Ice Cream",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367714",
+                              "name": "Special Kulfi Falooda Ice Cream",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367717",
+                              "name": "Special Rabdi Ice Cream",
+                              "isVeg": 1,
+                              "price": 10000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Raita",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367720",
+                              "name": "Bundi Raita",
+                              "isVeg": 1,
+                              "price": 15500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675648",
+                              "name": "Veg Raita",
+                              "isVeg": 1,
+                              "price": 15500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675649",
+                              "name": "Pineapple Raita",
+                              "isVeg": 1,
+                              "price": 15500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675652",
+                              "name": "Curd",
+                              "isVeg": 1,
+                              "price": 10500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Veg Soup",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675275",
+                              "name": "Hot & Sour Soup",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675281",
+                              "name": "Palak Soup",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367736",
+                              "name": "Sweet Corn Plain Soup",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675298",
+                              "name": "Tomato Soup",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675303",
+                              "name": "Veg Clear Soup",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367745",
+                              "name": "Manchow Soup",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675316",
+                              "name": "Mushroom Soup",
+                              "isVeg": 1,
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675322",
+                              "name": "Veg Noodles Soup",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Non-Veg Soup",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675330",
+                              "name": "Chicken Clear Soup",
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675335",
+                              "name": "Chicken Manchow Soup",
+                              "imageId": "c7lhtufpg7qdut2ltb9h",
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675341",
+                              "name": "Hot & Sour Chicken Soup",
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367756",
+                              "name": "Mutton Paya Soup",
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675365",
+                              "name": "Sweet Corn Chicken Soup",
+                              "price": 17500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Bread",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675412",
+                              "name": "Bread Butter",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675416",
+                              "name": "Plain Bread Slice",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675375",
+                              "name": "Veg Sandwich",
+                              "isVeg": 1,
+                              "price": 13000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675383",
+                              "name": "Cheese Sandwich",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367768",
+                              "name": "Omlet Sandwich",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Veg Snacks",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675810",
+                              "name": "Chana Roast",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675812",
+                              "name": "Garlic Fry",
+                              "isVeg": 1,
+                              "price": 15500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675816",
+                              "name": "Green Salad",
+                              "isVeg": 1,
+                              "price": 12000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675817",
+                              "name": "Kaju Fry",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675818",
+                              "name": "Plain Kaju",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675819",
+                              "name": "Cheese Cherry Pineapple",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675821",
+                              "name": "Finger Chips",
+                              "imageId": "0ebd249d9267804311c1a5157db8d7e9",
+                              "isVeg": 1,
+                              "price": 15500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367781",
+                              "name": "Cheese Pakoda",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367784",
+                              "name": "Paneer Pakoda",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367786",
+                              "name": "Veg Pakoda",
+                              "isVeg": 1,
+                              "price": 17500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Veg. Chinese Snacks",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367787",
+                              "name": "Paneer Chilly",
+                              "isVeg": 1,
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675675",
+                              "name": "Paneer Manchurian",
+                              "isVeg": 1,
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675677",
+                              "name": "Paneer Sathey",
+                              "isVeg": 1,
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675679",
+                              "name": "Paneer Schezwan",
+                              "isVeg": 1,
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367796",
+                              "name": "Soyabean Chilly",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367797",
+                              "name": "Soyabean Manchurian",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367798",
+                              "name": "Veg Manchurian",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367799",
+                              "name": "Veg Chilly Fry",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367800",
+                              "name": "Soyabeen Thai Tan Ki",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675314",
+                              "name": "Mushroom Thai Pan Ki",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675320",
+                              "name": "Paneer Thai Pan Ki",
+                              "imageId": "yhxruzdxpr1jhbxpgih8",
+                              "isVeg": 1,
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367801",
+                              "name": "Mix Thai Pan Ki",
+                              "isVeg": 1,
+                              "price": 33000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Chinese Snacks Non Veg",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367802",
+                              "name": "Chicken Chilly (12) Pcs",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367803",
+                              "name": "Chicken Manchurian (12) Pcs",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367805",
+                              "name": "Chicken Manchurian Liq(12) I",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367806",
+                              "name": "Chicken Lollipop (6) Pcs",
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367807",
+                              "name": "Chicken Sathey (12) Pcs",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367808",
+                              "name": "Chicken Crispy(8) Pcs",
+                              "price": 32000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367809",
+                              "name": "Chicken Ginger(12) Pcs",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675420",
+                              "name": "Chicken Garlic",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367811",
+                              "name": "Chicken Schezwan(12) Pcs",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367812",
+                              "name": "Chicken -65 (12) Pcs",
+                              "price": 35000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675477",
+                              "name": "Fish Finger",
+                              "price": 41000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367813",
+                              "name": "Chicken Thai -Pen-Ki",
+                              "price": 41000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675496",
+                              "name": "Fish Thai Pan Ki",
+                              "imageId": "efqm3gatntyxnvtlz5bo",
+                              "price": 41000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Non-Veg. Chinese Rice Noodls & Spring Roll",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675539",
+                              "name": "Egg Fried Rice",
+                              "imageId": "dshytvmflfoowsqracdk",
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675276",
+                              "name": "Chicken Fried Rice",
+                              "imageId": "bk9souzpr5jhwhcqiqja",
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367814",
+                              "name": "Chicken Schezwan F-Rice",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367815",
+                              "name": "Schezwan Rice Tripple (Ch)",
+                              "price": 36000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367816",
+                              "name": "Chicken Mix Fried Rice",
+                              "price": 38500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367818",
+                              "name": "Prawns Fried Rice",
+                              "price": 51000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675327",
+                              "name": "Chicken Hakka Noodles",
+                              "imageId": "lbwpcnj0n5b8hixjcxi1",
+                              "price": 28000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675332",
+                              "name": "Chicken Schezwan Noodles",
+                              "price": 29500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675348",
+                              "name": "Prawns Hakka Noodles",
+                              "price": 51000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367820",
+                              "name": "Chicken Spring Roll",
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367821",
+                              "name": "Mix Spring Roll",
+                              "price": 39000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675340",
+                              "name": "Chicken Cheese Roll",
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367823",
+                              "name": "Egg Schezwan Fried Rice",
+                              "price": 26000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Veg.Chinese Rice Noodles & Spring Roll",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675523",
+                              "name": "Veg Fried Rice",
+                              "imageId": "jz2a9ptuhckd6p8ieeee",
+                              "isVeg": 1,
+                              "price": 25500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367824",
+                              "name": "Veg Schezwan F-Rice",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367825",
+                              "name": "Schezwan Rice Tripple (Veg)",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675317",
+                              "name": "Veg Hakka Noodles",
+                              "imageId": "vqgrt5bofdodbz8nncvi",
+                              "isVeg": 1,
+                              "price": 24500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367826",
+                              "name": "Veg Schezwan Noodle",
+                              "isVeg": 1,
+                              "price": 25500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675663",
+                              "name": "Veg Spring Roll",
+                              "imageId": "vc8fl6ovi5uzrnjwawhl",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675328",
+                              "name": "Veg Cheese Roll",
+                              "imageId": "fkbyeqvcjgkxatcxa3tr",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367827",
+                              "name": "Veg Cheese Corn Ball (6 Pic)",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367828",
+                              "name": "Palak Cheese Roll (8 Pic)",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Vegetables",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675406",
+                              "name": "Veg Lahori",
+                              "imageId": "yk8yizwzsp5xh3kzvepv",
+                              "isVeg": 1,
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675704",
+                              "name": "Veg Bhuna",
+                              "imageId": "htfpnyw9e4bcp3i9zubl",
+                              "isVeg": 1,
+                              "price": 42000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367830",
+                              "name": "Paneer Chat-Pta",
+                              "isVeg": 1,
+                              "price": 42000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675707",
+                              "name": "Paneer Punjabi",
+                              "isVeg": 1,
+                              "price": 42000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675716",
+                              "name": "Baingan Masala",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675717",
+                              "name": "Baingan Bharta",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367677",
+                              "name": "Bhendi Fry",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367680",
+                              "name": "Bhendi Masala",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675720",
+                              "name": "Chana Masala",
+                              "imageId": "nvrojmnhlce7svzrqy1h",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675535",
+                              "name": "Dal Plain",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675537",
+                              "name": "Dal Fry",
+                              "imageId": "2d33adc3091a90ce1f32b429dca09b0c",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675540",
+                              "name": "Dal Fry Butter",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675541",
+                              "name": "Dal Tadka",
+                              "imageId": "g1yu1696m4hpk9zs56vb",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367693",
+                              "name": "Dal Makhani (Black)",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675723",
+                              "name": "Dum Aloo Punjabi",
+                              "isVeg": 1,
+                              "price": 24500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675725",
+                              "name": "Gobi Masala",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675727",
+                              "name": "Green Peas Masala",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367701",
+                              "name": "Kaju Curry Red",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367705",
+                              "name": "Kaju Curry  White",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367708",
+                              "name": "Malai Kofta Red",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367711",
+                              "name": "Malai Kofta White",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675733",
+                              "name": "Paneer Kofta",
+                              "imageId": "4ab5d06c95f07b74d9ce844b0d799f34",
+                              "isVeg": 1,
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675736",
+                              "name": "Methi Lassoni",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367719",
+                              "name": "Mix Veg",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675742",
+                              "name": "Mushroom Masala",
+                              "imageId": "6eae8e28fae72af54bca33d41d93ba39",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60249317",
+                              "name": "Veg Kaka Special",
+                              "isVeg": 1,
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675743",
+                              "name": "Mushroom Tawa",
+                              "isVeg": 1,
+                              "price": 40000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675744",
+                              "name": "Mushroom Tikka Masala",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367729",
+                              "name": "Mutter Mushroom",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367732",
+                              "name": "Mutter Paneer",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367733",
+                              "name": "Palak Lasooni",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675752",
+                              "name": "Palak Paneer",
+                              "imageId": "i2mgqgkvwzbykbvhx3ao",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367738",
+                              "name": "Paneer Bhurjee",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675754",
+                              "name": "Paneer Makhanwala",
+                              "imageId": "fodkxz86v2qtxbldipoi",
+                              "isVeg": 1,
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675755",
+                              "name": "Paneer Masala",
+                              "imageId": "mpfnpxsflehh2iji1svc",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675415",
+                              "name": "Paneer Mushroom",
+                              "isVeg": 1,
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367746",
+                              "name": "Paneer Tikka Masala (6) Pcs",
+                              "isVeg": 1,
+                              "price": 38000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675422",
+                              "name": "Plain Palak",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367748",
+                              "name": "Shev Bhaji",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367750",
+                              "name": "Soyabean Masala",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675454",
+                              "name": "Veg Hydrabadi",
+                              "isVeg": 1,
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367752",
+                              "name": "VegKolhapuri",
+                              "isVeg": 1,
+                              "price": 20500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675461",
+                              "name": "Veg Makhanwala",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675467",
+                              "name": "Veg Tawa",
+                              "isVeg": 1,
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367757",
+                              "name": "Veg Seek Kabab Masala",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367760",
+                              "name": "Chole Bhature",
+                              "isVeg": 1,
+                              "price": 25500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Vegetables Handi & Kadhai",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675483",
+                              "name": "Paneer Handi",
+                              "imageId": "hzyry691jj1u67gasacl",
+                              "isVeg": 1,
+                              "price": 50000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367764",
+                              "name": "Musroom Handi",
+                              "isVeg": 1,
+                              "price": 45000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675491",
+                              "name": "Mushroom Kadai",
+                              "isVeg": 1,
+                              "price": 41000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675494",
+                              "name": "Paneer Kadai",
+                              "isVeg": 1,
+                              "price": 51000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675495",
+                              "name": "Paneer Mushroom Kadai",
+                              "isVeg": 1,
+                              "price": 46500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675498",
+                              "name": "Veg Handi",
+                              "isVeg": 1,
+                              "price": 40000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675501",
+                              "name": "Veg Kadai",
+                              "isVeg": 1,
+                              "price": 40000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Mutton Specialities",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134577068",
+                              "name": "Mutton Bhuna ",
+                              "price": 37500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367674",
+                              "name": "Mutton Dal Ghosh",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367678",
+                              "name": "Mutton Kheema Fry",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367682",
+                              "name": "Mutton Kheema Liver",
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367684",
+                              "name": "Mutton Kheema Masala",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675782",
+                              "name": "Mutton Curry",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675783",
+                              "name": "Mutton Liver Masala",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675369",
+                              "name": "Mutton Masala & Fry",
+                              "imageId": "g1gwvjruejzguvac77uo",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "23302234",
+                              "name": "Mutton Palakwala (P)",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675784",
+                              "name": "Mutton Maratha",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675785",
+                              "name": "Mutton Rogan Josh",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367704",
+                              "name": "Mutton Moghlai",
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367707",
+                              "name": "Mutton Palakwala Spl (P)",
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367712",
+                              "name": "Mutton Moghlai Spl (P)",
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367715",
+                              "name": "Mutton Dalgosh Spl(P)",
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367718",
+                              "name": "Mutton Maratha Spl (P)",
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367722",
+                              "name": "Mutton Nagpuri Masala (P)",
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367723",
+                              "name": "Mutton Nagpuri Masala Spl(P)",
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367817",
+                              "name": "Mutton Brain Bhurji",
+                              "price": 25500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367819",
+                              "name": "Mutton  Brain Masala",
+                              "price": 33000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Chicken Specialities",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675469",
+                              "name": "Chicken Bhuna",
+                              "imageId": "xv3ldtbhoh1fenzebcdu",
+                              "price": 36000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675512",
+                              "name": "Chicken Adraki",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367728",
+                              "name": "Chicken Masala",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367730",
+                              "name": "Chicken Moghlai",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675770",
+                              "name": "Chicken Palakwala",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367737",
+                              "name": "Chicken Tikka Masala (6) Pes",
+                              "price": 35000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367741",
+                              "name": "Butter Chicken Plate",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367744",
+                              "name": "Butter Chicken Whit Bone",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675758",
+                              "name": "Tawa Chicken (P)",
+                              "price": 35000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675761",
+                              "name": "Chicken Lapa Lap (P)",
+                              "price": 35000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367749",
+                              "name": "Chicken Maratha (P)",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367751",
+                              "name": "Chicken Lajawab Masala",
+                              "price": 46000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367753",
+                              "name": "Chicken Nagpuri Masala (P)",
+                              "price": 33000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Mutton Handis",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367754",
+                              "name": "Mutton Dal Ghosh Spl",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367759",
+                              "name": "Mutton Palakwala Spl",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367762",
+                              "name": "Mutton Handi Spl",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367765",
+                              "name": "Dal Ghosh",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675798",
+                              "name": "Mutton Handi",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675799",
+                              "name": "Mutton Palakwala",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675800",
+                              "name": "Mutton Handi Maratha",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367775",
+                              "name": "Mutton Nagpuri Handi",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367778",
+                              "name": "Mutton Nagpuri Spl Handi",
+                              "price": 60000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367782",
+                              "name": "Mutton Handi Maratha Spl",
+                              "price": 60000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Chicken Handis",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367794",
+                              "name": "Butter Chicken Handi (boneless)",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675757",
+                              "name": "Butter Chicken Handi With Bone",
+                              "imageId": "wfyu3pao3s2ggg1bzqvb",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675766",
+                              "name": "Chicken Afghani",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675767",
+                              "name": "Chicken Handi",
+                              "imageId": "iprgbo0nwqoldh1qgoxn",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367804",
+                              "name": "Chicken Adraki  ",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675769",
+                              "name": "Chicken Handi Maratha",
+                              "imageId": "qzqqjwdibvncurb3axvt",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367810",
+                              "name": "Chicken Patiyala",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675772",
+                              "name": "Tawa Chicken",
+                              "imageId": "jhkkdspjz0itwpujt9jr",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675773",
+                              "name": "Chicken Kadai",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675775",
+                              "name": "Chicken Lapa Lap",
+                              "price": 52000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367673",
+                              "name": "Chicken Tanduri Handi",
+                              "price": 54000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367679",
+                              "name": "Chicken Handi Nagpuri",
+                              "price": 54000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Eggs",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675274",
+                              "name": "Egg Bhurji",
+                              "imageId": "czaxrx2gajzxybuh30md",
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675508",
+                              "name": "Egg Curry",
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675510",
+                              "name": "Egg Masala",
+                              "imageId": "mq8ngedapmviivmb7ywd",
+                              "price": 17500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367692",
+                              "name": "Egg Omlet",
+                              "price": 14000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Special Tawa Snacks",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675803",
+                              "name": "Mutton Liver Tawa",
+                              "price": 38500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367698",
+                              "name": "Mutton Tawa",
+                              "price": 45000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367716",
+                              "name": "Chicken Tawa",
+                              "price": 44000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367721",
+                              "name": "Mix Tawa",
+                              "price": 45000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675805",
+                              "name": "Mutton Brain Tawa",
+                              "price": 30000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367709",
+                              "name": "Mutton Brain Kheema Tawa",
+                              "price": 46500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367713",
+                              "name": "Mutton Brain Liver Tawa",
+                              "price": 44000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Mutton Kabab",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367725",
+                              "name": "Seek Kabab",
+                              "price": 40000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Mutton Snacks",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367727",
+                              "name": "Mutton Roast Spl& Fry",
+                              "price": 58000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367731",
+                              "name": "Mutton Roast Spl& Masala",
+                              "price": 58000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367734",
+                              "name": "Mutton Roast Spl",
+                              "price": 58000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367739",
+                              "name": "Mutton Roast Fry",
+                              "price": 58000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367743",
+                              "name": "Mutton Roast Masala",
+                              "price": 58000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367747",
+                              "name": "Mutton Roast Spl(P)",
+                              "price": 37000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675393",
+                              "name": "Mutton Liver Oil Fry",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675394",
+                              "name": "Mutton Liver Masala Fry",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367755",
+                              "name": "Mutton Roast(P)",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675388",
+                              "name": "Brain Masala Fry",
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675390",
+                              "name": "Brain Oil Fry",
+                              "price": 26000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Sea Foods",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367758",
+                              "name": "Prawn'S Shallow Fry",
+                              "description": "(All Fish Items Sold on K.G. Basis)",
+                              "price": 59500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367761",
+                              "name": "Pomfret Fry",
+                              "description": "(All Fish Items Sold on K.G. Basis)",
+                              "price": 59500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367763",
+                              "name": "Rawas Fry",
+                              "description": "(All Fish Items Sold on K.G. Basis)",
+                              "price": 59500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60319030",
+                              "name": "Surmai Fry",
+                              "description": "(All Fish Items Sold on K.G. Basis)",
+                              "imageId": "wzhczlykuc9sakkcma3f",
+                              "price": 59500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Tandoori Special",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675287",
+                              "name": "Chicken Tandoori",
+                              "imageId": "su2nzi37fsf1acrvnc7z",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367770",
+                              "name": "Chicken Tandoori Hariyali",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675297",
+                              "name": "Chicken Tandoori White",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367773",
+                              "name": "Chicken Tikka (8) Pcs",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367774",
+                              "name": "Chicken Pahadi Kabab",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367776",
+                              "name": "Chicken Malai Kabab",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367777",
+                              "name": "Chicken Lasuni Kabab",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367779",
+                              "name": "Chicken Banjara Kabab",
+                              "price": 34000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367780",
+                              "name": "Chicken Seek Kabab",
+                              "price": 33000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367783",
+                              "name": "Chicken Tangadi Kabab",
+                              "price": 36000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367785",
+                              "name": "Mix Chicken Tikka",
+                              "price": 41000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Tandoor Veg. Snacks",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675830",
+                              "name": "Paneer Tikka",
+                              "isVeg": 1,
+                              "price": 36000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367788",
+                              "name": "Hara Bhara Kabab",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367789",
+                              "name": "Veg Seek Kabab",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Tandoori Roti",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367790",
+                              "name": "Roti  ",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675593",
+                              "name": "Butter Roti",
+                              "isVeg": 1,
+                              "price": 3500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675595",
+                              "name": "Paratha",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675596",
+                              "name": "Butter Paratha",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367791",
+                              "name": "Lachedar Paratha",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367792",
+                              "name": "Butter Paratha   ",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367793",
+                              "name": "Lachedar Paratha     ",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675598",
+                              "name": "Naan",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675600",
+                              "name": "Butter Naan",
+                              "imageId": "9dc6e16b4dfd0330ff899217cad5cad9",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367683",
+                              "name": "Garlic Naan",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675605",
+                              "name": "Cheese Garlic Naan",
+                              "isVeg": 1,
+                              "price": 11500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Tawa Bhakri & Chapati",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367686",
+                              "name": "Bhakri-Bajri",
+                              "isVeg": 1,
+                              "price": 3500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367688",
+                              "name": "Butter Bhakri-Bajari",
+                              "isVeg": 1,
+                              "price": 4000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367690",
+                              "name": "Bhakri-Jwari",
+                              "isVeg": 1,
+                              "price": 4000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367695",
+                              "name": "Butter Bhakri- Jwari",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367697",
+                              "name": "Chapati",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367699",
+                              "name": "Butter Chapati",
+                              "isVeg": 1,
+                              "price": 3500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Stuff Paratha",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367703",
+                              "name": "Bhatora (1) Pcs",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675630",
+                              "name": "Aloo Paratha",
+                              "imageId": "da6c6d36ab2808adfd39e02128378924",
+                              "isVeg": 1,
+                              "price": 9000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675631",
+                              "name": "Gobi Paratha",
+                              "isVeg": 1,
+                              "price": 9000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675633",
+                              "name": "Muli Paratha",
+                              "isVeg": 1,
+                              "price": 9000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675636",
+                              "name": "Paneer Paratha",
+                              "imageId": "4fac1b380287ebe7616775ea9bb14e7d",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675637",
+                              "name": "Methi Paratha",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367724",
+                              "name": "Kheema Paratha",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367726",
+                              "name": "Kheema Naan",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Non Veg. Rice/Biryani & Pulao",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675555",
+                              "name": "Mutton Dum Biryani",
+                              "imageId": "ayzw4ueg5fttshfgmevq",
+                              "price": 24500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367735",
+                              "name": "Mutton  Pulav",
+                              "price": 24500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367740",
+                              "name": "Chicken Dum Biryani",
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367742",
+                              "name": "Chicken Pulav",
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675551",
+                              "name": "Egg Biryani",
+                              "imageId": "mglr1ud5pcgnqspyaahe",
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60249319",
+                              "name": "Prawns Biryani",
+                              "imageId": "ceyv511bmkijumeya3jf",
+                              "price": 49500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675553",
+                              "name": "Chicken Lajawab Biryani",
+                              "imageId": "huwafcogclnz5l9f4vh3",
+                              "price": 50000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60249392",
+                              "name": "Butter Chicken Biryani",
+                              "imageId": "dr6d9omdwhghutelp8f0",
+                              "price": 45000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Veg. Rice/Biryani & Pulao",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675558",
+                              "name": "Plain Rice",
+                              "imageId": "ecdmb227p3v7n35hw8vx",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675561",
+                              "name": "Rice Fry",
+                              "isVeg": 1,
+                              "price": 10500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675549",
+                              "name": "Biryani Rice",
+                              "imageId": "g45or0ks8gx7bmq3xmru",
+                              "isVeg": 1,
+                              "price": 11500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367766",
+                              "name": "Khichada",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367767",
+                              "name": "Butter Khichada",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367769",
+                              "name": "Khichada Tadka",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367771",
+                              "name": "Veg Pulav",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "134367772",
+                              "name": "Paneer Pulav",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19675548",
+                              "name": "Veg Biryani",
+                              "imageId": "tityisp0jvzxiasvrnxx",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Kaka Ka Dhaba",
+                      "area": "Lekha Nagar",
+                      "completeAddress": "Shop No. 9 & 10, Mumbai Agra Road, Pathardi Phata, Nashik"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

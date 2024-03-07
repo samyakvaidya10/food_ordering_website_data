@@ -1,0 +1,2376 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "328616",
+              "name": "Veg Aroma",
+              "cuisines": [
+                "South Indian",
+                "Chinese"
+              ],
+              "veg": true,
+              "nudgeBanners": [
+                {
+                  "minValue": 174,
+                  "maxValue": 249,
+                  "priority": 1,
+                  "couponCode": "SUPERSAVER",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 125
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code SUPERSAVER",
+                  "unlockedMessage": "SUPERSAVER Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {}
+                },
+                {
+                  "minValue": 314,
+                  "maxValue": 449,
+                  "priority": 2,
+                  "couponCode": "MEGASAVER",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 175
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹175 | Code MEGASAVER",
+                  "unlockedMessage": "MEGASAVER Coupon Unlocked! Use it to save ₹175",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398886",
+                              "name": "Paneer Tikka Masala",
+                              "category": "Indian Main Course",
+                              "description": "Barbecued paneer in a creamy tomato gravy.",
+                              "imageId": "w69c08eolpycs5gkm7mo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 30000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "282 ratings",
+                                  "ratingCountV2": "282"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398880",
+                              "name": "Palak Paneer",
+                              "category": "Indian Main Course",
+                              "description": "A classic paneer dish made in a thick paste made from pured spinach & seasoned with garlic, garam masala & other spices.",
+                              "imageId": "brptg1hhjqkn8mz7wqzz",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "66 ratings",
+                                  "ratingCountV2": "66"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398873",
+                              "name": "Paneer Bhurji",
+                              "category": "Indian Main Course",
+                              "description": "A semi dry combination of crumbled of grated paneer.",
+                              "imageId": "piepmkz2s5iamjhkwerw",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "57 ratings",
+                                  "ratingCountV2": "57"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398874",
+                              "name": "Paneer Kofta",
+                              "category": "Indian Main Course",
+                              "description": "Grated paneerballs cooked in mughlai gravy.",
+                              "imageId": "vpwsq4cs7rj4wpmmqfbp",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 30500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "26 ratings",
+                                  "ratingCountV2": "26"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398901",
+                              "name": "Paneer Butter Masala",
+                              "category": "Indian Main Course",
+                              "description": "Soft pieces of paneer cooked in rich creamy butter & tomato gravy.",
+                              "imageId": "iltcqhzjraqltqx5slyy",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 30000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "371 ratings",
+                                  "ratingCountV2": "371"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398899",
+                              "name": "Paneer Tufani",
+                              "category": "Indian Main Course",
+                              "description": "A deliciouscurry made with paneer & tomato based spicy gravy with indian curry spices.",
+                              "imageId": "t888jrfi99ul9mcnnoa6",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 29000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "92 ratings",
+                                  "ratingCountV2": "92"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398895",
+                              "name": "Paneer Lahori",
+                              "category": "Indian Main Course",
+                              "description": "Shallow fry, roasted paneer cooked in rich creamy tomato gravy.",
+                              "imageId": "ffepewxtjjn18pd5bwju",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "63 ratings",
+                                  "ratingCountV2": "63"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398945",
+                              "name": "Veg Kolhapuri",
+                              "category": "Indian Main Course",
+                              "description": "A spicy mixture of indian cottage cheese cooked in kolhapuri spices fresh herbs and shahi style gravy.",
+                              "imageId": "e2b2uubhtz4sxhpy3hvk",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "92 ratings",
+                                  "ratingCountV2": "92"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398955",
+                              "name": "Paneer Kolhapuri",
+                              "category": "Indian Main Course",
+                              "description": "A spicy mixture of indian cottage cheese cooked in kolhapuri spices fresh herbs and shahi style gravy.",
+                              "imageId": "ex8tg6vhiceddovavokl",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "401 ratings",
+                                  "ratingCountV2": "401"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62399070",
+                              "name": "Veg Kofta Curry",
+                              "category": "Indian Main Course",
+                              "description": "Deep fried mixed vegetable bals served with a smooth & delicious onion gravy.",
+                              "imageId": "ikrkc7fu6eyoczjnd6gr",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 29000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "72 ratings",
+                                  "ratingCountV2": "72"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62399059",
+                              "name": "Kaju Masala",
+                              "category": "Indian Main Course",
+                              "description": "Roasted cashew nuts (kaju) & cooked in onion, spices based rich & creamy gravy.",
+                              "imageId": "jo5gukgic2d6ckptjeqv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "112 ratings",
+                                  "ratingCountV2": "112"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62399024",
+                              "name": "Jeera Aloo",
+                              "category": "Indian Main Course",
+                              "description": "Boiled potatoes tossed in simple masala and plenty of coarsely crushed roasted cumin seeds.",
+                              "imageId": "mf4jtneppztl2aec1bf9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 24000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.9",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62399051",
+                              "name": "Dum Aloo Punjabi",
+                              "category": "Indian Main Course",
+                              "description": "Fried potatoes cooked in spice rich, creamy yoghurt gravy.",
+                              "imageId": "hkd0bb6mqoklgvzrx3vj",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "49 ratings",
+                                  "ratingCountV2": "49"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398997",
+                              "name": "Veg Patiala",
+                              "category": "Indian Main Course",
+                              "description": "A great combination of boiled mixed vegetables & wholesome punjab de flavours.",
+                              "imageId": "d0ocguasvh4fkdqaksnk",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "70 ratings",
+                                  "ratingCountV2": "70"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62399018",
+                              "name": "Malai Kofta",
+                              "category": "Indian Main Course",
+                              "description": "Cottage cheese ball dumplings deep fried & simmered in a rich creamy gravy.",
+                              "imageId": "yliwgooif0mgdhsoumnx",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 32000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "22 ratings",
+                                  "ratingCountV2": "22"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398812",
+                              "name": "Veg Handi",
+                              "category": "Indian Main Course",
+                              "description": "Veggies like cauliflower, carrot, beans, green peas, potatoes cooked in onion & tomato based gravy and flavoured with aromatic spices.",
+                              "imageId": "vkxlbnood5fhm8okfj1e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.1",
+                                  "ratingCount": "29 ratings",
+                                  "ratingCountV2": "29"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398789",
+                              "name": "Veg Kadhai",
+                              "category": "Indian Main Course",
+                              "description": "Mixed vegetables sauteed in kadai first and mixed with freshly ground kadai masala.",
+                              "imageId": "yri87tlqv2qmq4hmfcug",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 26500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "42 ratings",
+                                  "ratingCountV2": "42"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398781",
+                              "name": "Paneer Kadhai",
+                              "category": "Indian Main Course",
+                              "description": "Mixed vegetables sauteed in kadai first and mixed with freshly ground kadai masala.",
+                              "imageId": "s1o0o5rimme08bgkfmpw",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "22 ratings",
+                                  "ratingCountV2": "22"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398917",
+                              "name": "Veg Makhanwala",
+                              "category": "Indian Main Course",
+                              "description": "Mixed vegetables are simmered in creamy, buttery tomato gravy.",
+                              "imageId": "ltt9gay0ezgocmevjjmw",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 26500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "78 ratings",
+                                  "ratingCountV2": "78"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398920",
+                              "name": "Kaju Curry",
+                              "category": "Indian Main Course",
+                              "description": "Roasted cashew nuts (kaju) & cooked in rich creamy white gravy.",
+                              "imageId": "kz3rjjzyhhscf7c5t6jl",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 30500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.8",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Indian Main Course",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399039",
+                              "name": "Veg Kabab Masala328616",
+                              "description": "Grilled kababs along with choppped onins, garlic paste, ginger cooked in thick onion gravy.",
+                              "isVeg": 1,
+                              "price": 29500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398803",
+                              "name": "Veg Pahadi Kofta328616",
+                              "description": "Deep fried mixed vegetable bals served with a smooth & delicious spinach gravy.",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398921",
+                              "name": "Aroma Lazeez",
+                              "description": "Triangular pieces of cottage cheese separated by spinach and herbs stuffing tossed in chatpata red gravy.",
+                              "isVeg": 1,
+                              "price": 36000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398886",
+                              "name": "Paneer Tikka Masala",
+                              "description": "Barbecued paneer in a creamy tomato gravy.",
+                              "imageId": "w69c08eolpycs5gkm7mo",
+                              "isVeg": 1,
+                              "price": 30000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398888",
+                              "name": "Dhaba Tawa Paneer",
+                              "description": "A semi dry preparation of marinated paneer with common spices & spice powders, tomato pulp & fresh cream.",
+                              "isVeg": 1,
+                              "price": 32500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398887",
+                              "name": "Paneer Lachedar",
+                              "description": "Paneer, capsicum, onion, tomato prepared in makhani sauce.",
+                              "isVeg": 1,
+                              "price": 30500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398882",
+                              "name": "Paneer Majestic (Chef Special)",
+                              "description": "Paneer marinated in cheese, yoghurt tossed with veggies in  a cream & onion mixture.",
+                              "isVeg": 1,
+                              "price": 31500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117187520",
+                              "name": "Paneer Lababdar     ",
+                              "description": "A luscious combination of paneer & exotic gravy made from tomato pure, chopped onion, cashew nut & spices.",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398878",
+                              "name": "Paneer Shahjahani",
+                              "description": "A luscious creamy paneer cooked with curd in the style of mughlai delicacy.",
+                              "isVeg": 1,
+                              "price": 32000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398880",
+                              "name": "Palak Paneer",
+                              "description": "A classic paneer dish made in a thick paste made from pured spinach & seasoned with garlic, garam masala & other spices.",
+                              "imageId": "brptg1hhjqkn8mz7wqzz",
+                              "isVeg": 1,
+                              "price": 28500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398873",
+                              "name": "Paneer Bhurji",
+                              "description": "A semi dry combination of crumbled of grated paneer.",
+                              "imageId": "piepmkz2s5iamjhkwerw",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398876",
+                              "name": "Paneer Kali Mirchi",
+                              "description": "Creamy paneer dish is cooked in vacuum dum to infuse the properly flavour of fresh black pepper.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398874",
+                              "name": "Paneer Kofta",
+                              "description": "Grated paneerballs cooked in mughlai gravy.",
+                              "imageId": "vpwsq4cs7rj4wpmmqfbp",
+                              "isVeg": 1,
+                              "price": 30500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398901",
+                              "name": "Paneer Butter Masala",
+                              "description": "Soft pieces of paneer cooked in rich creamy butter & tomato gravy.",
+                              "imageId": "iltcqhzjraqltqx5slyy",
+                              "isVeg": 1,
+                              "price": 30000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398904",
+                              "name": "Paneer Bhurji Korma",
+                              "description": "Crumbled paneer cooked in mild brown mughlai style gravy.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398898",
+                              "name": "Paneer Mushroom Masala",
+                              "description": "Paneer & mushroom cooked in rich creamy onion gravy.",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398897",
+                              "name": "Paneer Khada Masala",
+                              "description": "Paneer cubes simmered in spicy, slighty tangy, delicious gravy mixed with freshly ground masala.",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398899",
+                              "name": "Paneer Tufani",
+                              "description": "A deliciouscurry made with paneer & tomato based spicy gravy with indian curry spices.",
+                              "imageId": "t888jrfi99ul9mcnnoa6",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398896",
+                              "name": "Veg Lahori",
+                              "description": "Shallow fry, roasted paneer cooked in rich creamy tomato gravy.",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398895",
+                              "name": "Paneer Lahori",
+                              "description": "Shallow fry, roasted paneer cooked in rich creamy tomato gravy.",
+                              "imageId": "ffepewxtjjn18pd5bwju",
+                              "isVeg": 1,
+                              "price": 28000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398890",
+                              "name": "Shahi Paneer",
+                              "description": "Preparation of paneer in a thick gravy made up of cream and sweet cashew gravy.",
+                              "isVeg": 1,
+                              "price": 32000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398945",
+                              "name": "Veg Kolhapuri",
+                              "description": "A spicy mixture of indian cottage cheese cooked in kolhapuri spices fresh herbs and shahi style gravy.",
+                              "imageId": "e2b2uubhtz4sxhpy3hvk",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398955",
+                              "name": "Paneer Kolhapuri",
+                              "description": "A spicy mixture of indian cottage cheese cooked in kolhapuri spices fresh herbs and shahi style gravy.",
+                              "imageId": "ex8tg6vhiceddovavokl",
+                              "isVeg": 1,
+                              "price": 28500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399070",
+                              "name": "Veg Kofta Curry",
+                              "description": "Deep fried mixed vegetable bals served with a smooth & delicious onion gravy.",
+                              "imageId": "ikrkc7fu6eyoczjnd6gr",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399059",
+                              "name": "Kaju Masala",
+                              "description": "Roasted cashew nuts (kaju) & cooked in onion, spices based rich & creamy gravy.",
+                              "imageId": "jo5gukgic2d6ckptjeqv",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399024",
+                              "name": "Jeera Aloo",
+                              "description": "Boiled potatoes tossed in simple masala and plenty of coarsely crushed roasted cumin seeds.",
+                              "imageId": "mf4jtneppztl2aec1bf9",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399051",
+                              "name": "Dum Aloo Punjabi",
+                              "description": "Fried potatoes cooked in spice rich, creamy yoghurt gravy.",
+                              "imageId": "hkd0bb6mqoklgvzrx3vj",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399007",
+                              "name": "Tawa Veg",
+                              "description": "Tawa bhaji is a delicious combination of seasonal vegetables cooked in an indian griddle pan.",
+                              "isVeg": 1,
+                              "price": 28000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398997",
+                              "name": "Veg Patiala",
+                              "description": "A great combination of boiled mixed vegetables & wholesome punjab de flavours.",
+                              "imageId": "d0ocguasvh4fkdqaksnk",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399021",
+                              "name": "Veg Angara",
+                              "description": "A versatile dish of mixed vegetable curry cooked in spicy tomato gravy.",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399018",
+                              "name": "Malai Kofta",
+                              "description": "Cottage cheese ball dumplings deep fried & simmered in a rich creamy gravy.",
+                              "imageId": "yliwgooif0mgdhsoumnx",
+                              "isVeg": 1,
+                              "price": 32000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398960",
+                              "name": "Veg Diwani Handi",
+                              "description": "Indian mix vegetable curry simmered in creamy tomato gravy.",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398983",
+                              "name": "Veg Kheema Masala",
+                              "description": "Veg kheema is a tender dish prepared with soya granules, peas & spices.",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398804",
+                              "name": "Veg Bhuna Masala",
+                              "description": "Mixture of onion, tomato, herbs and spices made into thick paste like gravy.",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398816",
+                              "name": "Mattar Mushroom Lababdar",
+                              "description": "Sauteed mushrooms & boiled green peas are simmered in creamy spicy onion tomato gravy.",
+                              "isVeg": 1,
+                              "price": 30500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398812",
+                              "name": "Veg Handi",
+                              "description": "Veggies like cauliflower, carrot, beans, green peas, potatoes cooked in onion & tomato based gravy and flavoured with aromatic spices.",
+                              "imageId": "vkxlbnood5fhm8okfj1e",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398809",
+                              "name": "Methi Mattar Malai",
+                              "description": "A rice dish made from freshly chopped fenugreek leaves (methi leaves), green peas, cream cooked in a sweet cashew gravy.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398789",
+                              "name": "Veg Kadhai",
+                              "description": "Mixed vegetables sauteed in kadai first and mixed with freshly ground kadai masala.",
+                              "imageId": "yri87tlqv2qmq4hmfcug",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398781",
+                              "name": "Paneer Kadhai",
+                              "description": "Mixed vegetables sauteed in kadai first and mixed with freshly ground kadai masala.",
+                              "imageId": "s1o0o5rimme08bgkfmpw",
+                              "isVeg": 1,
+                              "price": 28000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398793",
+                              "name": "Navratan Korma",
+                              "description": "A delectable assortment of vegetables & fruits in an intense gravy burgeoning with cashew paste & cream.",
+                              "isVeg": 1,
+                              "price": 32000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398792",
+                              "name": "Aloo Gobi Dry",
+                              "description": "A classic dry cauliflower potato based vegetable.",
+                              "isVeg": 1,
+                              "price": 24500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398737",
+                              "name": "Kaju Mattar Ki Shami",
+                              "description": "Roasted cashew nuts (kaju) & green peas cooked in a tomato, onion & spices based riceh & creamy gravy.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398918",
+                              "name": "Veg Hyderabadi",
+                              "description": "A wide assortment of veggies, with different flavours & textures cooked in cream, spinach and onion gravy mildly spicy taste.",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398917",
+                              "name": "Veg Makhanwala",
+                              "description": "Mixed vegetables are simmered in creamy, buttery tomato gravy.",
+                              "imageId": "ltt9gay0ezgocmevjjmw",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398920",
+                              "name": "Kaju Curry",
+                              "description": "Roasted cashew nuts (kaju) & cooked in rich creamy white gravy.",
+                              "imageId": "kz3rjjzyhhscf7c5t6jl",
+                              "isVeg": 1,
+                              "price": 30500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398913",
+                              "name": "Baby corn Masala",
+                              "description": "A fiercy combination of baby corn cooked in thick brown onion and cashew gravy tossed with herbs & spices.",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398916",
+                              "name": "Dingri Mattar",
+                              "description": "A delicious combination of green peas and mushroom mixed in thick gravy which combines of spices, a generous of curds and opuient paste of cashews and poppy seeds.",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398912",
+                              "name": "Veg Do Pyaza",
+                              "description": "An assortment of mixed veggies combined with tangy tomato pulp with a pungent onion garlic paste tossd in aromatic spices.",
+                              "imageId": "fymaggnbmia4hhqhvipz",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398906",
+                              "name": "Paneer Do Pyaza",
+                              "description": "An assortment of mixed veggies combined with tangy tomato pulp with a pungent onion garlic paste tossd in aromatic spices.",
+                              "imageId": "j5hwxtk1ru0gmz9rcpla",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398933",
+                              "name": "Mix Veg",
+                              "description": "A classic mixture of veggies served in brown gravy.",
+                              "imageId": "lh6ziu28riwkgjunilkl",
+                              "isVeg": 1,
+                              "price": 28000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121958677",
+                              "name": "Chana Masala",
+                              "description": "A flavorful and satisfying vegetarian main course.",
+                              "isVeg": 1,
+                              "price": 28000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Indian Breads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399053",
+                              "name": "Tandoori Naan328616",
+                              "isVeg": 1,
+                              "price": 4000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399062",
+                              "name": "Chapati",
+                              "description": "A satisfying main course filled with savory flavors.",
+                              "isVeg": 1,
+                              "price": 2500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399049",
+                              "name": "Butter Tandoori Naan328616",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399084",
+                              "name": "Butter Chapati",
+                              "description": "Flaky, warm, and golden-brown, this buttery roti is irresistible.",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399081",
+                              "name": "Tandoori Roti",
+                              "description": "A freshly baked flatbread straight from the tandoor oven- perfect for scooping up rich, flavorful curries.",
+                              "isVeg": 1,
+                              "price": 2500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399079",
+                              "name": "Butter Tandoori Roti",
+                              "description": "Soft and buttery tandoori roti, perfect to pair with any veggie curry!",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399050",
+                              "name": "Garlic Naan",
+                              "description": "A fragrant Indian bread with a perfectly crispy exterior and soft, buttery interior.",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399046",
+                              "name": "Cheese Butter Garlic Naan",
+                              "isVeg": 1,
+                              "price": 6500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398760",
+                              "name": "Laccha Paratha",
+                              "description": "A flaky, layered, and buttery Indian flatbread.",
+                              "imageId": "xj4vnxcpxlcdpttziyib",
+                              "isVeg": 1,
+                              "price": 3500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398757",
+                              "name": "Butter Laccha Paratha",
+                              "description": "A flaky, buttery delight that melts in your mouth and leaves you wanting more.",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398750",
+                              "name": "Tawa Paratha",
+                              "description": "A flaky, layered bread cooked on a griddle.",
+                              "isVeg": 1,
+                              "price": 4000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398775",
+                              "name": "Paratha with Dal Makhani",
+                              "description": "Aloo, Paneer, Pudina, Methi, Onion, Aloo-Methi, Gobi served with Curd & Chutney",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398768",
+                              "name": "Kulcha",
+                              "description": "A mouthwatering Roti dish with a unique texture and a delectable flavor.",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398765",
+                              "name": "Butter Kulcha",
+                              "description": "A soft and buttery Indian bread, freshly baked in a tandoor oven.",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398766",
+                              "name": "Cheese Kulcha",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398733",
+                              "name": "Onion Kulcha",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398726",
+                              "name": "Masala Kulcha",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398728",
+                              "name": "Amritsari Kulcha",
+                              "description": "A mouthwatering Punjabi paratha dish that's perfect for a quick and satisfying meal.",
+                              "isVeg": 1,
+                              "price": 9000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117187546",
+                              "name": "Steam Rice ",
+                              "isVeg": 1,
+                              "price": 13000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398778",
+                              "name": "Stuffed Paratha",
+                              "description": "Aloo, Paneer, Pudina, Methi, Onion, Aloo-Methi, Gobi served with Curd & Chutney",
+                              "imageId": "nad2uk6iewot99laijnz",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Maharashtrian Delicacies",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399065",
+                              "name": "Jowari Bhakri328616",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398977",
+                              "name": "Pithala",
+                              "description": "Fresh and tender mushrooms are marinated in a flavorful coating and tandoored.",
+                              "isVeg": 1,
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398805",
+                              "name": "Lasooni Methi",
+                              "description": "A savory and fragrant vegetarian main course featuring fresh fenugreek leaves and garlic.",
+                              "isVeg": 1,
+                              "price": 22500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398957",
+                              "name": "Shev Bhaji",
+                              "description": "A savory and flavorful vegetable stew perfect for any mealtime.",
+                              "imageId": "vurzvpjh2zegm1x0zrye",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399066",
+                              "name": "Bajri Bhakri",
+                              "description": "A hearty bread perfect for soaking up flavorful curries and stews.",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398952",
+                              "name": "Veg Maratha",
+                              "description": "A flavorful vegetarian main course that will transport your taste buds to Maharashtra.",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Papad",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398724",
+                              "name": "Roasted Papad",
+                              "description": "Crispy and flavorful roasted goodness, perfect to start your meal.",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398720",
+                              "name": "Nagli Fry Papad",
+                              "isVeg": 1,
+                              "price": 3500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398742",
+                              "name": "Rumali Khakra",
+                              "description": "A crispy and flavorful vegetarian starter.",
+                              "imageId": "zkmiaukqyhfnj6mrih4s",
+                              "isVeg": 1,
+                              "price": 18500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Raita",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62398762",
+                              "name": "Plain Curd",
+                              "category": "Raita",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.9",
+                                  "ratingCount": "47 ratings",
+                                  "ratingCountV2": "47"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Chinese Appetizers",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398969",
+                              "name": "Paneer Chilly",
+                              "description": "A stir fry of deep fried cottage cheese cubes with green capsicum, chillies, onion, garlic & delicious chinese sauces.",
+                              "imageId": "phyjjn4hsn0rmhyoe5nj",
+                              "isVeg": 1,
+                              "price": 28500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398970",
+                              "name": "Veg Crispy",
+                              "description": "Fresh vegetables marinated in sweet garlic sauce.",
+                              "imageId": "hxijpfu5qwjiws1pyssr",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398966",
+                              "name": "Soyabean Chilly",
+                              "description": "Proteinacious soyabean nuggets coated with a tangy gravy made from tomato sauce & soy sauce.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398963",
+                              "name": "Paneer Satay",
+                              "description": "Type of indonesian grilled kebab, morsels of paneer seasoned in fragrant thai herbs & spices, grilled on a skewer, best paired with sweet & spicy peanut sauce.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398986",
+                              "name": "Veg 65",
+                              "description": "Made with mixed vegetables and flavoured with vinegar, soy sauce & chilli sauce.",
+                              "isVeg": 1,
+                              "price": 25500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398976",
+                              "name": "Veg Manchurian",
+                              "description": "Veggies fried & cooked in garlic, chilly & manchurian sauce, garnished with coriander.",
+                              "imageId": "kohoivxcbbdzwzv30ara",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398978",
+                              "name": "Paneer Manchurian",
+                              "description": "Tasty indo chinese snack of pan fried paneer cubes coated with a spicy, sweet & tangy sauce.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398871",
+                              "name": "Paneer 65",
+                              "description": "Made with deep fried paneer pakodas sauteed in a stir fry with chillies & onions.",
+                              "imageId": "gcacbhew8madh67nfrde",
+                              "isVeg": 1,
+                              "price": 29500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398867",
+                              "name": "Paneer Sesame Honey Chilli",
+                              "description": "Deep fried mix of veggies pepped with soy sauce layered a top paneer cubes, topped with a sprikling of sesame seeds.",
+                              "isVeg": 1,
+                              "price": 30500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398980",
+                              "name": "Kung Fu Potato",
+                              "description": "Dice cut potatoes, deep fried in thai sauce.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398870",
+                              "name": "Paneer Chilly Garlic",
+                              "description": "Deep fried cottage cheese cubes tossed in green capsicum, chillies, onion, garlic & delicious chinese sauces.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398869",
+                              "name": "Mushroom Manchurian",
+                              "description": "Manchurian prepared from wild mushrooms, green chilli and onion garnished with spring onion.",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398864",
+                              "name": "Mushroom Chilly",
+                              "description": "Deep fried mushrooms mixed with garlic, green chilli & dry red chilli tossed in soy sauce, vinegar served with spring onion to enhance its taste.",
+                              "isVeg": 1,
+                              "price": 27500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398964",
+                              "name": "Veg Spring Roll",
+                              "description": "Deep fried vegetable rolls.",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Clay Oven Appetizers",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399068",
+                              "name": "Paneer Dhanari Tikka",
+                              "description": "Paneer cooked in tandoor style, marinated in coriander & green chilly.",
+                              "isVeg": 1,
+                              "price": 28500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399086",
+                              "name": "Paneer Achari Tikka",
+                              "description": "Shallow fried paneer cubes tempered with pickle, yogurt and other exotic ingredients.",
+                              "isVeg": 1,
+                              "price": 28500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398865",
+                              "name": "Baby Corn Tandoori",
+                              "description": "Baby corn marinated in spicy herbs grilled in tandoor.",
+                              "isVeg": 1,
+                              "price": 30000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398859",
+                              "name": "Lasooni Dhingri",
+                              "description": "Button mushroom flavoured with garlic, roasted in tandoor.",
+                              "isVeg": 1,
+                              "price": 30500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Chinese Rice & Noodles",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398833",
+                              "name": "Veg Hakka Noodles",
+                              "description": "Noodles & julienne of vegetables sauteed with soy sauce.",
+                              "imageId": "vsetnil8hgcdqoi4qsdf",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398836",
+                              "name": "Veg Schezwan Noodles",
+                              "description": "Noodles cooked in hot & spicy schezwan sauce.",
+                              "imageId": "wjgnfwr32zn7tm5rgaa6",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398835",
+                              "name": "Veg Hong Kong Noodles",
+                              "description": "Vegetable hong kong style with fried noodles. A light vegetarian stir fry dish that is flavourful, colourful, substantial & healthy.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398714",
+                              "name": "Burnt Garlic Fried Rice",
+                              "description": "Boiled rice tossed with burnt garlic and spring onion.",
+                              "imageId": "ufpsrryq72hl4x5skv6b",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398713",
+                              "name": "Burnt Garlic Noodles",
+                              "description": "Boiled noodles tossed with burnt garlic and spring onion.",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398716",
+                              "name": "Veg Fried Rice",
+                              "description": "An assortment of fried vegetables mixed with rice, tossed in spicy indo chinese sauces.",
+                              "imageId": "cku38ryd5pl8uztajpvm",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398715",
+                              "name": "Veg Schezwan Fried Rice",
+                              "description": "An assortment of fried vegetables mixed with rice, tossed in spicy schezwan sauce.",
+                              "imageId": "hj8haipyzscaqqrllgpl",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398712",
+                              "name": "Veg Triple Schezwan Fried Rice",
+                              "description": "An assortment of fried vegetables mixed with rice & noodles, tossed in spicy schezwan sauce.",
+                              "imageId": "nmlivwmxibsg9oqyzyzm",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398946",
+                              "name": "Veg Manchurian Rice",
+                              "description": "Minced and grated vegetable balls dipped in thick veggie sauce, served with fried rice.",
+                              "imageId": "lq9pxnie8nenn9pwfvrw",
+                              "isVeg": 1,
+                              "price": 27000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398958",
+                              "name": "Veg Manchurian Gravy",
+                              "description": "Deep fried vegetable balls in a soya sauce based gravy, manchurian balls consists of cabbage, carrots and onions.",
+                              "imageId": "vqhcfxcnenzrbgxazqge",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62399069",
+                              "name": "Veg Hong Kong Rice",
+                              "description": "Cooked rice stir fried in ginger, garlic red chilly & tossed in soy, vinegar, chilly sauce, salt & pepper.",
+                              "isVeg": 1,
+                              "price": 25500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Dal",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398935",
+                              "name": "Dal Tadka",
+                              "description": "A comforting and aromatic lentil dish with a rich and flavorful sauce.",
+                              "imageId": "xic0ilnrlhrbdmusfbqr",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398930",
+                              "name": "Dal Fry",
+                              "description": "A comforting and flavorful Punjabi dish made with lentils.",
+                              "imageId": "rbtqrxefaxbuwzzdutkb",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398929",
+                              "name": "Dal Dhaba",
+                              "isVeg": 1,
+                              "price": 20500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398931",
+                              "name": "Dal Bukhara",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398926",
+                              "name": "Dal Kolhapuri",
+                              "description": "A savory and flavorful Indian lentil dish with a rich, aromatic sauce.",
+                              "isVeg": 1,
+                              "price": 19500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398925",
+                              "name": "Palak Dal",
+                              "isVeg": 1,
+                              "price": 19500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398927",
+                              "name": "Dal Makhani",
+                              "description": "A rich and creamy vegetarian main dish.",
+                              "imageId": "klpucwwzv9v0xnyd5v5s",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117187545",
+                              "name": "Dal Maharani",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Basmati Khazana",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398719",
+                              "name": "Jeera Rice",
+                              "description": "Aromatic rice dish with warm and earthy flavors.",
+                              "imageId": "fazzwsbzu78pltor1vkn",
+                              "isVeg": 1,
+                              "price": 20500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398721",
+                              "name": "Curd Rice",
+                              "description": "A creamy and savory rice dish that melts in your mouth.",
+                              "imageId": "m0uv5mnnwcn9u8wpm5av",
+                              "isVeg": 1,
+                              "price": 20500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398747",
+                              "name": "Masala Rice",
+                              "description": "Aromatic Basmati rice infused with warm Indian spices.",
+                              "imageId": "imx7faits93cauq02nhv",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398749",
+                              "name": "Lemon Rice",
+                              "description": "A tangy and refreshing rice dish bursting with citrusy flavor.",
+                              "imageId": "eqdb3wmwkt98ddaya83a",
+                              "isVeg": 1,
+                              "price": 21500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398743",
+                              "name": "Dal Khichdi",
+                              "description": "A comforting vegetarian main course.",
+                              "imageId": "zsq4ducbf2dpdk7k2sox",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398745",
+                              "name": "Butter Dal Khichdi",
+                              "description": "A comforting, aromatic blend of rice and lentils cooked in butter.",
+                              "imageId": "mgvdj3xbm5pgwumkefil",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398739",
+                              "name": "Dal Khichdi Tadka",
+                              "description": "A comforting bowl of seasoned rice and lentils with a flavorful touch.",
+                              "imageId": "dj1ipi4qnoejoklsfqwj",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398741",
+                              "name": "Veg Pulao",
+                              "description": "Fragrant rice dish with a delicious selection of vegetables.",
+                              "imageId": "vhfvcdg4bwar5tnrlolp",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398735",
+                              "name": "Peas Pulao",
+                              "isVeg": 1,
+                              "price": 23500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398944",
+                              "name": "Navratna Pulao",
+                              "isVeg": 1,
+                              "price": 24500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398942",
+                              "name": "Shahajani Pulao",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398937",
+                              "name": "Tawa Pulao",
+                              "description": "Aromatic and flavorful vegetable-infused rice cooked to perfection on a seasoned tawa.",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398939",
+                              "name": "Veg Biryani",
+                              "description": "A flavorful Indian rice dish with mixed vegetables.",
+                              "imageId": "qdaukzgqen06bfkzggk9",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398954",
+                              "name": "Hyderabadi Biryani",
+                              "description": "Aromatic basmati rice filled with layers of deliciousness.",
+                              "imageId": "kcte16t0bjavx6xbg7lo",
+                              "isVeg": 1,
+                              "price": 26500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398951",
+                              "name": "Dum Ka Parda Biryani",
+                              "isVeg": 1,
+                              "price": 28500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Punjabi Delicacies",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "62398962",
+                              "name": "Rajma Chawal",
+                              "description": "A classic and comforting rice dish from North India with a rich and satisfying bean gravy.",
+                              "imageId": "z3029p3v1fsreh8igih7",
+                              "isVeg": 1,
+                              "price": 20500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Veg Aroma",
+                      "area": "Bhujbal Farm",
+                      "completeAddress": "Shop no 11, M QASIM VILLA , BHUJBAL FARM , MUMBAI AGRA HIGHWAY 422006"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "354972",
+              "name": "Samarth Juice Centre",
+              "cuisines": [
+                "Juices",
+                "Ice Cream"
+              ],
+              "veg": true
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66147351",
+                              "name": "Pineapple Ice Cream Sharbat",
+                              "category": "Main Course",
+                              "description": "A delightfully flavorful combo with mouthwatering refreshing pineapple juice and ice cream",
+                              "imageId": "qcpknwiiad4t2703wwer",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6200,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "1985 ratings",
+                                  "ratingCountV2": "1985"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Main Course",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "66147351",
+                              "name": "Pineapple Ice Cream Sharbat",
+                              "description": "A delightfully flavorful combo with mouthwatering refreshing pineapple juice and ice cream",
+                              "imageId": "qcpknwiiad4t2703wwer",
+                              "isVeg": 1,
+                              "price": 6200
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Samarth Juice Centre",
+                      "area": "Riviravr Karanja",
+                      "completeAddress": "opp to Pandurang Niwas, near chandicha ganpati, Raviwar Karanja, Panchavati, Nashik, Maharashtra 422001"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

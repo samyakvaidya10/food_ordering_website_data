@@ -1,0 +1,2251 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "145611",
+              "name": "Kokni Darbar",
+              "cuisines": [
+                "Biryani",
+                "North Indian"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917858",
+                              "name": "Veg Manchurian",
+                              "category": "Chinese",
+                              "description": "An irresistible Chinese delight made with fresh vegetables.",
+                              "imageId": "8328aa7c39691d7b50df61924fb4da04",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489869",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563833",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 21000,
+                                        "id": "11563834",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "39 ratings",
+                                  "ratingCountV2": "39"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917885",
+                              "name": "Veg Paneer Chilli",
+                              "category": "Chinese",
+                              "description": "A delightful blend of Asian flavors and textures with natural ingredients that will tantalize the senses.",
+                              "imageId": "muwbsniyelk3we160wux",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 27000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489886",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563868",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 29000,
+                                        "id": "11563869",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "63 ratings",
+                                  "ratingCountV2": "63"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917908",
+                              "name": "Chicken Taj Chilli",
+                              "category": "Chinese",
+                              "description": "A delectable Chinese delight featuring tender chicken seasoned with flavorful spices.",
+                              "imageId": "af29b901930734e7346dead27c29821c",
+                              "inStock": 1,
+                              "price": 34000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489905",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563908",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 15000,
+                                        "id": "11563909",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917919",
+                              "name": "Chicken Tango Chilli",
+                              "category": "Chinese",
+                              "description": "A tantalizing Chinese delight featuring tender chicken, infused with flavorful seasonings that dance on your taste buds with every bite.",
+                              "imageId": "be544b9a21cea38f771e0df42b715e9e",
+                              "inStock": 1,
+                              "price": 34000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489916",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563930",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 15000,
+                                        "id": "11563931",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917698",
+                              "name": "Chicken Mango Chilli",
+                              "category": "Chinese",
+                              "description": "A delectable blend of tender chicken and sweet mango, infused with traditional Chinese flavors.",
+                              "imageId": "hf9ubwo2p4iorhwzca1b",
+                              "inStock": 1,
+                              "price": 34000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489749",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563593",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 15000,
+                                        "id": "11563595",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "182 ratings",
+                                  "ratingCountV2": "182"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917711",
+                              "name": "Chicken Kashmiri Chilli",
+                              "category": "Chinese",
+                              "description": "A bold and flavorful chicken dish with a unique Kashmiri twist.",
+                              "imageId": "0b108e895b5e772feee482252728cd50",
+                              "inStock": 1,
+                              "price": 34000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489763",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563618",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 15000,
+                                        "id": "11563620",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "59 ratings",
+                                  "ratingCountV2": "59"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917791",
+                              "name": "Chicken Manchurian Gravy",
+                              "category": "Chinese",
+                              "description": "Indulge in tender, juicy chicken soaked in a rich, flavorful gravy that combines savory and tangy flavors!",
+                              "imageId": "e3ab01dd2861d10f469f47164f96a00e",
+                              "inStock": 1,
+                              "price": 32000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489816",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563727",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 17000,
+                                        "id": "11563728",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917730",
+                              "name": "Chicken Lollipop",
+                              "category": "Chinese",
+                              "description": "A succulent Chinese-style chicken dish sure to satisfy your taste buds.",
+                              "imageId": "hw3pqdmvz8drwiccqqjs",
+                              "inStock": 1,
+                              "price": 25000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489777",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563649",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 25000,
+                                        "id": "11563651",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "634 ratings",
+                                  "ratingCountV2": "634"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917934",
+                              "name": "Chicken Chilli Dry",
+                              "category": "Chinese",
+                              "description": "Succulent chicken cooked to perfection, bursting with bold flavors and herbs.",
+                              "imageId": "defgcaq8ivuhntxfqvw0",
+                              "inStock": 1,
+                              "price": 34000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489930",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563958",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 15000,
+                                        "id": "11563959",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "281 ratings",
+                                  "ratingCountV2": "281"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917758",
+                              "name": "Chicken Dry Fry",
+                              "category": "Chinese",
+                              "description": "Tender chicken cooked to perfection, seasoned with flavorful spices.",
+                              "imageId": "6f540e4d6b9ad43bb55e77ca2b094112",
+                              "inStock": 1,
+                              "price": 25000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489794",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563684",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 25000,
+                                        "id": "11563688",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "49 ratings",
+                                  "ratingCountV2": "49"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917792",
+                              "name": "Mutton Dry Fry",
+                              "category": "Chinese",
+                              "description": "Tender mutton pieces roasted to perfection with aromatic spices.",
+                              "imageId": "ec844c182a7db8e7a6242f1064345de0",
+                              "inStock": 1,
+                              "price": 46000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489817",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563730",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 46000,
+                                        "id": "11563732",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "26 ratings",
+                                  "ratingCountV2": "26"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119898232",
+                              "name": "Chicken Tandoori Chilli",
+                              "category": "Chinese",
+                              "description": "A flavorful Chinese non-veg creation showcasing succulent tandoori chicken, infused with a tantalizing blend of aromatic spices.",
+                              "imageId": "54398610b558976c9ecbe5056b1d900e",
+                              "inStock": 1,
+                              "price": 38000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "29705203",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "92860685",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 38000,
+                                        "id": "92860686",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917746",
+                              "name": "Chicken Handi",
+                              "category": "Main Course",
+                              "description": "A succulent non-veg main course that is bursting with rich flavors.",
+                              "imageId": "bfvejiefkvbjwddmwc1v",
+                              "inStock": 1,
+                              "price": 42000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489788",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563670",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 42000,
+                                        "id": "11563671",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "213 ratings",
+                                  "ratingCountV2": "213"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917766",
+                              "name": "Chicken Korma",
+                              "category": "Main Course",
+                              "description": "Creamy chicken in aromatic gravy - a treat for your taste buds!",
+                              "imageId": "29a140757e75b12cef42d1dbe126b2f1",
+                              "inStock": 1,
+                              "price": 23000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489800",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563695",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 23000,
+                                        "id": "11563696",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "50 ratings",
+                                  "ratingCountV2": "50"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917785",
+                              "name": "Chicken Tandoori Masala",
+                              "category": "Main Course",
+                              "description": "Tender chicken cooked in aromatic spices.",
+                              "imageId": "dadb58ff130775c1db75f1fbb061487f",
+                              "inStock": 1,
+                              "price": 38000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489811",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563717",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 38000,
+                                        "id": "11563718",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "336 ratings",
+                                  "ratingCountV2": "336"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917789",
+                              "name": "Chicken Mughlai",
+                              "category": "Main Course",
+                              "description": "A succulent and aromatic chicken dish steeped in rich Mughlai flavors.",
+                              "imageId": "077a5de51d4344d065817ea97a28b611",
+                              "inStock": 1,
+                              "price": 25000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489815",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563723",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 25000,
+                                        "id": "11563725",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "99 ratings",
+                                  "ratingCountV2": "99"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917803",
+                              "name": "Chicken Masala",
+                              "category": "Main Course",
+                              "description": "A tantalizing chicken curry with complex spice flavors, a must try for non-veg lovers.",
+                              "imageId": "20d9a0c12375ef5b9da7b815ddc08c74",
+                              "inStock": 1,
+                              "price": 23000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489826",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563746",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 23000,
+                                        "id": "11563747",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "244 ratings",
+                                  "ratingCountV2": "244"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917964",
+                              "name": "Paneer Masala",
+                              "category": "Main Course",
+                              "description": "A rich and flavorful vegetarian curry with soft and creamy cotton cheese.",
+                              "imageId": "e1963470116baeef9cb18cf83537bc9a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 20000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489957",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11564012",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 20000,
+                                        "id": "11564013",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "169 ratings",
+                                  "ratingCountV2": "169"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917970",
+                              "name": "Shahi Paneer",
+                              "category": "Main Course",
+                              "description": "A rich and creamy vegetarian main course fit for royalty.",
+                              "imageId": "3ac7580c28a0fa655c903ec7ce84c30c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 23000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489963",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11564024",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 23000,
+                                        "id": "11564025",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "24 ratings",
+                                  "ratingCountV2": "24"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917703",
+                              "name": "Chana Masala",
+                              "category": "Main Course",
+                              "description": "A flavorful and satisfying vegetarian main course.",
+                              "imageId": "ww34dwrywjcgtzt5qn2g",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489757",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563609",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 15000,
+                                        "id": "11563610",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "38 ratings",
+                                  "ratingCountV2": "38"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Menu for Sunday",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917817",
+                              "name": "Chicken Kolhapuri",
+                              "category": "Menu for Sunday",
+                              "description": "A flavorful and aromatic chicken dish from Maharashtra that will satisfy your taste buds.",
+                              "imageId": "8699f41adc49d0441600f2a3654ddeb8",
+                              "inStock": 1,
+                              "price": 24000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "3489840",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "11563773",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 24000,
+                                        "id": "11563775",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "163 ratings",
+                                  "ratingCountV2": "163"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119898158",
+                              "name": "Sunday Special Chicken Hyderabadi",
+                              "category": "Menu for Sunday",
+                              "description": "A delectable and comforting Sunday dish featuring succulent chicken prepared to perfection.",
+                              "imageId": "c6a2a24e3142488046ab7c2eb52a47cb",
+                              "inStock": 1,
+                              "price": 24000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "29705152",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "92860571",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 24000,
+                                        "id": "92860572",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Menu for Monday",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119898171",
+                              "name": "Mutton Dragon Gravy145611",
+                              "description": "An exotic and flavorful blend of tender mutton cooked in a savory, rich sauce that will transport your taste buds to new heights.",
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917876",
+                              "name": "Chicken Green",
+                              "description": "Enjoy a mouthwatering, succulent chicken dish bursting with vibrant green flavors, perfect for kicking off your Monday on a delightful note.",
+                              "imageId": "5a8f77a82cb5089b9aed120060d962c3",
+                              "price": 24000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Menu for Tuesday",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917947",
+                              "name": "Chicken Fry Masala",
+                              "description": "Tender chicken marinated in aromatic spices, pan-fried to perfection for a delectable weekday indulgence.",
+                              "imageId": "1955cbd0468324edf6e87b554e017aae",
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119797813",
+                              "name": "Chicken Charbaug",
+                              "description": "Tender chicken infused with flavors that will transport your taste buds on a tantalizing culinary journey.",
+                              "price": 24000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Menu for Thursday",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917918",
+                              "name": "Mutton Stove",
+                              "description": "A slow-cooked delight featuring succulent mutton simmered to perfection, delivering unparalleled flavors and melt-in-your-mouth tenderness.",
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119898187",
+                              "name": "Chicken Dragon Gravy145611",
+                              "description": "A tantalizing blend of tender chicken and rich, flavorful gravy that will leave you craving for more.",
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917920",
+                              "name": "Mutton Fry Masala",
+                              "description": "A mouthwatering combination of tender mutton with aromatic spices, prepared to perfection for a delightful Thursday meal.",
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917922",
+                              "name": "Chicken Kadai",
+                              "description": "A succulent and flavorful chicken delicacy cooked to perfection with aromatic Indian spices, perfect for Thursday's menu.",
+                              "imageId": "46c70a08dfbbd3d2e64d11abb030291e",
+                              "price": 24000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Menu for Friday",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119898190",
+                              "name": "Chicken Kolhapuri                     ",
+                              "category": "Menu for Friday",
+                              "description": "A delectable and flavorsome Friday special that will tantalize your taste buds.",
+                              "inStock": 1,
+                              "price": 24000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "29705168",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "92860615",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 24000,
+                                        "id": "92860616",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "163 ratings",
+                                  "ratingCountV2": "163"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Menu for Saturday",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119898196",
+                              "name": "Chicken Fry Masala               ",
+                              "description": "Tender and flavorful fried chicken in a tantalizing blend of aromatic spices.",
+                              "price": 24000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Special Dry Items",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119797762",
+                              "name": "Mutton Sultan Chilli",
+                              "category": "Special Dry Items",
+                              "description": "An exquisite medley of succulent mutton cooked to perfection, boasting a delicate balance of flavors that will entice your taste buds.",
+                              "inStock": 1,
+                              "price": 52000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "29665166",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "92765230",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 52000,
+                                        "id": "92765233",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119898179",
+                              "name": "Chicken Tangdi Chin Sizzler",
+                              "category": "Special Dry Items",
+                              "description": "Flavorful and succulent chicken dish with an enticing sizzle, perfect for those craving a delectable dry specialty.",
+                              "inStock": 1,
+                              "price": 55000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119898180",
+                              "name": "Chicken Tandoori Biryani Special",
+                              "category": "Special Dry Items",
+                              "description": "Delight in the aromatic blend of flavors from tender, marinated chicken and fragrant basmati rice in this irresistible dry delicacy.",
+                              "imageId": "a57e7367a062615715735c71e647df6b",
+                              "inStock": 1,
+                              "price": 64000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Tandoori Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917709",
+                              "name": "Chicken Tandoori",
+                              "description": "Juicy grilled chicken with smoky flavors awaits in this mouthwatering non-veg starter.",
+                              "imageId": "rev93jheuotbsku74gpk",
+                              "price": 25000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Soups",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917717",
+                              "name": "Chicken Clear Soup",
+                              "description": "A light, flavorful soup featuring tender chunks of chicken.",
+                              "imageId": "f0ba9fe0256e83f7c8534994204434f1",
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917723",
+                              "name": "Chicken Sweet Corn Soup",
+                              "description": "A perfectly hearty soup that combines tender chicken and sweet corn in a warm and savory broth.",
+                              "imageId": "470ad915e5b05d7a57f4f3c99f8bc6d5",
+                              "price": 13500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917734",
+                              "name": "Chicken Manchow Soup",
+                              "description": "A comforting bowl of rich, flavorful broth with chicken and vegetables.",
+                              "imageId": "f0759300d7fa33b3f979dc074fa50621",
+                              "price": 14500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917740",
+                              "name": "Veg Clear Soup",
+                              "description": "This light and refreshing soup is packed with flavorful vegetables.",
+                              "imageId": "56f71bbfe2d5e2d66c6691fbf4413be4",
+                              "isVeg": 1,
+                              "price": 10000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917748",
+                              "name": "Veg Sweet Corn Soup",
+                              "description": "Creamy, flavorful soup with tender sweet corn and fresh vegetables.",
+                              "imageId": "b01d3374c192419f8fdb6b063083c01a",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917760",
+                              "name": "Veg Manchow Soup",
+                              "description": "A warm and flavorful vegetarian soup, perfect for any season.",
+                              "imageId": "74699f3e5161193653044efc7b01cd3c",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119898156",
+                              "name": "Chicken Hot and Sour Soup",
+                              "description": "A hearty and comforting soup with a tangy and savory flavor, perfect for warming up on a chilly day.",
+                              "imageId": "32f8793f2872c9db8287524bd01bb1a1",
+                              "price": 14500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119898217",
+                              "name": "Veg Hot and Sour Soup",
+                              "description": "A tangy and fiery soup that is sure to awaken your taste buds, perfect for any meal.",
+                              "imageId": "8aa17a2b16eda8679c0a42f620d81e96",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Sizzlers",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917863",
+                              "name": "Chicken Hongkong Sizzler",
+                              "category": "Sizzlers",
+                              "description": "An irresistible sizzler bursting with savory flavors, tender chicken takes center stage in this delectable dish.",
+                              "inStock": 1,
+                              "price": 54000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917866",
+                              "name": "Chicken Kashmiri Sizzler",
+                              "category": "Sizzlers",
+                              "description": "Experience the delectable flavors of Chicken Kashmiri Sizzler, a tantalizing non-vegetarian delight bursting with rich aromas and succulent grilled chicken.",
+                              "inStock": 1,
+                              "price": 53000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "31 ratings",
+                                  "ratingCountV2": "31"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917868",
+                              "name": "Chicken Green Sizzler",
+                              "category": "Sizzlers",
+                              "description": "A succulent sizzler bursting with tender chicken and vibrant green flavors that will tantalize your taste buds.",
+                              "inStock": 1,
+                              "price": 54000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119797874",
+                              "name": "Chicken Cumcum Sizzler",
+                              "category": "Sizzlers",
+                              "description": "A sizzling delight of succulent chicken served with a zesty sauce, creating a heavenly combination of flavors.",
+                              "inStock": 1,
+                              "price": 62000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "49374257",
+                              "name": "Prawns Shezwan Sizzler",
+                              "category": "Sizzlers",
+                              "description": "A sizzling delight featuring succulent prawns in a zesty Shezwan sauce.",
+                              "inStock": 1,
+                              "price": 88000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917870",
+                              "name": "Fish Kashmiri Sizzler",
+                              "category": "Sizzlers",
+                              "description": "A delectable sizzler filled with flavorful fish cooked in the exotic Kashmiri style.",
+                              "inStock": 1,
+                              "price": 56000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917872",
+                              "name": "Prawns Sepu Sizzler",
+                              "category": "Sizzlers",
+                              "description": "A sizzling dish of succulent prawns served with a flavorful sauce.",
+                              "inStock": 1,
+                              "price": 88000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917878",
+                              "name": "Prawns Tango Sizzler",
+                              "category": "Sizzlers",
+                              "description": "Experience the tantalizing flavors of succulent prawns on a sizzling plate, igniting your taste buds with a symphony of delectable sensations.",
+                              "inStock": 1,
+                              "price": 88000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119898200",
+                              "name": "Chicken Ablone Sizzler",
+                              "category": "Sizzlers",
+                              "description": "Tender chicken and succulent abalone sizzle together for an irresistible symphony of flavors.",
+                              "inStock": 1,
+                              "price": 53000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119898201",
+                              "name": "ChickenTango Sizzler",
+                              "category": "Sizzlers",
+                              "description": "A sizzling and flavorsome delight packed with succulent chicken, offering a tantalizing experience for meat lovers.",
+                              "inStock": 1,
+                              "price": 53000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119898202",
+                              "name": "Chicken Badam Sizzler",
+                              "category": "Sizzlers",
+                              "description": "Tender chicken with a delightful twist, our Chicken Badam Sizzler is a sizzling sensation that tantalizes the taste buds.",
+                              "inStock": 1,
+                              "price": 54000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Breads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119797924",
+                              "name": "Chapati",
+                              "category": "Breads",
+                              "description": "A satisfying main course filled with savory flavors.",
+                              "imageId": "793a4c045ba8a10d92d279e48e115ac3",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 2000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "58 ratings",
+                                  "ratingCountV2": "58"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "35917773",
+                              "name": "Butter Chapati",
+                              "category": "Breads",
+                              "description": "Flaky, warm, and golden-brown, this buttery roti is irresistible.",
+                              "imageId": "6563fe0caaeccce433b7673cca6d1073",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 3000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "53 ratings",
+                                  "ratingCountV2": "53"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Falooda",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917838",
+                              "name": "Kesar Falooda",
+                              "description": "Experience the delightful blend of aromatic saffron, creamy milk, and delectable goodness in this refreshing dessert.",
+                              "imageId": "ac7fb29e3331d7e3346d12255be2e3ed",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917846",
+                              "name": "Gulab Falooda",
+                              "description": "A delectable and delightful vegetarian treat from the falooda family, Gulab Falooda is sure to satisfy your cravings.",
+                              "imageId": "4e2d8751e6bcf08d83a13857d1363562",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917855",
+                              "name": "Mango Falooda",
+                              "description": "Refreshing and creamy, this traditional Indian dessert is bursting with the sweet flavors of mango and topped with a vibrant assortment of colorful traditional Falooda elements.",
+                              "imageId": "1b64f97690578b79b1c699bd5eaa759d",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917867",
+                              "name": "Strawberry Falooda",
+                              "description": "Luscious layers of creamy ice-cream with sweet strawberry sauce and tender falooda noodles, the perfect dessert!",
+                              "imageId": "2e912bd98dc851f2ce3929e611818603",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917862",
+                              "name": "Butterscotch Falooda",
+                              "description": "A creamy, sweet treat with hints of caramel and a burst of textures.",
+                              "imageId": "6d755d10f4e5eeb25d3557e45acdc58c",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "35917874",
+                              "name": "Phirni",
+                              "description": "A luscious and indulgent Indian dessert that promises a rich and creamy finish to any meal.",
+                              "imageId": "271742fb950349b21d484ef9289a8e1d",
+                              "isVeg": 1,
+                              "price": 9000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119898172",
+                              "name": "Caramel Casturd",
+                              "description": "Indulge in a luscious and decadent dessert with our heavenly Caramel Custard.",
+                              "imageId": "082ade3c2a1bc3602776af861d1282ff",
+                              "isVeg": 1,
+                              "price": 9000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119898176",
+                              "name": "Thums Up [250 ml]",
+                              "description": "This veggie beverage packs a flavorful punch in every sip.",
+                              "imageId": "3bb9bb0da8f0d8b12210d7a594579381",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119898177",
+                              "name": "Sprite [250 ml]",
+                              "description": "A refreshing and bubbly beverage that will quench your thirst and leave you feeling refreshed and satisfied.",
+                              "imageId": "a0a6f390081acda0d46cf9b100b012ab",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Kokni Darbar",
+                      "area": "Doodhbazaar",
+                      "completeAddress": "Kokni Darbar, Ghar No. 1326 Damodar Road, Behind Rajjak Manzil, Doodh Bazar Panchavati Nashik"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
