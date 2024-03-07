@@ -1,0 +1,1351 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "581077",
+              "name": "Shamsundar Misal",
+              "cuisines": [
+                "Maharashtrian",
+                "Fast Food"
+              ],
+              "veg": true
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960819",
+                              "name": "Misal pav",
+                              "category": "Specials",
+                              "description": "[serve1] a popular maharashrian delicacy with sprouts topped with flavorsome gravy served with soft 2pav, 1papad, onion and a bit shev.",
+                              "imageId": "qbqrh23wo9mpsbpfuipt",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "1048 ratings",
+                                  "ratingCountV2": "1048"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960821",
+                              "name": "Shev rassa",
+                              "category": "Specials",
+                              "description": "[serve1] a popular maharashrian delicacy with flavorsome gravy served with soft 2pav, 1papad, onion and shev.",
+                              "imageId": "hagmoz28vlk7ydkp6awi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "18 ratings",
+                                  "ratingCountV2": "18"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960823",
+                              "name": "Pav Bhaji",
+                              "category": "Specials",
+                              "description": "[serves1]two butter-laden pav accompanied by a delicious and healthy gravy of smashed vegetables and topped with dollops of butter, extra onion and piece of lemon. ",
+                              "imageId": "1d414547b0d82db2e1f1b6b54ffa7107",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "49 ratings",
+                                  "ratingCountV2": "49"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960828",
+                              "name": "Bun musaka",
+                              "category": "Specials",
+                              "imageId": "blqcjszv0hknixm4sm2o",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960842",
+                              "name": "Chapati",
+                              "category": "Indian Breads",
+                              "description": "A satisfying main course filled with savory flavors.",
+                              "imageId": "c5caa5ab3caf8c02098bb047dfe00e61",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 2000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "21 ratings",
+                                  "ratingCountV2": "21"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960843",
+                              "name": "Butter chapati",
+                              "category": "Indian Breads",
+                              "description": "Flaky, warm, and golden-brown, this buttery roti is irresistible.",
+                              "imageId": "821f202320e7a9a82ab1299296e6363d",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 2500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.9",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960845",
+                              "name": "Aloo jeera",
+                              "category": "Punjabi Dishes",
+                              "description": "Jeera aloo, a flavourful & delicious North Indian side dish made with potatoes, spices and herbs",
+                              "imageId": "njil6f8qqz1nktqa27fx",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960848",
+                              "name": "Matar paneer",
+                              "category": "Punjabi Dishes",
+                              "description": "A classic Punjabi vegetable dish with soft, creamy paneer and tender green peas in a flavorful tomato-based sauce.",
+                              "imageId": "aijnisosulepsebtqvx5",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960850",
+                              "name": "Paneer butter masala",
+                              "category": "Punjabi Dishes",
+                              "description": "A creamy and flavorful vegetarian dish that will tantalize your taste buds.",
+                              "imageId": "tbeaxmjwuzzops4qv8bk",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960853",
+                              "name": "Shev bhaji",
+                              "category": "Punjabi Dishes",
+                              "description": "A savory and flavorful vegetable stew perfect for any mealtime.",
+                              "imageId": "9b5eccc4b6fed84b79d33709492fe2e6",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "45 ratings",
+                                  "ratingCountV2": "45"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960854",
+                              "name": "Mix veg",
+                              "category": "Punjabi Dishes",
+                              "description": "Mix veg curry is made by cooking a mixture of vegetables together in a traditional Indian onion-tomato gravy",
+                              "imageId": "3d4126062e2c0f1460b255dd45f2fcd8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960855",
+                              "name": "Veg kolhapuri",
+                              "category": "Punjabi Dishes",
+                              "description": "Veg Kolhapuri, a mixed vegetable curry with thick and spicy coconut based gravy, is a popular dish of Maharashtrian cuisine and is often found in almost all north Indian restaurant menus",
+                              "imageId": "hhrji03rkqy1mbdvtggt",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "7 ratings",
+                                  "ratingCountV2": "7"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960861",
+                              "name": "Dal fry",
+                              "category": "Punjabi Dishes",
+                              "description": "A delectable Punjabi veg dish with a rich, creamy texture.",
+                              "imageId": "c5b547785d2a5c91fe0ee76619f8ed71",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960863",
+                              "name": "Dal tadaka",
+                              "category": "Punjabi Dishes",
+                              "description": "A fragrant and comforting vegetarian Indian dish with a rich texture and bursting with flavors.",
+                              "imageId": "vrnsunag3mlk9j4gtinu",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960866",
+                              "name": "Jeera rice",
+                              "category": "Rice Dishes",
+                              "description": "Aromatic rice cooked in a tempering of cumin and whole spices.",
+                              "imageId": "ajmlkpzkswmojxz3hp7q",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960867",
+                              "name": "Masala rice",
+                              "category": "Rice Dishes",
+                              "description": "Aromatic Basmati rice infused with warm Indian spices.",
+                              "imageId": "c078034710932f5c0890639d8b60bca3",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "1.8",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960869",
+                              "name": "Veg pulao",
+                              "category": "Rice Dishes",
+                              "description": "Fragrant rice dish with a delicious selection of vegetables.",
+                              "imageId": "708c540a95005685d1f4e88f3a05ad78",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960829",
+                              "name": "Lassi",
+                              "category": "Beverages",
+                              "description": "Sweet beverage",
+                              "imageId": "q4fiwbjmfkshfv85kujk",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "99 ratings",
+                                  "ratingCountV2": "99"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960830",
+                              "name": "Tak",
+                              "category": "Beverages",
+                              "description": "Masala mix butter milk",
+                              "imageId": "nrncvjljemz2ewjar7d9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "33 ratings",
+                                  "ratingCountV2": "33"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96960833",
+                              "name": "Veg manchurian",
+                              "category": "Starters & Chinese",
+                              "description": "An irresistible Chinese delight made with fresh vegetables.",
+                              "imageId": "vfjescs3pvwwi87pv7jp",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Specials",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960819",
+                              "name": "Misal pav",
+                              "description": "[serve1] a popular maharashrian delicacy with sprouts topped with flavorsome gravy served with soft 2pav, 1papad, onion and a bit shev.",
+                              "imageId": "qbqrh23wo9mpsbpfuipt",
+                              "isVeg": 1,
+                              "price": 12000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960821",
+                              "name": "Shev rassa",
+                              "description": "[serve1] a popular maharashrian delicacy with flavorsome gravy served with soft 2pav, 1papad, onion and shev.",
+                              "imageId": "hagmoz28vlk7ydkp6awi",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960823",
+                              "name": "Pav Bhaji",
+                              "description": "[serves1]two butter-laden pav accompanied by a delicious and healthy gravy of smashed vegetables and topped with dollops of butter, extra onion and piece of lemon. ",
+                              "imageId": "1d414547b0d82db2e1f1b6b54ffa7107",
+                              "isVeg": 1,
+                              "price": 10000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960824",
+                              "name": "Extra Pav (Single)",
+                              "description": "[1pc]",
+                              "isVeg": 1,
+                              "price": 1000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960825",
+                              "name": "Extra Papad (Single)",
+                              "description": "[1pc]",
+                              "isVeg": 1,
+                              "price": 1000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960826",
+                              "name": "Extra shev [full]",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960827",
+                              "name": "Extra mataki",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960828",
+                              "name": "Bun musaka",
+                              "imageId": "blqcjszv0hknixm4sm2o",
+                              "isVeg": 1,
+                              "price": 4000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960820",
+                              "name": "Batata vada rassa pav",
+                              "description": "[serve1] a popular maharashrian delicacy with batata wada topped with flavorsome gravy served with soft 2pav, 1papad, onion and a bit shev.",
+                              "imageId": "nog26cxw7fur4tvvq1ea",
+                              "isVeg": 1,
+                              "price": 12000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960822",
+                              "name": "Vada pav",
+                              "description": "A single batata wada with single pav.",
+                              "imageId": "kuttqhwrj3zkxi8x90pd",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121951620",
+                              "name": "Only Vada",
+                              "description": "Single batata vada",
+                              "isVeg": 1,
+                              "price": 2500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Sweets",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "110142266",
+                              "name": "Gulab Jamun (2pc)",
+                              "isVeg": 1,
+                              "price": 4000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "125782818",
+                              "name": "Jalebi (gulachi )",
+                              "description": "Most famous sweet dish ",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Indian Breads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960842",
+                              "name": "Chapati",
+                              "description": "A satisfying main course filled with savory flavors.",
+                              "imageId": "c5caa5ab3caf8c02098bb047dfe00e61",
+                              "isVeg": 1,
+                              "price": 2000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960843",
+                              "name": "Butter chapati",
+                              "description": "Flaky, warm, and golden-brown, this buttery roti is irresistible.",
+                              "imageId": "821f202320e7a9a82ab1299296e6363d",
+                              "isVeg": 1,
+                              "price": 2500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Punjabi Dishes",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960844",
+                              "name": "Aloo matar",
+                              "description": "A flavorful and delicious vegetable main course.",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960845",
+                              "name": "Aloo jeera",
+                              "description": "Jeera aloo, a flavourful & delicious North Indian side dish made with potatoes, spices and herbs",
+                              "imageId": "njil6f8qqz1nktqa27fx",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960846",
+                              "name": "Green peas masala",
+                              "description": "This hearty vegetarian main course bursts with flavor and satisfying texture.",
+                              "isVeg": 1,
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960848",
+                              "name": "Matar paneer",
+                              "description": "A classic Punjabi vegetable dish with soft, creamy paneer and tender green peas in a flavorful tomato-based sauce.",
+                              "imageId": "aijnisosulepsebtqvx5",
+                              "isVeg": 1,
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960849",
+                              "name": "Paneer bhur ji",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960850",
+                              "name": "Paneer butter masala",
+                              "description": "A creamy and flavorful vegetarian dish that will tantalize your taste buds.",
+                              "imageId": "tbeaxmjwuzzops4qv8bk",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960851",
+                              "name": "Ka ju masala",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960853",
+                              "name": "Shev bhaji",
+                              "description": "A savory and flavorful vegetable stew perfect for any mealtime.",
+                              "imageId": "9b5eccc4b6fed84b79d33709492fe2e6",
+                              "isVeg": 1,
+                              "price": 12000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960854",
+                              "name": "Mix veg",
+                              "description": "Mix veg curry is made by cooking a mixture of vegetables together in a traditional Indian onion-tomato gravy",
+                              "imageId": "3d4126062e2c0f1460b255dd45f2fcd8",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960855",
+                              "name": "Veg kolhapuri",
+                              "description": "Veg Kolhapuri, a mixed vegetable curry with thick and spicy coconut based gravy, is a popular dish of Maharashtrian cuisine and is often found in almost all north Indian restaurant menus",
+                              "imageId": "hhrji03rkqy1mbdvtggt",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960856",
+                              "name": "Paneer kadhal",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960858",
+                              "name": "Veg kofta",
+                              "description": "Delicious vegetarian balls soaked in rich tomato gravy.",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960859",
+                              "name": "Paneer malai kofta",
+                              "description": "Soft and creamy paneer dumplings in a smooth and rich gravy.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960860",
+                              "name": "Soyabin masala",
+                              "description": "A flavorful and aromatic vegetarian dish perfect for Punjabi food lovers.",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960861",
+                              "name": "Dal fry",
+                              "description": "A delectable Punjabi veg dish with a rich, creamy texture.",
+                              "imageId": "c5b547785d2a5c91fe0ee76619f8ed71",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960863",
+                              "name": "Dal tadaka",
+                              "description": "A fragrant and comforting vegetarian Indian dish with a rich texture and bursting with flavors.",
+                              "imageId": "vrnsunag3mlk9j4gtinu",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960864",
+                              "name": "Veg bhuna masala",
+                              "description": "A fragrant and wholesome vegetable masala, slow-cooked to perfection.",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Rice Dishes",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960866",
+                              "name": "Jeera rice",
+                              "description": "Aromatic rice cooked in a tempering of cumin and whole spices.",
+                              "imageId": "ajmlkpzkswmojxz3hp7q",
+                              "isVeg": 1,
+                              "price": 12000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960865",
+                              "name": "Plain rice",
+                              "description": "A simple and satisfying rice dish perfect on its own or as a base for flavorful sauces and toppings.",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960867",
+                              "name": "Masala rice",
+                              "description": "Aromatic Basmati rice infused with warm Indian spices.",
+                              "imageId": "c078034710932f5c0890639d8b60bca3",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960868",
+                              "name": "Curd rice",
+                              "description": "A creamy and savory rice dish that melts in your mouth.",
+                              "isVeg": 1,
+                              "price": 13000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960869",
+                              "name": "Veg pulao",
+                              "description": "Fragrant rice dish with a delicious selection of vegetables.",
+                              "imageId": "708c540a95005685d1f4e88f3a05ad78",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960870",
+                              "name": "Dal khichada butter",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960829",
+                              "name": "Lassi",
+                              "description": "Sweet beverage",
+                              "imageId": "q4fiwbjmfkshfv85kujk",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960830",
+                              "name": "Tak",
+                              "description": "Masala mix butter milk",
+                              "imageId": "nrncvjljemz2ewjar7d9",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Starters & Chinese",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960831",
+                              "name": "Veg manchow soup",
+                              "description": "A warm and flavorful vegetarian soup, perfect for any season.",
+                              "isVeg": 1,
+                              "price": 10000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960832",
+                              "name": "Veg crispy",
+                              "description": "Crispy and savory vegetarian starter perfect for any meal or occasion.",
+                              "isVeg": 1,
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960833",
+                              "name": "Veg manchurian",
+                              "description": "An irresistible Chinese delight made with fresh vegetables.",
+                              "imageId": "vfjescs3pvwwi87pv7jp",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960834",
+                              "name": "Paneer chilli",
+                              "description": "A savoury and flavourful Chinese-inspired dish packed with protein.",
+                              "imageId": "f2vmximwruie0sjl2dis",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960835",
+                              "name": "Soyabean chilli",
+                              "description": "A savory and flavorful Chinese-inspired starter with a delightful crunch.",
+                              "imageId": "dd5c3b30ed6733002fed8458fc009b76",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960836",
+                              "name": "Kanda bha ji",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960837",
+                              "name": "French fries",
+                              "description": "Crisp and golden bite-sized delights that will leave you wanting more.",
+                              "imageId": "a82648aafab89b37aee095fa01e20ae0",
+                              "isVeg": 1,
+                              "price": 10000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960838",
+                              "name": "Masala maggi",
+                              "description": "An explosion of Indian flavors in every bite.",
+                              "imageId": "7018526c03b20f8dd0609e2f2dc9e561",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960839",
+                              "name": "Veg hakka noodles",
+                              "description": "Mouthwatering Chinese-style noodles with mixed vegetables.",
+                              "imageId": "7f485957d46560c0bcf13d4a034d7842",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960840",
+                              "name": "Veg fried rice",
+                              "description": "A flavorful and savory Chinese dish made with mixed vegetables and fried rice.",
+                              "imageId": "jqtnufkyv6k845ikudbo",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96960841",
+                              "name": "Veg scezwan rice",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Shamsundar Misal",
+                      "area": "Ashok Stambh",
+                      "completeAddress": "704/0487, PLOT NO. -  738, KAMALDURGA, GHARPURE  GHAT, NEAR RUNGTA HIGH  SCHOOL, ASHOK STAMBH, , Nashik  East, Nashik, Maharashtra, 422001"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
