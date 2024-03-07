@@ -1,0 +1,2252 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "190535",
+              "name": "Bagga Sweets",
+              "cuisines": [
+                "Sweets",
+                "Fast Food"
+              ],
+              "veg": true
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497866",
+                              "name": "Kachori (1Pc)",
+                              "category": "Fast Food",
+                              "description": "Kachori is a deep-fried, crisp, and flaky Indian snack stuffed with a delicious vegetarian filling",
+                              "imageId": "gcudvqbjijyedlo5pkym",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 2300,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "715 ratings",
+                                  "ratingCountV2": "715"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497868",
+                              "name": "Dahi Vada (1Pc)",
+                              "category": "Fast Food",
+                              "description": "Dahi vada are soft lentil fritters soaked in creamy yogurt. Dahi means yogurt and vada are deep fried fritters",
+                              "imageId": "lflxjlbjlkeqqeukyirm",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "419 ratings",
+                                  "ratingCountV2": "419"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497874",
+                              "name": "Tokri Chaat (1Pc)",
+                              "category": "Fast Food",
+                              "description": "Basket puri chaat is a tasty chaat recipe made with crispy deep-fried bowls or baskets.",
+                              "imageId": "jrpdkru3wp7kejjrn485",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "494 ratings",
+                                  "ratingCountV2": "494"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497858",
+                              "name": "Rabri (Basundi)",
+                              "category": "Bonanza",
+                              "description": "Serves 1 | Rabdi is reduced milk with sugar and flavours. It is therefore very rich, creamy, sweet and can be processed to have different textures as the chef decides.",
+                              "imageId": "ej5ouwa9oqkriimhxtqh",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486368",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440967",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 16000,
+                                        "id": "14440968",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 32000,
+                                        "id": "14440969",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 48000,
+                                        "id": "14440970",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "730 ratings",
+                                  "ratingCountV2": "730"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497859",
+                              "name": "Angoori Rasmalai",
+                              "category": "Bonanza",
+                              "description": "Angoori rasmalai or angoor rabdi is a dessert made with fresh Indian cottage cheese",
+                              "imageId": "qaa47clggfsjhn9stcpp",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486369",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440971",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 16000,
+                                        "id": "14440972",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 32000,
+                                        "id": "14440973",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 48000,
+                                        "id": "14440974",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "488 ratings",
+                                  "ratingCountV2": "488"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497860",
+                              "name": "Paneer Jalebi",
+                              "category": "Bonanza",
+                              "description": "A sweet and savory delight for vegetarians.",
+                              "imageId": "ojhpfwkhinzxvbn6tctr",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486370",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440975",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 19000,
+                                        "id": "14440976",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 38000,
+                                        "id": "14440977",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 57000,
+                                        "id": "14440978",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "195 ratings",
+                                  "ratingCountV2": "195"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497861",
+                              "name": "Gulab jamun",
+                              "category": "Bonanza",
+                              "description": "Gulab jamun is milk solid based sweet with chasni often served as dessert.",
+                              "imageId": "van8mexyesqdiyof1op4",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486371",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440979",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 11000,
+                                        "id": "14440980",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 22000,
+                                        "id": "14440981",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 33000,
+                                        "id": "14440982",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "505 ratings",
+                                  "ratingCountV2": "505"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497862",
+                              "name": "Dry Gulab Jamun",
+                              "category": "Bonanza",
+                              "description": "A delectable Indian sweet with a crumbly texture and sweet flavors.",
+                              "imageId": "qsej3ecxxd8xq9kzgg4s",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486372",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440983",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 14000,
+                                        "id": "14440984",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 28000,
+                                        "id": "14440985",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 42000,
+                                        "id": "14440986",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "197 ratings",
+                                  "ratingCountV2": "197"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497863",
+                              "name": "Motichur Laddu",
+                              "category": "Bonanza",
+                              "description": "Motichur laddu are soft, delish melt in the mouth ladoo made mainly with gram flour, sugar, and spices",
+                              "imageId": "km4hvnm5fkj4e1oc0qw6",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486373",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440987",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 11000,
+                                        "id": "14440988",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 22000,
+                                        "id": "14440989",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 33000,
+                                        "id": "14440990",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "311 ratings",
+                                  "ratingCountV2": "311"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497864",
+                              "name": "Kaju Katli",
+                              "category": "Bonanza",
+                              "description": "Kaju katli is a traditional Indian dessert characterized by its diamond shape, made with cashew nuts, sugar, cardamom powder and ghee butter.",
+                              "imageId": "uyqvalx5d7nvqprtfuzv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 30000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486374",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440991",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 30000,
+                                        "id": "14440992",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 60000,
+                                        "id": "14440993",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 90000,
+                                        "id": "14440994",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "207 ratings",
+                                  "ratingCountV2": "207"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497833",
+                              "name": "Malai Peda",
+                              "category": "Peda",
+                              "description": "Serves 1 | Malai Peda is a famous Indian dessert made from condensed milk and a special process of curdling condensed milk turns it into a richly textured product like Khoya, which then flavored with cardamom and saffron.",
+                              "imageId": "ocsboq360utlsyffreb2",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486347",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440883",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 19000,
+                                        "id": "14440884",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 38000,
+                                        "id": "14440885",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 57000,
+                                        "id": "14440886",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "190 ratings",
+                                  "ratingCountV2": "190"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497837",
+                              "name": "Kesar Peda",
+                              "category": "Peda",
+                              "description": "Soft and creamy Kesar Penda (Kesar Peda) are a golden yellow sweet made from milk, sugar and saffron",
+                              "imageId": "cc7dmggfldvflyxw3kn7",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486348",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440887",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 19000,
+                                        "id": "14440888",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 38000,
+                                        "id": "14440889",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 57000,
+                                        "id": "14440890",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "110 ratings",
+                                  "ratingCountV2": "110"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497838",
+                              "name": "Pakka Peda",
+                              "category": "Peda",
+                              "description": "A sweet and creamy treat, perfect for indulging your sweet tooth.",
+                              "imageId": "qtmktvpphdjqo42ieupu",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486349",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440891",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 19000,
+                                        "id": "14440892",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 38000,
+                                        "id": "14440893",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 57000,
+                                        "id": "14440894",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "51 ratings",
+                                  "ratingCountV2": "51"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497840",
+                              "name": "Malai Barfi",
+                              "category": "Barfis",
+                              "description": "Serves 1 | Malai barfi is an exotic taste of India that tempts you to gulp it once you taste it has an eye pleasing white colour.",
+                              "imageId": "sbjbjhczgauxgapv0wr8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486351",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440899",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 22000,
+                                        "id": "14440900",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 44000,
+                                        "id": "14440901",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 66000,
+                                        "id": "14440902",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "415 ratings",
+                                  "ratingCountV2": "415"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497842",
+                              "name": "Anjeer Malai Barfi",
+                              "category": "Barfis",
+                              "description": "Creamy, melt-in-your-mouth Indian dessert made with rich anjeer and luscious malai - a sweet delight for your taste buds!",
+                              "imageId": "cwatyvcm2covtlfketrg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486353",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440907",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 22000,
+                                        "id": "14440908",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 44000,
+                                        "id": "14440909",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 66000,
+                                        "id": "14440910",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "158 ratings",
+                                  "ratingCountV2": "158"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497845",
+                              "name": "Milk Cake",
+                              "category": "Barfis",
+                              "description": "A heavenly, creamy dessert perfect for satisfying any sweet tooth cravings.",
+                              "imageId": "axgtnbn9jsk4eukz2rsf",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486356",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440919",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 22000,
+                                        "id": "14440920",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 44000,
+                                        "id": "14440921",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 66000,
+                                        "id": "14440922",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "225 ratings",
+                                  "ratingCountV2": "225"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497855",
+                              "name": "Mango Shrikhand",
+                              "category": "Shrikhand",
+                              "description": "Mango Shrikhand, popularly known as Amrakhand is a delicious fruity twist to the traditional plain Shrikhand recipe",
+                              "imageId": "hhgya4xucpq4rryycct4",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486365",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440955",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 11000,
+                                        "id": "14440956",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 22000,
+                                        "id": "14440957",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 33000,
+                                        "id": "14440958",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "233 ratings",
+                                  "ratingCountV2": "233"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497881",
+                              "name": "Bhakarwadi (200 gm)",
+                              "category": "Namkeen",
+                              "description": "A savory, flavorful snack bursting with traditional Indian spices and a delightful crunch.",
+                              "imageId": "y3bcskvoel1jcoxnfjdy",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "130 ratings",
+                                  "ratingCountV2": "130"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497823",
+                              "name": "Malai Paneer",
+                              "category": "Desserts",
+                              "description": "Fresh creamy soft & fluffy cottage cheese that is cut into a firm block, unsalted.",
+                              "imageId": "xlcd7flo9qpprnef9vjn",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "4486346",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 gms",
+                                        "default": 1,
+                                        "id": "14440879",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 gms",
+                                        "price": 18000,
+                                        "id": "14440880",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "750 gms",
+                                        "price": 36000,
+                                        "id": "14440881",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1000 gms",
+                                        "price": 54000,
+                                        "id": "14440882",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "281 ratings",
+                                  "ratingCountV2": "281"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "41497835",
+                              "name": "Plain Lassi",
+                              "category": "Lassi",
+                              "description": "Serves 1 | Serve 1 glass of lassi",
+                              "imageId": "jnat7bmkjwi6yzq0sur9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "503 ratings",
+                                  "ratingCountV2": "503"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Fast Food",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86195543",
+                              "name": "Samosa (1 Pc)",
+                              "description": "A samosa is a fried or baked with a savory filling, including ingredients such as spiced potatoes, onions, and peas",
+                              "isVeg": 1,
+                              "price": 2300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497866",
+                              "name": "Kachori (1Pc)",
+                              "description": "Kachori is a deep-fried, crisp, and flaky Indian snack stuffed with a delicious vegetarian filling",
+                              "imageId": "gcudvqbjijyedlo5pkym",
+                              "isVeg": 1,
+                              "price": 2300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497867",
+                              "name": "Veg Pattice (1Pc)",
+                              "description": "A delectable and mouthwatering veg pattice that satisfies your fast food cravings with its irresistible flavors.",
+                              "imageId": "rgzpluqyvwzgcrqaeupi",
+                              "isVeg": 1,
+                              "price": 2300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497871",
+                              "name": "Chole Bhature",
+                              "description": "A tempting Punjabi delicacy with a soft and fluffy bread, paired perfectly with a flavourful chickpea curry.",
+                              "imageId": "vuf5lrjdgaccrsomy3f2",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497868",
+                              "name": "Dahi Vada (1Pc)",
+                              "description": "Dahi vada are soft lentil fritters soaked in creamy yogurt. Dahi means yogurt and vada are deep fried fritters",
+                              "imageId": "lflxjlbjlkeqqeukyirm",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497870",
+                              "name": "Butter Dabeli (1Pc)",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497873",
+                              "name": "Raj Kachori (1Pc)",
+                              "description": "A delectable and appetizing fast food delight bursting with vibrant flavors and irresistible textures.",
+                              "imageId": "maqqt2cmqdymxlawpbco",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497874",
+                              "name": "Tokri Chaat (1Pc)",
+                              "description": "Basket puri chaat is a tasty chaat recipe made with crispy deep-fried bowls or baskets.",
+                              "imageId": "jrpdkru3wp7kejjrn485",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497869",
+                              "name": "Dhokla (250 gms)",
+                              "description": "Serves 1 | Dhokla is a steamed savory cake made with fermented batter of lentils and rice. The batter is steamed to a cake in a mould",
+                              "imageId": "zckz1l5gnr4lablnxtld",
+                              "isVeg": 1,
+                              "price": 7500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Assorted Mix",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "62752047",
+                              "name": "Assorted Mix",
+                              "category": "Assorted Mix",
+                              "description": "Serves 1 | A delightful blend of flavors and textures, this diverse assortment of vegetables is sure to tantalize your taste buds.",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "8618260",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "250 Gms",
+                                        "id": "28667208",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "500 Gms",
+                                        "price": 22000,
+                                        "default": 1,
+                                        "id": "28667209",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "21 ratings",
+                                  "ratingCountV2": "21"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Bonanza",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497858",
+                              "name": "Rabri (Basundi)",
+                              "description": "Serves 1 | Rabdi is reduced milk with sugar and flavours. It is therefore very rich, creamy, sweet and can be processed to have different textures as the chef decides.",
+                              "imageId": "ej5ouwa9oqkriimhxtqh",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497859",
+                              "name": "Angoori Rasmalai",
+                              "description": "Angoori rasmalai or angoor rabdi is a dessert made with fresh Indian cottage cheese",
+                              "imageId": "qaa47clggfsjhn9stcpp",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497860",
+                              "name": "Paneer Jalebi",
+                              "description": "A sweet and savory delight for vegetarians.",
+                              "imageId": "ojhpfwkhinzxvbn6tctr",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497861",
+                              "name": "Gulab jamun",
+                              "description": "Gulab jamun is milk solid based sweet with chasni often served as dessert.",
+                              "imageId": "van8mexyesqdiyof1op4",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497862",
+                              "name": "Dry Gulab Jamun",
+                              "description": "A delectable Indian sweet with a crumbly texture and sweet flavors.",
+                              "imageId": "qsej3ecxxd8xq9kzgg4s",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497863",
+                              "name": "Motichur Laddu",
+                              "description": "Motichur laddu are soft, delish melt in the mouth ladoo made mainly with gram flour, sugar, and spices",
+                              "imageId": "km4hvnm5fkj4e1oc0qw6",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497864",
+                              "name": "Kaju Katli",
+                              "description": "Kaju katli is a traditional Indian dessert characterized by its diamond shape, made with cashew nuts, sugar, cardamom powder and ghee butter.",
+                              "imageId": "uyqvalx5d7nvqprtfuzv",
+                              "isVeg": 1,
+                              "price": 30000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Peda",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497833",
+                              "name": "Malai Peda",
+                              "description": "Serves 1 | Malai Peda is a famous Indian dessert made from condensed milk and a special process of curdling condensed milk turns it into a richly textured product like Khoya, which then flavored with cardamom and saffron.",
+                              "imageId": "ocsboq360utlsyffreb2",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497837",
+                              "name": "Kesar Peda",
+                              "description": "Soft and creamy Kesar Penda (Kesar Peda) are a golden yellow sweet made from milk, sugar and saffron",
+                              "imageId": "cc7dmggfldvflyxw3kn7",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497838",
+                              "name": "Pakka Peda",
+                              "description": "A sweet and creamy treat, perfect for indulging your sweet tooth.",
+                              "imageId": "qtmktvpphdjqo42ieupu",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497839",
+                              "name": "Gulkand Peda",
+                              "description": "A delectable vegetarian treat, Gulkand Peda exemplifies the perfect balance of flavors and textures.",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Barfis",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497840",
+                              "name": "Malai Barfi",
+                              "description": "Serves 1 | Malai barfi is an exotic taste of India that tempts you to gulp it once you taste it has an eye pleasing white colour.",
+                              "imageId": "sbjbjhczgauxgapv0wr8",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497841",
+                              "name": "Mango Malai Barfi",
+                              "description": "Mithas Mango Malai Barfi Is Very Traditional And Delicious Dessert,Prepared From The Best Quality Full Cream Milk",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497842",
+                              "name": "Anjeer Malai Barfi",
+                              "description": "Creamy, melt-in-your-mouth Indian dessert made with rich anjeer and luscious malai - a sweet delight for your taste buds!",
+                              "imageId": "cwatyvcm2covtlfketrg",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497843",
+                              "name": "Dry Fruit Malai Barfi",
+                              "description": "Flaky and rich barfi loaded with crunchy dry fruits and creamy milk.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497844",
+                              "name": "French Vanilla Barfi",
+                              "description": "Indulge in the rich and decadent flavors of a classic French Vanilla Barfi.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497845",
+                              "name": "Milk Cake",
+                              "description": "A heavenly, creamy dessert perfect for satisfying any sweet tooth cravings.",
+                              "imageId": "axgtnbn9jsk4eukz2rsf",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497847",
+                              "name": "Swiss Chocolate Barfi",
+                              "description": "Indulge in velvety smoothness with rich Swiss chocolate in every bite of this delicious Barfi.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497848",
+                              "name": "Mango Pineapple Barfi",
+                              "description": "A tropical delight, this veggie barfi bursting with the flavors of mango and pineapple is a heavenly indulgence.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497849",
+                              "name": "Kashmiri Chocolate Barfi",
+                              "description": "Indulge in the rich and velvety taste of this traditional dessert, crafted with luscious Kashmiri chocolate.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497850",
+                              "name": "Strawberry Barfi",
+                              "description": "A sweet and fragrant delicacy bursting with the delightful flavors of juicy strawberries.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497853",
+                              "name": "Gulkand Barfi",
+                              "description": "Indulge in the sweet, exotic flavors of this delectable Gulkand Barfi.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86791157",
+                              "name": "Black Current Barfi",
+                              "description": "Indulge in the delightful flavors of this rich and luscious traditional sweet treat bursting with the sweetness of black currants.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Shrikhand",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497854",
+                              "name": "Elaichi Shrikhand",
+                              "description": "Serves 1 | A creamy, sweet dessert with a distinct cardamom flavor.",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497855",
+                              "name": "Mango Shrikhand",
+                              "description": "Mango Shrikhand, popularly known as Amrakhand is a delicious fruity twist to the traditional plain Shrikhand recipe",
+                              "imageId": "hhgya4xucpq4rryycct4",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Namkeen",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497876",
+                              "name": "Yellow Small Shev",
+                              "description": "Crispy and vibrant, this delightful treat promises a burst of flavors with its delightful yellow hue.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497878",
+                              "name": "Sabji Sev Red",
+                              "description": "A flavorful and vibrant namkeen sure to tantalize your taste buds with its delightful combination of savory toppings.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497879",
+                              "name": "Moong Dal",
+                              "description": "A delightful and tangy namkeen dish that combines the rich flavors of lentils with a hint of refreshing zest.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497880",
+                              "name": "Chana Dal",
+                              "description": "A savory and flavorful snack made with lentils that is sure to satisfy your tastebuds.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497881",
+                              "name": "Bhakarwadi (200 gm)",
+                              "description": "A savory, flavorful snack bursting with traditional Indian spices and a delightful crunch.",
+                              "imageId": "y3bcskvoel1jcoxnfjdy",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497882",
+                              "name": "Dry Samosa (200 gm)",
+                              "description": "A crispy and flavorful Indian pastry filled with a delightful mixture bound to please your taste buds.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497884",
+                              "name": "Shankar Pale  (200 Gm)",
+                              "description": "A refreshing milkshake made from milk, flavored with saffron and pista.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497814",
+                              "name": "Khakhra  (200 gm)",
+                              "description": "A crispy and flavorful Indian delicacy that will leave your taste buds craving for more.",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497815",
+                              "name": "Chatpata Chana Jor",
+                              "description": "Tantalizing and flavorful, this crispy vegetarian snack is a burst of savory goodness that will leave you craving for more.",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497816",
+                              "name": "Chakli  (200 gm)",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497817",
+                              "name": "Yellow Banana War",
+                              "description": "A luscious and vibrant namkeen treat that will awaken your taste buds with its delightful combination of flavors.",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497819",
+                              "name": "Red Chilli Banana War",
+                              "description": "A tantalizing fusion of bold flavors and contrasting textures, combining fiery red chillies and the sweetness of ripe bananas, creating a unique savory delight.",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497818",
+                              "name": "Black Pepper Banana",
+                              "description": "A tantalizing blend of flavors combining the earthiness of black pepper with the sweetness of bananas, creating a mouthwatering Namkeen delight.",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497875",
+                              "name": "Mix Farsan (200 mg)",
+                              "description": "Serves 1 | Experience the perfect blend of flavors and textures in this tantalizing vegetarian Namkeen snack, packed with a mix of delightful Farsan.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497877",
+                              "name": "Namkeen Boondi",
+                              "description": "A crunchy and savory snack bursting with flavors, perfect to satisfy your cravings.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497883",
+                              "name": "Dry Kachori (200 gm)",
+                              "description": "A crispy and flavorful savory treat, perfect to satisfy your snack cravings.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497812",
+                              "name": "Punjabi Matti  (200 gm)",
+                              "description": "Delicious vegetarian namkeen with authentic Punjabi flavors.",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Upvaas Special",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497821",
+                              "name": "Sabudana Chivda  (200 gm)",
+                              "description": "A flavorful and crispy Upvaas special snack that is sure to tantalize your taste buds.",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497822",
+                              "name": "Potato Masala Salli (200 gm)",
+                              "description": "A delectable Upvaas Special with a flavorful potato masala and crispy salli toppings.",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497824",
+                              "name": "Potato Plain Salli (200 gm)",
+                              "description": "A delectable and flavorful classic dish perfect for fasting days, featuring crispy and golden potato salli.",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497820",
+                              "name": "Potato Chivda (200 gm)",
+                              "description": "Serves 1 | A delectable and flavorful snack that is perfect for Upvaas, featuring crisp potato bites coated in delightful seasonings.",
+                              "isVeg": 1,
+                              "price": 9500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Namkeen Sticks",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497825",
+                              "name": "Tomato Namkeen Sticks",
+                              "description": "Serves 1 | Crispy tomato-infused namkeen sticks bursting with savory flavors.",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497826",
+                              "name": "Manchurian Namkeen Sticks",
+                              "description": "Crispy and savory veggie sticks bursting with flavor, perfect for a delightful snack.",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497827",
+                              "name": "Schezwan Namkeen Sticks",
+                              "description": "Crispy and flavorful sticks that pack a punch of exotic Schezwan flavors.",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497828",
+                              "name": "Soya Namkeen Sticks",
+                              "description": "A crispy and flavorful snack that will leave you craving for more.",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497829",
+                              "name": "Makki Namkeen Sticks",
+                              "description": "Crispy and flavorful, these veg Namkeen Sticks are a delightful snack that will satisfy your cravings.",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497813",
+                              "name": "Malai Dahi",
+                              "description": "Serves 1 | A creamy and aromatic Indian dessert perfect for satisfying your sweet tooth.",
+                              "isVeg": 1,
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497823",
+                              "name": "Malai Paneer",
+                              "description": "Fresh creamy soft & fluffy cottage cheese that is cut into a firm block, unsalted.",
+                              "imageId": "xlcd7flo9qpprnef9vjn",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Lassi",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497835",
+                              "name": "Plain Lassi",
+                              "description": "Serves 1 | Serve 1 glass of lassi",
+                              "imageId": "jnat7bmkjwi6yzq0sur9",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "41497836",
+                              "name": "Mango Lassi",
+                              "description": "Serve 1 glass of mango flavored lassi",
+                              "imageId": "exgpprruynw1hnrac7uy",
+                              "isVeg": 1,
+                              "price": 8000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Bagga Sweets",
+                      "area": "Singada Talao",
+                      "completeAddress": "Bagga Sweets, Shingada Talav, Renuka Nagar, Nashik, Maharashtra, India"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

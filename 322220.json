@@ -1,0 +1,525 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "322220",
+              "name": "Chirag Biryani (Rk)",
+              "cuisines": [
+                "Biryani",
+                "Indian"
+              ],
+              "veg": true
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "61246297",
+                              "name": "Veg Biryani",
+                              "category": "Biryani",
+                              "description": "Savory vegetables flavourfully layered in aromatic rice. Serves 1",
+                              "imageId": "wswop2dhxr5tlbt9i0mj",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "907 ratings",
+                                  "ratingCountV2": "907"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "61246298",
+                              "name": "Paneer Biryani",
+                              "category": "Biryani",
+                              "description": "Soft paneer cubes and flavored rice slow cooked in a delicious mix of Indian masala flavored with aromatic spices.",
+                              "imageId": "vkw79fiqrhmpgip5r1l3",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "527 ratings",
+                                  "ratingCountV2": "527"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "77405642",
+                              "name": "Paneer Tikka Biryani",
+                              "category": "Biryani",
+                              "description": "Deliciously decadent flavored dum rice layered with paneer tikka and indian whole spices cooked in a pot.",
+                              "imageId": "axnbs0sgjj6qnguviuyj",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9300,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "428 ratings",
+                                  "ratingCountV2": "428"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "77405639",
+                              "name": "Chapati",
+                              "category": "Indian Breads",
+                              "imageId": "bf67f2d4a431c956bd5a4a76e643a5a4",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1200,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "16 ratings",
+                                  "ratingCountV2": "16"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "61246305",
+                              "name": "Papad",
+                              "category": "Accompaniments",
+                              "description": "Crispy and flavorful bites perfect for snacking.",
+                              "imageId": "1bd11d2ca8588cd12e1c73192d6ff748",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "154 ratings",
+                                  "ratingCountV2": "154"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Biryani",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "61246297",
+                              "name": "Veg Biryani",
+                              "description": "Savory vegetables flavourfully layered in aromatic rice. Serves 1",
+                              "imageId": "wswop2dhxr5tlbt9i0mj",
+                              "isVeg": 1,
+                              "price": 6900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "61246298",
+                              "name": "Paneer Biryani",
+                              "description": "Soft paneer cubes and flavored rice slow cooked in a delicious mix of Indian masala flavored with aromatic spices.",
+                              "imageId": "vkw79fiqrhmpgip5r1l3",
+                              "isVeg": 1,
+                              "price": 8700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77405642",
+                              "name": "Paneer Tikka Biryani",
+                              "description": "Deliciously decadent flavored dum rice layered with paneer tikka and indian whole spices cooked in a pot.",
+                              "imageId": "axnbs0sgjj6qnguviuyj",
+                              "isVeg": 1,
+                              "price": 9300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321180",
+                              "name": "Veg Biryani [1kg] Serve 5-6",
+                              "isVeg": 1,
+                              "price": 75900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321181",
+                              "name": "Veg Biryani [500gm] Serve 3",
+                              "description": "Aromatic Indian rice dish loaded with fragrant spices and colorful vegetables. Serves 3-4",
+                              "isVeg": 1,
+                              "price": 37900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321182",
+                              "name": "Paneer Biryani [1kg] Serve 6",
+                              "isVeg": 1,
+                              "price": 99900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321183",
+                              "name": "Paneer Biryani [500gm] Serve 3",
+                              "isVeg": 1,
+                              "price": 49900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321184",
+                              "name": "Paneer Tikka Biryani [1kg] Serve 6",
+                              "description": "Delicious veg Biryani layered with Paneer Tikka. Serves 3-4",
+                              "isVeg": 1,
+                              "price": 114900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321185",
+                              "name": "Paneer Tikka Biryani [500gm] Serve 3",
+                              "isVeg": 1,
+                              "price": 56900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Main Course",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321193",
+                              "name": "Dal Tadka  ",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77405635",
+                              "name": "Sev Masala",
+                              "description": "A savory vegetable dish with a range of warm spices.",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321192",
+                              "name": "Paneer Masala",
+                              "description": "A creamy and flavorful vegetarian specialty.",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77405637",
+                              "name": "Chana Masal",
+                              "imageId": "b3j9cgp0iyx2p9vyduqb",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77405638",
+                              "name": "Veg Soya Keema",
+                              "description": "A flavorful and satisfying vegetarian main course.",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "132267433",
+                              "name": "Veg Soya Khima",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Indian Breads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77405639",
+                              "name": "Chapati",
+                              "imageId": "bf67f2d4a431c956bd5a4a76e643a5a4",
+                              "isVeg": 1,
+                              "price": 1200
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Accompaniments",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "61246305",
+                              "name": "Papad",
+                              "description": "Crispy and flavorful bites perfect for snacking.",
+                              "imageId": "1bd11d2ca8588cd12e1c73192d6ff748",
+                              "isVeg": 1,
+                              "price": 1000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77405640",
+                              "name": "Mineral Water [500ml]",
+                              "isVeg": 1,
+                              "price": 1200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77405641",
+                              "name": "Mineral Water [1liter]",
+                              "isVeg": 1,
+                              "price": 2000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Meal and Thali",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126321188",
+                              "name": "Veg Thali",
+                              "isVeg": 1,
+                              "price": 10800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "61246301",
+                              "name": "Daal Rice",
+                              "imageId": "pigeuzetallhy86ovuu5",
+                              "isVeg": 1,
+                              "price": 6500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77405634",
+                              "name": "Roti with Bhaji",
+                              "description": "A hearty and satisfying meal featuring soft and fluffy roti served alongside a flavorful vegetable bhaji. Serves 1",
+                              "isVeg": 1,
+                              "price": 7400
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Chirag Biryani (Rk)",
+                      "area": "Ravivar Karanja",
+                      "completeAddress": "1414 SHOP NO 1 SHAH WADA TAKSAL LANE SATPUR NASHIK CITY(MAHARASHTRA) 422001"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

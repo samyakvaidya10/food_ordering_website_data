@@ -1,0 +1,358 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "181040",
+              "name": "Sadhana Chulivarchi Misal",
+              "cuisines": [
+                "Maharashtrian",
+                "Snacks"
+              ],
+              "veg": true,
+              "nudgeBanners": [
+                {
+                  "minValue": 174,
+                  "maxValue": 249,
+                  "priority": 1,
+                  "couponCode": "SUPERSAVER",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 125
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code SUPERSAVER",
+                  "unlockedMessage": "SUPERSAVER Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {}
+                },
+                {
+                  "minValue": 279,
+                  "maxValue": 399,
+                  "priority": 3,
+                  "couponCode": "MEGASAVER",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 175
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹175 | Code MEGASAVER",
+                  "unlockedMessage": "MEGASAVER Coupon Unlocked! Use it to save ₹175",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "The Extras",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "40481437",
+                              "name": "Only Misal",
+                              "category": "The Extras",
+                              "description": "A hearty and flavorful vegetarian dish sure to leave you completely satisfied.",
+                              "imageId": "70d7218472df04b015ed62a1c128b6a3",
+                              "isVeg": 1,
+                              "price": 5500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "1046 ratings",
+                                  "ratingCountV2": "1046"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "40481433",
+                              "name": "Papad",
+                              "category": "The Extras",
+                              "description": "Crispy and flavorful bites perfect for snacking.",
+                              "imageId": "ob5fha49shhbpcz2d1du",
+                              "isVeg": 1,
+                              "price": 1000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "1077 ratings",
+                                  "ratingCountV2": "1077"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "40481434",
+                              "name": "Dahi",
+                              "category": "The Extras",
+                              "imageId": "3d677da94089da2b0f2926e3a5d3b8ec",
+                              "isVeg": 1,
+                              "price": 1000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "262 ratings",
+                                  "ratingCountV2": "262"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "40481436",
+                              "name": "Matki",
+                              "category": "The Extras",
+                              "isVeg": 1,
+                              "price": 3000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "355 ratings",
+                                  "ratingCountV2": "355"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "40481435",
+                              "name": "Shev",
+                              "category": "The Extras",
+                              "imageId": "jdqhfckbisr6hlp36apc",
+                              "isVeg": 1,
+                              "price": 2000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "747 ratings",
+                                  "ratingCountV2": "747"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "40800136",
+                              "name": "Extra Rassa",
+                              "category": "The Extras",
+                              "isVeg": 1,
+                              "price": 3000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "719 ratings",
+                                  "ratingCountV2": "719"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "40481432",
+                              "name": "Pav (1 Pc)",
+                              "category": "The Extras",
+                              "description": "Lightly toasted in desi ghee.",
+                              "imageId": "cwvrwbyk29qfzzzjo5og",
+                              "isVeg": 1,
+                              "price": 1000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "2591 ratings",
+                                  "ratingCountV2": "2591"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Main Course",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "40800137",
+                              "name": "Chulivarchi Misal",
+                              "description": "Serves 1.",
+                              "imageId": "pyirbg2ocenvigqyc4nw",
+                              "isVeg": 1,
+                              "price": 10500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "On The Side",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "40481447",
+                              "name": "Mineral Water (1 ltr)",
+                              "isVeg": 1,
+                              "price": 2000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Must Try",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "40481449",
+                              "name": "Gulachi Jalebi",
+                              "description": "Prepared in desi ghee and jaggery (serves 1).",
+                              "imageId": "qjzm20fbp87zzyotnbmg",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Sadhana Chulivarchi Misal",
+                      "area": "Sharanpur Road",
+                      "completeAddress": "Maru Shopping Centre, Opp. Zilla Parishad, Trimbak Naka, Shalimar, Nashik, Maharashtra 422001"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
