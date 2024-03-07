@@ -1,0 +1,2026 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "24441",
+              "name": "Domino's Pizza",
+              "cuisines": ["Pizzas", "Italian"],
+              "nudgeBanners": [
+                {
+                  "minValue": 209,
+                  "maxValue": 299,
+                  "priority": 1,
+                  "couponCode": "WELCOMEDOM150",
+                  "discountInfo": { "discountType": "Flat", "value": 150 },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹150 | Code WELCOMEDOM150",
+                  "unlockedMessage": "WELCOMEDOM150 Coupon Unlocked! Use it to save ₹150",
+                  "logoCtx": {}
+                },
+                {
+                  "minValue": 734,
+                  "maxValue": 1049,
+                  "priority": 2,
+                  "couponCode": "FLAT100",
+                  "discountInfo": { "discountType": "Flat", "value": 100 },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹100 | Code FLAT100",
+                  "unlockedMessage": "FLAT100 Coupon Unlocked! Use it to save ₹100",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105215385",
+                              "name": "Al Fungi Gourmet-Pizza",
+                              "category": "New Launches",
+                              "description": "Gourmet mushroom pizza on a cheesy Mozzarella base with jalapenos & cherry tomatoes.",
+                              "imageId": "4ffebb537f043e94e09e928f48e640e9",
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "36899090",
+                                    "name": "Crust",
+                                    "variations": [
+                                      {
+                                        "name": "New Hand Tossed",
+                                        "default": 1,
+                                        "id": "114954518",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36899091",
+                                          "variationId": "114954520"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "36899091",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Medium",
+                                        "default": 1,
+                                        "id": "114954520",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Large",
+                                        "id": "114954522",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36899090",
+                                        "variationId": "114954518"
+                                      },
+                                      {
+                                        "groupId": "36899091",
+                                        "variationId": "114954520"
+                                      }
+                                    ],
+                                    "price": 54900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36899090",
+                                        "variationId": "114954518"
+                                      },
+                                      {
+                                        "groupId": "36899091",
+                                        "variationId": "114954522"
+                                      }
+                                    ],
+                                    "price": 84900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "defaultPrice": 54900,
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105215384",
+                              "name": "Primavera Gourmet-Pizza",
+                              "category": "New Launches",
+                              "description": "Gourmet veggie delight with bocconcini, zucchini, bell peppers, and mushrooms.",
+                              "imageId": "76a45d83f5724cf6bdb9bce94998a80c",
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "36901579",
+                                    "name": "Crust",
+                                    "variations": [
+                                      {
+                                        "name": "New Hand Tossed",
+                                        "default": 1,
+                                        "id": "114961763",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36901580",
+                                          "variationId": "114961764"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "36901580",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Medium",
+                                        "default": 1,
+                                        "id": "114961764",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Large",
+                                        "id": "114961765",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36901579",
+                                        "variationId": "114961763"
+                                      },
+                                      {
+                                        "groupId": "36901580",
+                                        "variationId": "114961764"
+                                      }
+                                    ],
+                                    "price": 54900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36901579",
+                                        "variationId": "114961763"
+                                      },
+                                      {
+                                        "groupId": "36901580",
+                                        "variationId": "114961765"
+                                      }
+                                    ],
+                                    "price": 84900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "defaultPrice": 54900,
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105215390",
+                              "name": "Quattro Formaggi Gourmet-Pizza",
+                              "category": "New Launches",
+                              "description": "Gourmet cheesy delight with bocconcini, mozzarella, cheddar and ghost pepper cheese.",
+                              "imageId": "6bb15b95d309bb2c89d9bb93648ee399",
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "36900802",
+                                    "name": "Crust",
+                                    "variations": [
+                                      {
+                                        "name": "New Hand Tossed",
+                                        "default": 1,
+                                        "id": "114959525",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36900804",
+                                          "variationId": "114959529"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "36900804",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Medium",
+                                        "default": 1,
+                                        "id": "114959529",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Large",
+                                        "id": "114959530",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36900802",
+                                        "variationId": "114959525"
+                                      },
+                                      {
+                                        "groupId": "36900804",
+                                        "variationId": "114959529"
+                                      }
+                                    ],
+                                    "price": 54900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36900802",
+                                        "variationId": "114959525"
+                                      },
+                                      {
+                                        "groupId": "36900804",
+                                        "variationId": "114959530"
+                                      }
+                                    ],
+                                    "price": 84900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "defaultPrice": 54900,
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105215389",
+                              "name": "Smoked Chicken Gourmet-Pizza",
+                              "category": "New Launches",
+                              "description": "Gourmet non-veg delight with bocconcini, juicy chicken, olives, bellpeppers & basil pesto.",
+                              "imageId": "885b69e4783d1d1397c765389671265f",
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "36900400",
+                                    "name": "Crust",
+                                    "variations": [
+                                      {
+                                        "name": "New Hand Tossed",
+                                        "default": 1,
+                                        "id": "114958338",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36900401",
+                                          "variationId": "114958339"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "36900401",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Medium",
+                                        "default": 1,
+                                        "id": "114958339",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Large",
+                                        "id": "114958340",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36900400",
+                                        "variationId": "114958338"
+                                      },
+                                      {
+                                        "groupId": "36900401",
+                                        "variationId": "114958339"
+                                      }
+                                    ],
+                                    "price": 69900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36900400",
+                                        "variationId": "114958338"
+                                      },
+                                      {
+                                        "groupId": "36900401",
+                                        "variationId": "114958340"
+                                      }
+                                    ],
+                                    "price": 99900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": { "vegClassifier": "NONVEG" },
+                              "defaultPrice": 69900,
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105215387",
+                              "name": "Chicken Pepperoni Gourmet-Pizza",
+                              "category": "New Launches",
+                              "description": "The classic Italian gourmet pizza with bocconcini cheese and chicken pepperoni.",
+                              "imageId": "b206b88178f94f2ccf94c72afb5c98e0",
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "36902128",
+                                    "name": "Crust",
+                                    "variations": [
+                                      {
+                                        "name": "New Hand Tossed",
+                                        "default": 1,
+                                        "id": "114963405",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36902129",
+                                          "variationId": "114963407"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "36902129",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Medium",
+                                        "default": 1,
+                                        "id": "114963407",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Large",
+                                        "id": "114963408",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902128",
+                                        "variationId": "114963405"
+                                      },
+                                      {
+                                        "groupId": "36902129",
+                                        "variationId": "114963407"
+                                      }
+                                    ],
+                                    "price": 69900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902128",
+                                        "variationId": "114963405"
+                                      },
+                                      {
+                                        "groupId": "36902129",
+                                        "variationId": "114963408"
+                                      }
+                                    ],
+                                    "price": 99900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": { "vegClassifier": "NONVEG" },
+                              "defaultPrice": 69900,
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "117106479",
+                              "name": "Blazing Onion & Paprika",
+                              "category": "New Launches",
+                              "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.",
+                              "imageId": "09829ae11e2534aeac210833c2f2ae39",
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "36902050",
+                                    "name": "Crust",
+                                    "variations": [
+                                      {
+                                        "name": "New Hand Tossed",
+                                        "default": 1,
+                                        "id": "114963171",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36902051",
+                                          "variationId": "114963176"
+                                        }
+                                      },
+                                      {
+                                        "name": "100% Wheat Thin Crust",
+                                        "id": "114963172",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36902051",
+                                          "variationId": "114963176"
+                                        }
+                                      },
+                                      {
+                                        "name": "Cheese Burst",
+                                        "id": "114963173",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36902051",
+                                          "variationId": "114963176"
+                                        }
+                                      },
+                                      {
+                                        "name": "Fresh Pan Pizza",
+                                        "id": "114963174",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "36902051",
+                                          "variationId": "114963176"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "36902051",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Regular",
+                                        "id": "114963175",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Medium",
+                                        "default": 1,
+                                        "id": "114963176",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Large",
+                                        "id": "114963177",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963171"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963175"
+                                      }
+                                    ],
+                                    "price": 17900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963171"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963177"
+                                      }
+                                    ],
+                                    "price": 54900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963171"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963176"
+                                      }
+                                    ],
+                                    "price": 32900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963173"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963176"
+                                      }
+                                    ],
+                                    "price": 44800
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963173"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963175"
+                                      }
+                                    ],
+                                    "price": 27400
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963174"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963175"
+                                      }
+                                    ],
+                                    "price": 22400
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963174"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963176"
+                                      }
+                                    ],
+                                    "price": 38400
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963172"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963175"
+                                      }
+                                    ],
+                                    "price": 22400
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "36902050",
+                                        "variationId": "114963172"
+                                      },
+                                      {
+                                        "groupId": "36902051",
+                                        "variationId": "114963176"
+                                      }
+                                    ],
+                                    "price": 39400
+                                  }
+                                ]
+                              },
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "defaultPrice": 32900,
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "New Launches",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "105215385",
+                              "name": "Al Fungi Gourmet-Pizza",
+                              "description": "Gourmet mushroom pizza on a cheesy Mozzarella base with jalapenos & cherry tomatoes.",
+                              "imageId": "4ffebb537f043e94e09e928f48e640e9",
+                              "isVeg": 1,
+                              "price": 54900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "105215384",
+                              "name": "Primavera Gourmet-Pizza",
+                              "description": "Gourmet veggie delight with bocconcini, zucchini, bell peppers, and mushrooms.",
+                              "imageId": "76a45d83f5724cf6bdb9bce94998a80c",
+                              "isVeg": 1,
+                              "price": 54900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "105215390",
+                              "name": "Quattro Formaggi Gourmet-Pizza",
+                              "description": "Gourmet cheesy delight with bocconcini, mozzarella, cheddar and ghost pepper cheese.",
+                              "imageId": "6bb15b95d309bb2c89d9bb93648ee399",
+                              "isVeg": 1,
+                              "price": 54900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "105215389",
+                              "name": "Smoked Chicken Gourmet-Pizza",
+                              "description": "Gourmet non-veg delight with bocconcini, juicy chicken, olives, bellpeppers & basil pesto.",
+                              "imageId": "885b69e4783d1d1397c765389671265f",
+                              "price": 69900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "105215387",
+                              "name": "Chicken Pepperoni Gourmet-Pizza",
+                              "description": "The classic Italian gourmet pizza with bocconcini cheese and chicken pepperoni.",
+                              "imageId": "b206b88178f94f2ccf94c72afb5c98e0",
+                              "price": 69900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117106479",
+                              "name": "Blazing Onion & Paprika",
+                              "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.",
+                              "imageId": "09829ae11e2534aeac210833c2f2ae39",
+                              "isVeg": 1,
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117106481",
+                              "name": "Fiery Jalapeno & Paprika",
+                              "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.",
+                              "imageId": "0d542e845410d41657e1c91cd53704d1",
+                              "isVeg": 1,
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117106485",
+                              "name": "Blazing Chicken & Paprika",
+                              "description": "Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce.",
+                              "imageId": "698685a1cec5dacd6d92b7340e7fd5ff",
+                              "price": 44900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117106483",
+                              "name": "Fiery Sausage & Paprika",
+                              "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base.",
+                              "imageId": "2190eb54162d9a61e34e6970d53cbcc2",
+                              "price": 44900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Party Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113684287",
+                              "name": "Special Party for 4 (Veg) @Rs. 180 off",
+                              "description": "Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Pepsi",
+                              "imageId": "beff5508f9c820eef7303bec9dac12a2",
+                              "isVeg": 1,
+                              "price": 99900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119170081",
+                              "name": "Pizza Party for 4 (Veg) @Rs. 180 Off",
+                              "description": "Meal for 4: Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Regular Farmhouse + Regular Veggie Paradise",
+                              "imageId": "16d9bf4e70fff67dff8ce755b23ab000",
+                              "isVeg": 1,
+                              "price": 99900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119170079",
+                              "name": "Party for 4 (Veg) @Rs. 130 off",
+                              "description": "Meal for 4: Medium Margherita + Medium Farmhouse with Garlic Bread & 2 Pepsi",
+                              "imageId": "96566f9c1549f70084cf550786445c57",
+                              "isVeg": 1,
+                              "price": 82900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113684284",
+                              "name": "Extravaganza Party for 2 (Veg) @Rs. 110 off",
+                              "description": "Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Garlic Bread + Pepsi",
+                              "imageId": "7f5375e30679420cb4b691126feb6d61",
+                              "isVeg": 1,
+                              "price": 69900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119170077",
+                              "name": "Dominator Party for 2 (Non-Veg) @Rs. 140 off",
+                              "description": "Meal for 2: Regular Non Veg Supreme + Regular Chicken Dominator with Garlic Bread & Pepsi",
+                              "imageId": "743afad04890d8087f268b45ebc17041",
+                              "price": 76900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "125891422",
+                              "name": "Special Party for 2 (Veg) @Rs. 105 off",
+                              "description": "Regular Farmhouse + Regular Peppy Paneer + Garlic Bread + Pepsi",
+                              "imageId": "f75e484c4ae9e9b7bf3f7bfb14da736e",
+                              "isVeg": 1,
+                              "price": 59900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "131414955",
+                              "name": "Match Day Veg Combo @Rs. 110 off",
+                              "description": "Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava Cake & Pepsi",
+                              "imageId": "80c0a378d5a09f45ca7881518ab276dd",
+                              "isVeg": 1,
+                              "price": 69900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "119170075",
+                              "name": "Special Party for 2 (Non-Veg) @Rs. 115 off",
+                              "description": "Meal for 2: Regular Pepper BBQ Chicken + Regular Chicken Dominator with Garlic Bread & Pepsi",
+                              "imageId": "c314a5711c2c1d6cfa607e452abb9719",
+                              "price": 67900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113684272",
+                              "name": "Party for 2 (Non-Veg) @Rs. 85 off",
+                              "description": "Regular Pepper BBQ Chicken + Regular Chicken Sausage + Garlic Bread + Pepsi",
+                              "imageId": "273dbf72b86e4a7bb7d40567d0a4b6ab",
+                              "price": 54900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113684282",
+                              "name": "Party for 2 (Veg) @Rs. 75 off",
+                              "description": "Regular Margherita +Regular  Farmhouse + Garlic Bread + Pepsi",
+                              "imageId": "505e6dd8dc359fa5406e9409642446d0",
+                              "isVeg": 1,
+                              "price": 46900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113684277",
+                              "name": "Dominator Party for 4 (Non-Veg) @Rs. 300 off",
+                              "description": "Medium Non Veg Supreme + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
+                              "imageId": "dec9e95961d22a5169700bb34b27b5e2",
+                              "price": 115900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Value Meals",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "107335645",
+                              "name": "Meal for 4: Veg Loaded Pizza",
+                              "description": "Regular Veg Extravaganza + Regular Veg Paradise Pizza + Regular Indi Tandoori Paneer + Regular Farmhouse",
+                              "imageId": "cec2c497598bb14d08214e28b4beb672",
+                              "isVeg": 1,
+                              "price": 94900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "107335525",
+                              "name": "Meal for 2: Pepper BBQ Chicken & Spiced Double Chicken",
+                              "description": "Regular Pepper BBQ Chicken + Regular Spiced Double Chicken + Garlic Bread + Pepsi",
+                              "imageId": "db7b7c52258c9b4d15f5a20841907c6f",
+                              "price": 61900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "107335592",
+                              "name": "Meal for 4: Veg Extravaganza & Indi Tandoori Paneer",
+                              "description": "Medium Veg Extravaganza + Medium Indi Tandoori Paneer + Garlic Bread + 2 Pepsi",
+                              "imageId": "7e1f7ba41599d73a1bd694f43800d30d",
+                              "isVeg": 1,
+                              "price": 111900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117822581",
+                              "name": "Choco Lava Cake + Pepsi",
+                              "description": "Get the indulgent Choco Lava Cake & a Pepsi (475 ml) for just INR 149",
+                              "imageId": "b5afe1af1218fffedbe16fc58c0edddf",
+                              "isVeg": 1,
+                              "price": 14900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121329112",
+                              "name": "Spicy Non Veg Combo @ Rs. 95 Off",
+                              "description": "Reg Blazing ChK & Paprika + Reg Fiery Sausage & Paprika + GB + Pepsi",
+                              "imageId": "75ed6c50e47f28f1ba1cd70fd422a9ca",
+                              "price": 56900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "107335569",
+                              "name": "Meal for 4: Margherita & Peppy Paneer",
+                              "description": "Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Pepsi",
+                              "imageId": "211f75f7fb418271095f26a3d56caac1",
+                              "isVeg": 1,
+                              "price": 78900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "107335469",
+                              "name": "Meal for 2: Farmhouse & Veg Extravaganza",
+                              "description": "Regular Farmhouse + Regular Veg Extravaganza + Garlic Bread + Pepsi",
+                              "imageId": "996ed7334940ce4431e6415b9e31779d",
+                              "isVeg": 1,
+                              "price": 61900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "115659062",
+                              "name": "Garlic Breadsticks + Pepsi",
+                              "description": "Enjoy the all time favourite Garlic Breadsticks with Pepsi (475 ml)",
+                              "imageId": "69345321ee78c9a71425e23b26283558",
+                              "isVeg": 1,
+                              "price": 14900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "107335639",
+                              "name": "Meal for 4: Veg Cheesy Pizza",
+                              "description": "Regular Fresh Veggie + Regular Peppy Paneer + Regular Corn n Cheese + Regular Farmhouse",
+                              "imageId": "4fee651233047ae8a2f077c90c35cc33",
+                              "isVeg": 1,
+                              "price": 79900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121329117",
+                              "name": "Spicy Veg Party Combo @ Rs. 140 off",
+                              "description": "Med Blazing On & Paprika + Med Fiery Jalapeno & Paprika + 2GB + 2 Pepsi",
+                              "imageId": "29101a5eb18045c038a511e60bee27a9",
+                              "isVeg": 1,
+                              "price": 84900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "107335693",
+                              "name": "Meal for 4: Non Veg Pizza Mania Value",
+                              "description": "2 PM Pepper Barbecue Chicken + PM Chicken Sausage + PM Non Veg Loaded",
+                              "imageId": "db9a1aa724ad79b6a20efb5b311a7af0",
+                              "price": 44900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121329119",
+                              "name": "Spicy Non Veg Party Combo @ Rs. 180 off",
+                              "description": "Med Blazing ChK & Paprika + Med Fiery Sausage & Paprika + 2GB + 2 Pepsi",
+                              "imageId": "7c99650aff626b15071078b319a0c84b",
+                              "price": 104900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "107335480",
+                              "name": "Meal for 2: Veg Paradise & Farmhouse",
+                              "description": "Regular Veg Paradise + Regular Farmhouse + Garlic Bread + Pepsi",
+                              "imageId": "0b454e29d106da0decaf20ad5aeb175a",
+                              "isVeg": 1,
+                              "price": 58900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121329111",
+                              "name": "Spicy Veg Combo @ Rs. 75 Off",
+                              "description": "Reg Blazing On & Paprika + Reg Fiery Jalapeno & Paprika + GB + Pepsi",
+                              "imageId": "c10f93bce05019d15b4244f800ee9830",
+                              "isVeg": 1,
+                              "price": 44900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121329110",
+                              "name": "Garlic Breadsticks + Cheesy Dip",
+                              "description": "Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip",
+                              "imageId": "c74e28521828e6654a5ecffff1de9735",
+                              "isVeg": 1,
+                              "price": 13757
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121329114",
+                              "name": "Hot and Sweet Veg Combo @ Rs. 75 Off",
+                              "description": "Reg Blazing On & Paprika + Reg Fiery Jalapeno & Paprika + CLC + Pepsi",
+                              "imageId": "47f24436d2ba7718d6d1d9dd79560c77",
+                              "isVeg": 1,
+                              "price": 44900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Dominos Classics",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898653",
+                              "name": "Margherita Pizza",
+                              "description": "Classic delight with 100% real mozzarella cheese. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                              "imageId": "7850b115687ee8594f9d7f0a66c2ee84",
+                              "isVeg": 1,
+                              "price": 25900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898657",
+                              "name": "Double Cheese Margherita Pizza",
+                              "description": "A classic delight loaded with extra 100% real mozzarella cheese",
+                              "imageId": "15c3a34b64ec4298f2a0778d1b008919",
+                              "isVeg": 1,
+                              "price": 39900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898794",
+                              "name": "Fresh Veggie Pizza",
+                              "description": "Delectable combination of onion & capsicum, a veggie lovers pick",
+                              "imageId": "d9c548f1cb841844f151ffa3de873e4b",
+                              "isVeg": 1,
+                              "price": 39900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898790",
+                              "name": "Cheese n Corn Pizza",
+                              "description": "A delectable combination of sweet & juicy golden corn",
+                              "imageId": "25f8cd12a914066c7c9627d42eafd926",
+                              "isVeg": 1,
+                              "price": 39900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898675",
+                              "name": "Peppy Paneer Pizza",
+                              "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+                              "imageId": "0581f2e3b7d0b3ede4b476c1d64a6434",
+                              "isVeg": 1,
+                              "price": 47900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899210",
+                              "name": "Chicken Sausage Pizza",
+                              "description": "American classic! Spicy, herbed chicken sausage on pizza",
+                              "imageId": "5779285fbfb3c04730f0b71ba4132255",
+                              "price": 38900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899203",
+                              "name": "Pepper Barbecue Chicken Pizza",
+                              "description": "Pepper barbecue chicken for that extra zing. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                              "imageId": "7602a3d88b2aeb0053954d96be9a9829",
+                              "price": 46900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "82814773",
+                              "name": "Spiced Double Chicken",
+                              "description": "Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers.",
+                              "imageId": "613401a1232b2bd8ba3c5ecb6173dc38",
+                              "price": 55900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899056",
+                              "name": "Chicken Golden Delight Pizza",
+                              "description": "Double pepper barbecue chicken, golden corn and extra cheese, true delight",
+                              "imageId": "69f2a726bd1ec0208ab36708ea02ae90",
+                              "price": 57900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899190",
+                              "name": "Chicken Pepperoni Pizza",
+                              "description": "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese",
+                              "imageId": "973d3c0fcc111b4c92bc49fbb775266c",
+                              "price": 61900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Loaded Pizza",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898788",
+                              "name": "Veggie Paradise Pizza",
+                              "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+                              "imageId": "2a8ea479040d62f82871e1be7470672a",
+                              "isVeg": 1,
+                              "price": 47900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898664",
+                              "name": "Farmhouse Pizza",
+                              "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                              "imageId": "96df50829eda0c0ffcc5169aeeb86a14",
+                              "isVeg": 1,
+                              "price": 47900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898686",
+                              "name": "Mexican Green Wave Pizza",
+                              "description": "Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+                              "imageId": "0d1949eef23c572096269d890e438efb",
+                              "isVeg": 1,
+                              "price": 47900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898782",
+                              "name": "Veg Extravaganza Pizza",
+                              "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                              "imageId": "80355befb12f52c22eb75c6f865ca328",
+                              "isVeg": 1,
+                              "price": 57900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "75125393",
+                              "name": "The 4 Cheese Pizza",
+                              "description": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza, including a spicy hit of Ghost Pepper flavoured Cheese",
+                              "imageId": "fd7f927d5acf2244f17ec2a5b2512773",
+                              "isVeg": 1,
+                              "price": 63900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899196",
+                              "name": "Chicken Fiesta Pizza",
+                              "description": "Grilled chicken rashers, peri-peri chicken, onion & capsicum, a complete fiesta",
+                              "imageId": "274348f5f584d2893c654f7880c3eacb",
+                              "price": 57900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899048",
+                              "name": "Chicken Dominator Pizza",
+                              "description": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                              "imageId": "22118134ebce9f89b2c12b95c19154db",
+                              "price": 61900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899064",
+                              "name": "Non Veg Supreme Pizza",
+                              "description": "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers",
+                              "imageId": "f03bf80c03fa196e84ccb8f2510b2ef8",
+                              "price": 61900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "82814815",
+                              "name": "The 5 Chicken Feast Pizza",
+                              "description": "Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken Meatballs, Chicken Tikka, herby Chicken Sausage and flavorful Chicken Keema",
+                              "imageId": "03998b8a2a364faffde45ceb2bb95812",
+                              "price": 69900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Flavours of India",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899032",
+                              "name": "Achari Do Pyaza Pizza",
+                              "description": "Tangy & spicy achari flavours on a super cheesy onion pizza- as desi as it gets!",
+                              "imageId": "14d8197b31ae36df0b697ba52b204d17",
+                              "isVeg": 1,
+                              "price": 34900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91334248",
+                              "name": "Corn n Cheese Paratha Pizza",
+                              "description": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
+                              "imageId": "4632dbb593cccf672f8e28638ce3e8f8",
+                              "isVeg": 1,
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898800",
+                              "name": "Indi Tandoori Paneer Pizza",
+                              "description": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                              "imageId": "010b29da595df93d828ca0dca935821a",
+                              "isVeg": 1,
+                              "price": 57900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91334250",
+                              "name": "Chicken Keema Paratha Pizza",
+                              "description": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
+                              "imageId": "47eaf1f74ab478d1604f4f4da9a3c617",
+                              "price": 25900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899217",
+                              "name": "Indi Chicken Tikka Pizza",
+                              "description": "The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo",
+                              "imageId": "0e1a0ba55f0f03990c7e4331b404845a",
+                              "price": 61900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "PIZZA MANIA",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "110401592",
+                              "name": "Chicken Keema & Onion with Desi Makhani Sauce",
+                              "description": "Authentic Indian Flavor of Makhani Sauce loaded with meaty Chicken Keema and crunchy Onion.",
+                              "imageId": "3df23818f7ab45dbd2268ca1d67cb1ad",
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "110401595",
+                              "name": "Paneer, Onion & Capsicum with Desi Makhani Sauce",
+                              "description": "Authentic Indian Flavor of Makhani Sauce loaded with juicy Paneer, crisp Capsicum and crunchy Onion.",
+                              "imageId": "d3dcf25529b780071e99443e0fff16d2",
+                              "isVeg": 1,
+                              "price": 12900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899227",
+                              "name": "Non Veg Loaded",
+                              "description": "Chicken sausage, pepper barbecue chicken & peri-peri chicken in a fresh pan crust",
+                              "imageId": "fe37811c8d1a9b0c5923ff1a60926b7d",
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899229",
+                              "name": "Veg Loaded",
+                              "description": "Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust",
+                              "imageId": "67f137415f266758203dea6e20d5ee66",
+                              "isVeg": 1,
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "110401596",
+                              "name": "Paneer & Capsicum with Videshi Hot Sauce",
+                              "description": "Internationally inspired Hot sauce to cater your spice cravings loaded with juicy Paneer and crisp Capsicum.",
+                              "imageId": "19e473103f43185544a02acd6c842b94",
+                              "isVeg": 1,
+                              "price": 10900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "110401597",
+                              "name": "Capsicum & Red Paprika with Videshi Hot Sauce",
+                              "description": "Internationally inspired Hot sauce to cater your spice cravings loaded with crisp Capsicum and spicy Red Paprika.",
+                              "imageId": "8a2543c260fc6d8f461de94481723cc6",
+                              "isVeg": 1,
+                              "price": 8900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91971636",
+                              "name": "Pepper Barbecue Chicken",
+                              "description": "Pepper barbecue chicken for that extra zing",
+                              "imageId": "352e0cafc4caef8ef5f4eac224b1db46",
+                              "price": 11900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91971637",
+                              "name": "Chicken Sausage",
+                              "description": "American classic! Spicy, herbed chicken sausage on pizza",
+                              "imageId": "991a7fd58aa8d1598537b965937fd904",
+                              "price": 10900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899255",
+                              "name": "Golden Corn",
+                              "description": "Sweet & juicy golden corn for that lipsmacking taste",
+                              "imageId": "a302da0d414837495c1576b64dd943e0",
+                              "isVeg": 1,
+                              "price": 8900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "110506189",
+                              "name": "Classic",
+                              "description": "A classic pizza topped with sprinkle of basil and parsley herbs",
+                              "imageId": "f05bf56a2943904aff5e4a8357a4c3c8",
+                              "isVeg": 1,
+                              "price": 9400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899269",
+                              "name": "Onion",
+                              "description": "Our classic Pizza Mania topped with crunchy Onions",
+                              "imageId": "2cdd0e3b01910393d5e9361822b1b02c",
+                              "isVeg": 1,
+                              "price": 9900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "GARLIC BREADS & MORE",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899289",
+                              "name": "Garlic Breadsticks",
+                              "description": "Baked to perfection. Your perfect pizza partner! Tastes best with dip",
+                              "imageId": "1633e1c6916141a456e5c4dbda6c0b4e",
+                              "isVeg": 1,
+                              "price": 10900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899305",
+                              "name": "Classic Stuffed Garlic Bread",
+                              "description": "Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno",
+                              "imageId": "676c42f9653340f8fec500bedbab2714",
+                              "isVeg": 1,
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899297",
+                              "name": "Cheesy Dip",
+                              "description": "An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence",
+                              "imageId": "a325ca68cb886844e4864a43f7cdf48a",
+                              "isVeg": 1,
+                              "price": 2857
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898457",
+                              "name": "Paneer Tikka Stuffed Garlic Bread",
+                              "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+                              "imageId": "a3aea7aa78dad6063b9e58dffe137ad4",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91898461",
+                              "name": "Chicken Pepperoni Stuffed Garlic Bread",
+                              "description": "Freshly Baked Garlic Bread stuffed with Delectable Chicken Pepperoni, Cheese and sprinkled with Basil Parsley",
+                              "imageId": "bef98f394ddb464599cad2b3fe34d7d0",
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899311",
+                              "name": "Taco Mexicana Veg",
+                              "description": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce",
+                              "imageId": "bff19c7eeec11a2f3da22516d169b178",
+                              "isVeg": 1,
+                              "price": 14500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899307",
+                              "name": "Taco Mexicana Non Veg",
+                              "description": "Truly irresistible! Crispy taco with non-veg patty & creamy harissa sauce",
+                              "imageId": "118610bb1b497c0090177b709a452636",
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91971642",
+                              "name": "Chicken Meatballs Peri-Peri Sauce",
+                              "description": "Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri Sauce",
+                              "imageId": "d904cec2b2b1cdec799681d58d46e231",
+                              "price": 15500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899315",
+                              "name": "Veg Parcel",
+                              "description": "Snacky bites! Pizza rolls with paneer & creamy harissa sauce",
+                              "imageId": "8ba74a9b3310071b1d40233779a13e1e",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899314",
+                              "name": "Chicken Parcel",
+                              "description": "Snacky bites! Pizza rolls with chicken sausage & creamy harissa sauce",
+                              "imageId": "71db5a4175ec65fee10846a8eae012c5",
+                              "price": 5500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899317",
+                              "name": "Burger Pizza - Classic Veg",
+                              "description": "Oven-baked buns with cheese, tomato & capsicum in creamy mayo",
+                              "imageId": "afe9096778a80464e5fe9e31ee4fa85d",
+                              "isVeg": 1,
+                              "price": 12500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899319",
+                              "name": "Burger Pizza - Premium Veg",
+                              "description": "Oven-baked buns with cheese, paneer, tomato, capsicum & red paprika in creamy mayo",
+                              "imageId": "a7781f70e2a27ec2cac3d95ffd7a7e71",
+                              "isVeg": 1,
+                              "price": 15500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899321",
+                              "name": "Burger Pizza - Classic Non Veg",
+                              "description": "Oven-baked buns with cheese, peri-peri chicken, tomato & capsicum in creamy mayo",
+                              "imageId": "9e550e800c4d644bca300bc656e250a4",
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899275",
+                              "name": "Roasted Chicken Wings Peri-Peri",
+                              "description": "Crisp, roasted chicken wings in classic hot sauce and peri-peri flavour",
+                              "imageId": "ff59d69d545cbdaa0af4ec34010cdf12",
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101996493",
+                              "name": "Harissa Dip",
+                              "description": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices.",
+                              "imageId": "9a27f14dd6535b2e4017451a6b7ea895",
+                              "isVeg": 1,
+                              "price": 4667
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101996492",
+                              "name": "Basil Pesto Dip",
+                              "description": "Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!",
+                              "imageId": "eaca2a50961c63fdd31ae9ecdb7de4f0",
+                              "isVeg": 1,
+                              "price": 4667
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "51297516",
+                              "name": "Tomato Ketchup",
+                              "description": "Goodness of Tomato Ketchup in mini sachets",
+                              "imageId": "84c5c43ae99bf786eb693b274194c9a0",
+                              "isVeg": 1,
+                              "price": 95
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93083953",
+                              "name": "Taco Mexicana Veg (Single)",
+                              "description": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce",
+                              "imageId": "50bf5f2488d4d147fbd6adf0c47b63b6",
+                              "isVeg": 1,
+                              "price": 7900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "DESSERTS",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "69365386",
+                              "name": "Red Velvet Lava Cake",
+                              "description": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
+                              "imageId": "5b3d592a85ad33a732d18bb41fdfc59f",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91899300",
+                              "name": "Choco Lava Cake",
+                              "description": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake",
+                              "imageId": "517791a68253a9a5084664b470f6e115",
+                              "isVeg": 1,
+                              "price": 10900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "17875887",
+                              "name": "Butterscotch Mousse Cake",
+                              "description": "Sweet temptation! Butterscotch flavored mousse",
+                              "imageId": "e91002ccf7239fffeceaab4956a15a3a",
+                              "isVeg": 1,
+                              "price": 10381
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "BEVERAGES",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "23665785",
+                              "name": "Pepsi 475ml",
+                              "description": "Sparkling and Refreshing Beverage",
+                              "imageId": "f6af24125864ca5dcd44bd41b5fc9f47",
+                              "isVeg": 1,
+                              "price": 5714
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "48682860",
+                              "name": "Pepsi Black Can 300ml",
+                              "description": "Maximum Taste Zero Calories",
+                              "imageId": "1100f94a18b2801492c0909f06eafce1",
+                              "isVeg": 1,
+                              "price": 5714
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "51297527",
+                              "name": "7Up 475ml",
+                              "description": "Refreshing clear drink with a natural lemon flavor",
+                              "imageId": "216209b36b8c5be6dc19d1e371027bc1",
+                              "isVeg": 1,
+                              "price": 5714
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "28025854",
+                              "name": "Mirinda 475ml",
+                              "description": "Delicious Orange Flavoured beverage",
+                              "imageId": "5490c2372f73e90456bc8dbf1e0ad590",
+                              "isVeg": 1,
+                              "price": 5714
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104955129",
+                              "name": "Nagpur Orange",
+                              "description": "Enjoy Oranges from Nagpur with the goodness of Fiber",
+                              "imageId": "cace054d6d50a3af9f62284a5ce99192",
+                              "isVeg": 1,
+                              "price": 7143
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "70563838",
+                              "name": "B Natural Alphonsos from Ratnagiri (300 ml)",
+                              "description": "Alphonsos only from Ratnagiri with the Goodness of Fiber",
+                              "imageId": "9823ab8b7691d226119135e6c86ced44",
+                              "isVeg": 1,
+                              "price": 7143
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "70563850",
+                              "name": "B Natural Mixed Fruit from Himalayas (300 ml)",
+                              "description": "Premium fruits from Himalayas with the Goodness of Fiber",
+                              "imageId": "7f82838f68c1908ca6db2141cf7c5e8c",
+                              "isVeg": 1,
+                              "price": 7143
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "69194643",
+                              "name": "Lipton Ice Tea ( 350 ml)",
+                              "description": "Refreshment Sahi, Gas Nahi",
+                              "imageId": "357a369a728d26d67e6dafdef7f608e8",
+                              "isVeg": 1,
+                              "price": 5714
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "61312417",
+                              "name": "Bailley One (500ml)",
+                              "description": "Packaged Drinking Water",
+                              "imageId": "36442ed383063ed03070b7e7dde45b93",
+                              "isVeg": 1,
+                              "price": 1904
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Domino's Pizza",
+                      "area": "Hinjawadi",
+                      "completeAddress": "Showroom No1 Ground Floor Hinjawadi Tal-Mulshi Dist-Puna Maharashtra 411057"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

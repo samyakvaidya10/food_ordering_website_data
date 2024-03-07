@@ -1,0 +1,905 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "14780",
+              "name": "Pizza Hut",
+              "cuisines": ["Pizzas"]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328849",
+                              "name": "Melts Meal for 1 with Fries - Veg",
+                              "description": "Serves 1 | Choose your favourite Melts & baked Fries. Customize your satisfaction.",
+                              "imageId": "77b13d58799f70f670be31e6fe53374e",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 25900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328850",
+                              "name": "Melts 3 Course Meal for 1 - Veg",
+                              "description": "Serves 1 | The perfect \"Me Time\" meal. Choose your favourite Melts and Fries accompanied with 1 Pepsi PET",
+                              "imageId": "8183f4dc4fd3a1046f1e3334e061c5bf",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 30900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328851",
+                              "name": "Melts Meal for 1 with Fries Non-Veg",
+                              "description": "Serves 1 | Choose your favourite Melts & baked Fries. Customize your satisfaction.",
+                              "imageId": "da8429720566b8992d5c1c6bfeecdd2c",
+                              "showImage": true,
+                              "price": 30900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328853",
+                              "name": "Melts 3 Course Meal for 1 Non-Veg",
+                              "description": "Serves 1 | The perfect \"Me Time\" meal. Choose your favourite Melts and Fries accompanied with 1 Pepsi PET",
+                              "imageId": "aecf5902ecf7faa53aa89fda3395c989",
+                              "showImage": true,
+                              "price": 35900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328848",
+                              "name": "Create your Melts box of 2 - Veg",
+                              "description": "Serves 1 | Choose any 2 Melts flavour. Double the flavour, double the satisfaction",
+                              "imageId": "e6072e97754de0c6c6030103e0fb50d3",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 39800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328852",
+                              "name": "Create your Melts Box of 2 Non-Veg",
+                              "description": "Serves 1 | Choose any 2 Melts flavour. Double the flavour, double the satisfaction",
+                              "imageId": "e7620274ab99ba415f3e00480020cb48",
+                              "showImage": true,
+                              "price": 49800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135334371",
+                              "name": "Cheesy Popcorn & Loaded BBQ Non-Veg Combo",
+                              "description": "Serves 1 | Satisfy your non veg cravings with Cheesy Cheese Popcorn Chicken & Loaded Chicken BBQ Melts.",
+                              "imageId": "3779ffaf02380c80f951a1ed2b90c997",
+                              "price": 48900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135334372",
+                              "name": "Makhni Paneer & Chicken Tikka Keema Combo",
+                              "description": "Serves 1 | Satisfy your desi flavour cravings with Makhni Paneer & Chicken Tikka Keema Melts",
+                              "imageId": "a6c351a9a53ae0c5fa2e5e401b8bf27a",
+                              "price": 54900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "95900355",
+                              "name": "My Box - Veg",
+                              "description": "Serves 1 | 1 Personal Veg Pizza, 2 Pc Garlic Bread & 1 Pepsi Pet Bottle!",
+                              "imageId": "1acb415ef4a95a8cfaf5051771f4ddfd",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 25900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "95900360",
+                              "name": "My Box - Non Veg",
+                              "description": "Serves 1 | 1 Personal Non Veg Pizza, 2 Pc Garlic Bread & 1 Pepsi Pet Bottle!",
+                              "imageId": "24d7bc06442565eb26020d8a4c04a3f7",
+                              "showImage": true,
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "95900356",
+                              "name": "My Box Pasta - Non Veg",
+                              "description": "Serves 1 | 1 Non Veg Pasta, 2 Pc Plain Garlic Bread & 1 Pepsi Pet",
+                              "imageId": "ab3bd41639a841740d1c357f7837c185",
+                              "showImage": true,
+                              "price": 31900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "95900359",
+                              "name": "My Box Pasta - Veg",
+                              "description": "Serves 1 | 1 Veg Pasta, 2 Pc Plain Garlic Bread & 1 Pepsi Can",
+                              "imageId": "aqihmadiafb7npdlibaa",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 28900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "87272705",
+                              "name": "Hut Treat Meal for 2 - Veg",
+                              "description": "Serves 1 | 1 Medium Veg Pizza upto Signature, 1 Classic BreadStix, 1 Pepsi",
+                              "imageId": "fdfbd0bc28dd767baeafdc2fa6d1cf92",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 54500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "87272706",
+                              "name": "Hut Treat Meal for 2 - Non Veg",
+                              "description": "Serves 1 | 1 Medium Non-Veg Pizza upto Signature, 1 Classic BreadStix, 1 Pepsi",
+                              "imageId": "e1813ded54d01d9634ae46c6d645b28f",
+                              "showImage": true,
+                              "price": 60500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114792904",
+                              "name": "Hut Treat Meal for 4 - Veg",
+                              "description": "Serves 1 | Super Saver Meal Combo @ 859 - 2 Med Veg Pizza of Choice, 2 Classic BreadStix, 2 Pepsi Pet Bottles.",
+                              "imageId": "6d1e29229b6e4a7bc14be4353f55498d",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 88900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114792905",
+                              "name": "Hut Treat Meal for 4 - Non Veg",
+                              "description": "Serves 1 | Super Saver Meal Combo @ 959 - 2 Med Non Veg Pizza of Choice, 2 Classic BreadStix, 2 Pepsi Pet Bottles.",
+                              "imageId": "25f7cfccfd6776894211c99329c55169",
+                              "showImage": true,
+                              "price": 98900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129617028",
+                              "name": "Super Value Deal : 2 Medium Veg Pizzas starting at Rs 585",
+                              "description": "Serves 1 | Choose any 2 of your Favorite Veg Medium Pizza",
+                              "imageId": "ldywxlfetpfojuajk5xe",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 58500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129617029",
+                              "name": "Super Value Deal : 2 Medium Non -Veg Pizzas starting at Rs 685 (Save Upto 39%)",
+                              "description": "Serves 1 | Choose any 2 of your Favorite Non-Veg Medium Pizzas",
+                              "imageId": "afwiagiohxk2lyncwihx",
+                              "showImage": true,
+                              "price": 68500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114792888",
+                              "name": "Exotica Veggie Garlic Bread - New",
+                              "description": "Serves 1 | Hut's signature Garlic Bread topped with spiced exotic veggies and cheesy dressing",
+                              "imageId": "e4f730c3f48f82fce15895dacf3e9081",
+                              "isVeg": 1,
+                              "price": 15900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114792891",
+                              "name": "Masala Keema Garlic Bread",
+                              "description": "Serves 1 | Hut's signature Garlic Bread topped with chicken keema masala, onion and green chilli & cheesy dressing. A must try!",
+                              "imageId": "a8288101773dde9baf1e1b2d3228dbf8",
+                              "price": 18900,
+                              "showImage": true
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "One Plus One Medium @585",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129617028",
+                              "name": "Super Value Deal : 2 Medium Veg Pizzas starting at Rs 585",
+                              "description": "Serves 1 | Choose any 2 of your Favorite Veg Medium Pizza",
+                              "imageId": "ldywxlfetpfojuajk5xe",
+                              "isVeg": 1,
+                              "defaultPrice": 58500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129617029",
+                              "name": "Super Value Deal : 2 Medium Non -Veg Pizzas starting at Rs 685 (Save Upto 39%)",
+                              "description": "Serves 1 | Choose any 2 of your Favorite Non-Veg Medium Pizzas",
+                              "imageId": "afwiagiohxk2lyncwihx",
+                              "defaultPrice": 68500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Veg Pizza",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286447",
+                              "name": "Schezwan Margherita",
+                              "description": "Serves 1 | Your very own Margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese",
+                              "imageId": "0e7df98b7cffdb0b88856464014ad2ff",
+                              "isVeg": 1,
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286450",
+                              "name": "Mexican Fiesta",
+                              "description": "Serves 1 | Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella Cheese with a signature spice sprinkle & our flavourful pan sauce.",
+                              "imageId": "0c4c12819d98a35144e3f08451ae64f3",
+                              "isVeg": 1,
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286454",
+                              "name": "Ultimate Tandoori Veggie",
+                              "description": "Serves 1 | An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo.",
+                              "imageId": "b7d1f56df6414f8b6e49001af95e259a",
+                              "isVeg": 1,
+                              "price": 37500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286457",
+                              "name": "Mazedar Makhni Paneer",
+                              "description": "Serves 1 | A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle",
+                              "imageId": "bf62afee565475fb92a204206321a41c",
+                              "isVeg": 1,
+                              "price": 37500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286460",
+                              "name": "Awesome American Cheesy",
+                              "description": "Serves 1 | Our divine peruvian flavoured cheesy sauce, topped with sweet corn, green capsicum, red paprika and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
+                              "imageId": "9bd233c76aaf2d2745c5c07332609a8c",
+                              "isVeg": 1,
+                              "price": 37500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114716525",
+                              "name": "Margherita",
+                              "description": "Serves 1 | Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
+                              "imageId": "lmbiglziijwglrkihmy7",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "71935144",
+                              "name": "Corn & Cheese",
+                              "description": "Serves 1 | A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce.",
+                              "imageId": "ckbnw98n6tffy50wvuzm",
+                              "isVeg": 1,
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "47200722",
+                              "name": "Veggie Feast",
+                              "description": "Serves 1 | Herbed onion and Green Capsicum, juicy Sweet Corn & 100% mozzarella cheese with flavourful pan sauce.",
+                              "imageId": "1ce78db310cdc618cedcc8e928297ed1",
+                              "isVeg": 1,
+                              "price": 28900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "87272676",
+                              "name": "Spiced Paneer",
+                              "description": "Serves 1 | Spiced Paneer, crunchy Onion, juicy Tomato & 100% mozzarella cheese, with our classic pan sauce.",
+                              "imageId": "a89yqx09ppwlecyqterp",
+                              "isVeg": 1,
+                              "price": 28900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "47200680",
+                              "name": "Tandoori Paneer",
+                              "description": "Serves 1 | It's our signature. Spiced Paneer, Crunchy Onions & Green Capsicum, spicy Red Paprika with delicious Tandoori Sauce and 100% mozzarella cheese!",
+                              "imageId": "s5ld93rsknx0fhj6xarn",
+                              "isVeg": 1,
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "47200410",
+                              "name": "Country Feast",
+                              "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and 100% Mozzarella cheese. It's a feast you can't refuse.",
+                              "imageId": "c3832837392378cca98e484b89c313ba",
+                              "isVeg": 1,
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "87272680",
+                              "name": "Veggie Supreme",
+                              "description": "Serves 1 | A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn with flavourful pan sauce and 100% mozzarella cheese.",
+                              "imageId": "z0c4xpovma1qtmu4tlls",
+                              "isVeg": 1,
+                              "price": 37500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "96199183",
+                              "name": "Margherita Pizza",
+                              "description": "Serves 1 | Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
+                              "imageId": "dpventcrozvfni0lqb10",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Non Veg  Pizza",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286464",
+                              "name": "Sausage & Sweet Corn",
+                              "description": "Serves 1 | Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce",
+                              "imageId": "190c84ffc8773254c38b3b993e31ba73",
+                              "price": 31900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286516",
+                              "name": "Dhabe Da Keema",
+                              "description": "Serves 1 | Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo",
+                              "imageId": "d9eddb1993da4e5dc65ef2ceaa8503f7",
+                              "price": 34900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286519",
+                              "name": "Sizzling Schezwan Chicken",
+                              "description": "Serves 1 | Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese",
+                              "imageId": "4061af0525c00c89f0d1edbe7216765c",
+                              "price": 34900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286521",
+                              "name": "Awesome American Cheesy Chicken",
+                              "description": "Serves 1 | Our divine peruvian flavoured cheesy sauce, topped with classic chicken pepperoni, cheese and chicken sausage black olives, spicy jalapeno and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
+                              "imageId": "39519fff6efa592e874156f3a1cb287c",
+                              "price": 36900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116286525",
+                              "name": "Nawabi Murg Makhni",
+                              "description": "Serves 1 | A chicken lovers delight ! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle.",
+                              "imageId": "eb7467f9836bde6741eff6cf81b996da",
+                              "price": 38900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "47200311",
+                              "name": "Chicken Sausage",
+                              "description": "Serves 1 | Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese.",
+                              "imageId": "aylqpxx08pltowbzxhd3",
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "71935160",
+                              "name": "Murg Malai Chicken",
+                              "description": "Serves 1 | Amazingly flavourful Chicken Malai Tikka, Herbed Onion & Green Capsicum, spicy Red Paprika with flavourful pan sauce and 100% mozzarella cheese.",
+                              "imageId": "t1stinhga3alitdpr6yt",
+                              "price": 36900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "47200355",
+                              "name": "Chicken Tikka",
+                              "description": "Serves 1 | Mouth-watering Chicken Tikka, crunchy Onion & Tomato with delicious Tandoori Sauce and 100% mozzarella cheese.",
+                              "imageId": "juplqft4tmub5hqocwxk",
+                              "price": 36900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "47200267",
+                              "name": "Chicken Pepperoni",
+                              "description": "Serves 1 | Yummy Chicken Pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic!",
+                              "imageId": "gdz44c9hirco09bdafoq",
+                              "price": 36900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "87272684",
+                              "name": "Chicken Supreme",
+                              "description": "Serves 1 | Loaded with delicious Chicken Tikka, flavourful Herbed Chicken, spicy Schezwan Chicken Meatball with flavourful pan sauce and 100% mozzarella cheese.",
+                              "imageId": "gi7ytl3oe2327x3ypibr",
+                              "price": 36900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "71935165",
+                              "name": "Chicken Tikka Supreme",
+                              "description": "Serves 1 | A divine combination of delicious Chicken Tikka &  Malai Chicken Tikka, Onion, spicy Red Paprika with flavourful pan sauce and 100% mozzarella cheese.",
+                              "imageId": "d3bnas8nxt9dr13jhipu",
+                              "price": 38900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "47200693",
+                              "name": "Triple Chicken Feast",
+                              "description": "Serves 1 | Spicy Schezwan Chicken Meatball, flavourful  Herbed Chicken, juicy Chicken Sausage, Green Capsicum & Onion, spicy Red Paprika with classic pan sauce and 100% mozzarella cheese.",
+                              "imageId": "quxirmjttzksp7xlhysc",
+                              "price": 36900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Garlic Bread",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "33234220",
+                              "name": "Classic Bread Stix",
+                              "description": "Freshly baked buttery bread stick, sprinkled with herbs",
+                              "imageId": "n2ycmete7ehes9mrerlw",
+                              "isVeg": 1,
+                              "price": 10900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "47200530",
+                              "name": "Garlic Bread Spicy Supreme",
+                              "description": "Garlic bread topped with (Mozzarella cheeese, onion & green chillies).",
+                              "imageId": "m8ecjvtqcjtnt31uvobl",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114792888",
+                              "name": "Exotica Veggie Garlic Bread - New",
+                              "description": "Serves 1 | Hut's signature Garlic Bread topped with spiced exotic veggies and cheesy dressing",
+                              "imageId": "e4f730c3f48f82fce15895dacf3e9081",
+                              "isVeg": 1,
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6808994",
+                              "name": "Cheese Garlic Bread",
+                              "description": "Serves 1 | Nothing beats our garlic bread! Period!",
+                              "imageId": "ziohlqoy38mfqzmfxy7e",
+                              "isVeg": 1,
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "114792891",
+                              "name": "Masala Keema Garlic Bread",
+                              "description": "Serves 1 | Hut's signature Garlic Bread topped with chicken keema masala, onion and green chilli & cheesy dressing. A must try!",
+                              "imageId": "a8288101773dde9baf1e1b2d3228dbf8",
+                              "price": 18900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Appetizer",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60786397",
+                              "name": "Zesty Chicken Pocket",
+                              "description": "Freshly baked pocket stuffed with chicken, veggies & smoked texas garlic sauce",
+                              "imageId": "wukqmbrmv0vngtlrczgw",
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60786399",
+                              "name": "Zesty Paneer Pocket",
+                              "description": "Freshly baked pocket stuffed with flavourful paneer, veggies & smoked texas garlic sauce",
+                              "imageId": "spmefmk8u9ftwbvdk6ay",
+                              "isVeg": 1,
+                              "price": 14500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328847",
+                              "name": "Cheesy Popcorn Sprinkled Fries",
+                              "description": "Serves 1 | Baked Fries seasoned with our all new cheezy popcorn seasoning",
+                              "imageId": "8bef47cab8863c1bcd113a28e30ffee4",
+                              "isVeg": 1,
+                              "price": 10900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328854",
+                              "name": "BBQ Baked Chicken Wings (6 pcs)",
+                              "description": "Serves 1 | All New Baked BBQ chicken wings. Its juicy, spicy & so much flaourful",
+                              "imageId": "6a3835027affacf8259f68c1d2fbf9f5",
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135328855",
+                              "name": "BBQ Baked Chicken Wings (4 pcs)",
+                              "description": "Serves 1 | All New Baked BBQ chicken wings. Its juicy, spicy & so much flaourful",
+                              "imageId": "a8dea12984ff26dfee5fa6e5743abbb5",
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "33234573",
+                              "name": "Spicy Baked Chicken Wings",
+                              "description": "Tender and Juicy sweet chilli chicken wings.",
+                              "imageId": "aeems3ogejdzxfjblkx7",
+                              "price": 28500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "55978666",
+                              "name": "Spicy Baked Chicken Wings (4 pcs)",
+                              "description": "4 pcs of Tender and Juicy sweet chilly chicken wings.",
+                              "imageId": "f5fyw9eyvkdjvybjhgho",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "55368172",
+                              "name": "Jalapeno Poppers",
+                              "description": "Serves 1 | Jalapano poppers with gooey white sauce.",
+                              "imageId": "oqfrpjaw6v4q3p3qafww",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "87272708",
+                              "name": "Tear & Share Veg",
+                              "description": "Serves 1 | Garlic bread stix stuffed & topped with Mozzarella Cheese, creamy mayo and Jalapeno. Cheese lovers delight. Tear it to share it !",
+                              "imageId": "nrsyretuvacezojcjeee",
+                              "isVeg": 1,
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "87272709",
+                              "name": "Tear & Share Non-Veg",
+                              "description": "Serves 1 | Garlic bread stix stuffed & topped with Mozzarella Cheese, creamy mayo and Chicken Pepperoni. Cheese lovers delight. Tear it to share it !",
+                              "imageId": "doqtxijmd4z61vrtubi6",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "110321213",
+                              "name": "Ketchup",
+                              "description": "Serves 1 | Ketchup Sachet",
+                              "imageId": "hovlvq3ceumkhyivd0ik",
+                              "isVeg": 1,
+                              "price": 95
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76895002",
+                              "name": "Momo Dip",
+                              "description": "Serves 1 | Schezwan Dip",
+                              "imageId": "ygx3tiuj7ygbp1jyw1ce",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Late Night Cravings",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "111700302",
+                              "name": "Cheesy-Choco Comfort Combo",
+                              "description": "Serves 1 | Get 1 personal Margherita Pizza, 1 Pepsi, 2 pc. Cheese Garlic Bread & 1 Choco Volcano. Cheesy dreams, guaranteed!",
+                              "imageId": "b179031c66fa9bf83b238876709bae35",
+                              "isVeg": 1,
+                              "price": 39900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "112259007",
+                              "name": "Midnight Pizza Party for 2 Veg",
+                              "description": "Serves 1 | Get any Veg Pizza Medium from the delight/signature/supreme range, 2 pc. Cheese Garlic Bread & a Pepsi FREE!",
+                              "imageId": "db40cb52b0f5a2d3753356c5a88c09ce",
+                              "isVeg": 1,
+                              "price": 48900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "112259008",
+                              "name": "Midnight Pizza Party for 2 Non Veg",
+                              "description": "Serves 1 | Get any Non Veg Medium Pizza from the delight/signature/supreme range, 2 pc. Cheese Garlic Bread & a Pepsi FREE!",
+                              "imageId": "70bf36bb32010e791e9fa33ed4bc4c6b",
+                              "price": 56100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "112259009",
+                              "name": "Flat Night Owl Discount (FLAT Rs. 125) Veg",
+                              "description": "Serves 1 | Choose any Veg Medium Pizza from the delight/signature/supreme range & get a discount of FLAT Rs. 125!",
+                              "imageId": "3ddfceea38c653289115a887fb8d144f",
+                              "isVeg": 1,
+                              "price": 36400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "112259010",
+                              "name": "Flat Night Owl Discount (FLAT Rs. 125) Non Veg",
+                              "description": "Serves 1 | Choose any Non Veg Medium Pizza from the delight/signature/supreme range & get a discount of FLAT Rs. 125!",
+                              "imageId": "10ca6bf4a05b6073118e4927a802a37f",
+                              "price": 44400
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2796 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "487735",
+              "name": "Momo Zone - The Momo Company",
+              "cuisines": ["Chinese", "Tibetan"],
+              "nudgeBanners": [
+                {
+                  "minValue": 560,
+                  "maxValue": 800,
+                  "priority": 2,
+                  "couponCode": "PARTY",
+                  "discountInfo": { "discountType": "Percentage", "value": 20 },
+                  "lockedMessage": "Add items worth ₹<amount> to unlock flat 20% off | Code PARTY",
+                  "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 20% off",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "131313281",
+                              "name": "Dessert Jars Pack of 6",
+                              "category": "Gift Hamper",
+                              "imageId": "f76a6b2d943e9538f9e679ef8509946f",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 69900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "131313282",
+                              "name": "Dessert Jars Pack of 4",
+                              "category": "Gift Hamper",
+                              "imageId": "ec9a24f58e97f3e98bea408da7419a29",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 44900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86381591",
+                              "name": "Chicken Steamed Combo",
+                              "category": "Party Combo",
+                              "description": "Serves 3 | Steamed combo of Peri Peri spiced Chicken Momos, Cheesy Chicken steamed momos and plain steamed Chicken momos served piping hot with a spicy Schezwan sauce. 5pcs (250 Calories each)",
+                              "imageId": "vmeguzotjmgpvhm9isah",
+                              "inStock": 1,
+                              "price": 37900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391253",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "portionSize": "Serves 3"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "1.4",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86381592",
+                              "name": "Chicken Fried Combo",
+                              "category": "Party Combo",
+                              "description": "Serves 3 | A combo of plain fried Chicken Momos, spicy Peri Peri flavoured fried Chicken Momos and Chicken with Cheese fried momos best enjoyed with our signature Schezwan sauce. 5pcs (420 Calories each)",
+                              "imageId": "skzdhrzyd6yclnoxgelx",
+                              "inStock": 1,
+                              "price": 40900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391254",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "portionSize": "Serves 3"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "1.7",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86381594",
+                              "name": "Veg Fried Combo",
+                              "category": "Party Combo",
+                              "description": "Serves 3 | Veg combo of Mixed fried momo, spicy Schezwan fried momo and Corn with Cheese fried momo to be served with our spicy Schezwan sauce. 5pcs (390 Calories each)",
+                              "imageId": "cw1rurmzslhvhbjpd5wu",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 39900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391255",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 3"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86381595",
+                              "name": "Mega Veg Fried Combo",
+                              "category": "Party Combo",
+                              "description": "Serves 4 | Veg combo of Mixed fried momo, spicy Schezwan fried momo, Corn with Cheese fried momo and Paneer fried momo to be relished with Schezwan sauce. 5pcs (390 Calories each)",
+                              "imageId": "g0cs2otpkuy2n0tcyew5",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 47900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391256",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 4"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86381596",
+                              "name": "Mega Veg Steamed Combo",
+                              "category": "Party Combo",
+                              "description": "Serves 4 | Steamed momo combo of Mixed Veg momo, Schezwan steamed momo, Corn with cheese steamed momo and Paneer steamed momo served hot with spicy Schezwan sauce. (210 Calories each)",
+                              "imageId": "fcgkkm151ztflyczxiyu",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 46900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391257",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 4"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915009",
+                              "name": "Kurkure Butter Chicken Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391340",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "NONVEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915010",
+                              "name": "Kurkure Chicken Tikka Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391343",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "NONVEG" },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915011",
+                              "name": "Kurkure Chicken Hariyali Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391356",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "NONVEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915012",
+                              "name": "Kurkure Chicken Peri Peri Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391357",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "NONVEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915013",
+                              "name": "Kurkure Chicken Cheese Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "price": 25900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391358",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "NONVEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915014",
+                              "name": "Kurkure Mushroom Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391361",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915015",
+                              "name": "Kurkure Veg Schezwan Momo",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391363",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915016",
+                              "name": "Kurkure Corn And Cheese Momo",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391365",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915017",
+                              "name": "Kurkure Paneer Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 23900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391368",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116915018",
+                              "name": "Kurkure Veg Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 23900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391374",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "117055649",
+                              "name": "Kurkure Chicken Momos",
+                              "category": "Kurkure Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391376",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": { "vegClassifier": "NONVEG" },
+                              "ribbon": {},
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": { "aggregatedRating": {} }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86381533",
+                              "name": "Mixed Veg Steamed Momo",
+                              "category": "Steamed Momo",
+                              "description": "Serves 1 | A healthy steamed snack of mixed veggies inside a light wrapping served with spicy schezwan sauce. Bursting with flavour in every bite. 5pcs (210 Calories each)",
+                              "imageId": "v1ds8fcxsbckwcxkdpyb",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391103",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "26 ratings",
+                                  "ratingCountV2": "26"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86381534",
+                              "name": "Paneer Steamed Momo",
+                              "category": "Steamed Momo",
+                              "description": "Serves 1 | Momos stuffed with a delicious filling of minced paneer with fresh vegetables and steamed. Enjoy these momos with a generous dip of schezwan sauce. 5pcs (210 Calories each)",
+                              "imageId": "xwmhlizkywwa9wlrxpno",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "99391107",
+                                  "groupName": "Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "94426230",
+                                      "name": "Choco Lava Cake",
+                                      "price": 8500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426231",
+                                      "name": "Walnut Brownie",
+                                      "price": 9500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426234",
+                                      "name": "Pepsi",
+                                      "price": 6000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426232",
+                                      "name": "Red Velvet Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "94426233",
+                                      "name": "Chocolate Truffle Jar Cake Medium",
+                                      "price": 13900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "13 ratings",
+                                  "ratingCountV2": "13"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Gift Hamper",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "131313281",
+                              "name": "Dessert Jars Pack of 6",
+                              "imageId": "f76a6b2d943e9538f9e679ef8509946f",
+                              "isVeg": 1,
+                              "price": 69900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "131313282",
+                              "name": "Dessert Jars Pack of 4",
+                              "imageId": "ec9a24f58e97f3e98bea408da7419a29",
+                              "isVeg": 1,
+                              "price": 44900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Party Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381591",
+                              "name": "Chicken Steamed Combo",
+                              "description": "Serves 3 | Steamed combo of Peri Peri spiced Chicken Momos, Cheesy Chicken steamed momos and plain steamed Chicken momos served piping hot with a spicy Schezwan sauce. 5pcs (250 Calories each)",
+                              "imageId": "vmeguzotjmgpvhm9isah",
+                              "price": 37900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381592",
+                              "name": "Chicken Fried Combo",
+                              "description": "Serves 3 | A combo of plain fried Chicken Momos, spicy Peri Peri flavoured fried Chicken Momos and Chicken with Cheese fried momos best enjoyed with our signature Schezwan sauce. 5pcs (420 Calories each)",
+                              "imageId": "skzdhrzyd6yclnoxgelx",
+                              "price": 40900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381594",
+                              "name": "Veg Fried Combo",
+                              "description": "Serves 3 | Veg combo of Mixed fried momo, spicy Schezwan fried momo and Corn with Cheese fried momo to be served with our spicy Schezwan sauce. 5pcs (390 Calories each)",
+                              "imageId": "cw1rurmzslhvhbjpd5wu",
+                              "isVeg": 1,
+                              "price": 39900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381595",
+                              "name": "Mega Veg Fried Combo",
+                              "description": "Serves 4 | Veg combo of Mixed fried momo, spicy Schezwan fried momo, Corn with Cheese fried momo and Paneer fried momo to be relished with Schezwan sauce. 5pcs (390 Calories each)",
+                              "imageId": "g0cs2otpkuy2n0tcyew5",
+                              "isVeg": 1,
+                              "price": 47900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381596",
+                              "name": "Mega Veg Steamed Combo",
+                              "description": "Serves 4 | Steamed momo combo of Mixed Veg momo, Schezwan steamed momo, Corn with cheese steamed momo and Paneer steamed momo served hot with spicy Schezwan sauce. (210 Calories each)",
+                              "imageId": "fcgkkm151ztflyczxiyu",
+                              "isVeg": 1,
+                              "price": 46900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Kurkure Momos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915009",
+                              "name": "Kurkure Butter Chicken Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "price": 24900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915010",
+                              "name": "Kurkure Chicken Tikka Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915011",
+                              "name": "Kurkure Chicken Hariyali Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915012",
+                              "name": "Kurkure Chicken Peri Peri Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915013",
+                              "name": "Kurkure Chicken Cheese Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "price": 25900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915014",
+                              "name": "Kurkure Mushroom Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "isVeg": 1,
+                              "price": 24900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915015",
+                              "name": "Kurkure Veg Schezwan Momo",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915016",
+                              "name": "Kurkure Corn And Cheese Momo",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "isVeg": 1,
+                              "price": 25900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915017",
+                              "name": "Kurkure Paneer Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "isVeg": 1,
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "116915018",
+                              "name": "Kurkure Veg Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "isVeg": 1,
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "117055649",
+                              "name": "Kurkure Chicken Momos",
+                              "imageId": "7e56a12f9fcac1cf6343201eb1e20e2c",
+                              "price": 24900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Pepsi Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103677",
+                              "name": "Chicken Steamed Combo + Pepsi",
+                              "description": "Serves 3 | 5pcs (320 Calories each)",
+                              "imageId": "a7ebf2b6becc079f2d8532eb0d3411ba",
+                              "price": 40900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103664",
+                              "name": "Chicken Fried Combo + Pepsi",
+                              "description": "Serves 3 | 5pcs (500 Calories each)",
+                              "imageId": "1d1808da55bc14fc7f38ee79043f30b9",
+                              "price": 44900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103666",
+                              "name": "Veg Fried Combo + Pepsi",
+                              "description": "Serves 3 | 5pcs (460 Calories each)",
+                              "imageId": "1d1808da55bc14fc7f38ee79043f30b9",
+                              "isVeg": 1,
+                              "price": 43900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103667",
+                              "name": "Mega Veg Fried Combo + Pepsi",
+                              "description": "Serves 4 | 5pcs (450 Calories each)",
+                              "imageId": "1d1808da55bc14fc7f38ee79043f30b9",
+                              "isVeg": 1,
+                              "price": 49900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103672",
+                              "name": "Mega Veg Steamed Combo + Pepsi",
+                              "description": "Serves 4 | 5pcs (260 Calories each)",
+                              "imageId": "a7ebf2b6becc079f2d8532eb0d3411ba",
+                              "isVeg": 1,
+                              "price": 49900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103673",
+                              "name": "Veg Moburg + Pepsi",
+                              "description": "Serves 1 | (580 Calories each)",
+                              "imageId": "d7d0ef0346969ddfabc4ad835b3ae771",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103674",
+                              "name": "Corn & Cheese Moburg + Pepsi",
+                              "description": "Serves 1 | (590 Calories each)",
+                              "imageId": "d7d0ef0346969ddfabc4ad835b3ae771",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103675",
+                              "name": "Paneer Moburg + Pepsi",
+                              "description": "Serves 1 | (580 Calories each)",
+                              "imageId": "d7d0ef0346969ddfabc4ad835b3ae771",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103669",
+                              "name": "Chicken Moburg + Pepsi",
+                              "description": "Serves 1 | (610 Calories each)",
+                              "imageId": "d7d0ef0346969ddfabc4ad835b3ae771",
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "91103670",
+                              "name": "Chicken Cheese Moburg + Pepsi",
+                              "description": "Serves 1 | (610 Calories each)",
+                              "imageId": "d7d0ef0346969ddfabc4ad835b3ae771",
+                              "price": 23900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Steamed Momo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381533",
+                              "name": "Mixed Veg Steamed Momo",
+                              "description": "Serves 1 | A healthy steamed snack of mixed veggies inside a light wrapping served with spicy schezwan sauce. Bursting with flavour in every bite. 5pcs (210 Calories each)",
+                              "imageId": "v1ds8fcxsbckwcxkdpyb",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381534",
+                              "name": "Paneer Steamed Momo",
+                              "description": "Serves 1 | Momos stuffed with a delicious filling of minced paneer with fresh vegetables and steamed. Enjoy these momos with a generous dip of schezwan sauce. 5pcs (210 Calories each)",
+                              "imageId": "xwmhlizkywwa9wlrxpno",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381537",
+                              "name": "Corn & Cheese Steamed Momo",
+                              "description": "Serves 1 | Delightful parcels of happiness packed with cheese, crunchy corn and steamed to perfection. Enjoy as an anytime snack or side eat with schezwan sauce. 5pcs (220 Calories each)",
+                              "imageId": "wvjwwra2i20jrwtndbfr",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381536",
+                              "name": "Veg Schezwan Steamed Momo",
+                              "description": "Serves 1 | Spicy momos filled with a twist of fresh vegetables tossed in schezwan spices and steamed. Served hot with schezwan sauce. 5pcs (210 Calories each)",
+                              "imageId": "zgaz4oqw3dlm88zjad0r",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381601",
+                              "name": "Mushroom Steamed Momo",
+                              "description": "Serves 1 | \"Steamed momos filled with a delicious mushroom filling and served with a spicy momo sauce. Have this as a healthy meal by itself or serve as an appetizer. 5pcs\n(210 Calories each)\"",
+                              "imageId": "fi1oulkdxipekrrs5twm",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381538",
+                              "name": "Chicken Steamed Momo",
+                              "description": "Serves 1 | Delicious dumplings generously filled with flavoursome chicken, wrapped in a delicate flour dough and steamed to perfection. It comes with a side of spicy dipping sauce, making it a great snack.",
+                              "imageId": "97f4ae400f7ddc0e2e29b5705e7c679a",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381539",
+                              "name": "Chicken Cheese Steamed Momo",
+                              "description": "Serves 1 | Serve these piping hot steamed momos filled with delicious chicken & gooey cheese with a generous dip of schezwan sauce. Great party snack for the weekend. 5pcs (260 Calories each)",
+                              "imageId": "ybeivzbobdu7ylghyvdv",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381540",
+                              "name": "Chicken Peri Peri Steamed Momo",
+                              "description": "Serves 1 | Spicy succulent steamed chicken momos perfectly seasoned with peri peri flavour. Add to the zing by serving these at your party with our signature schezwan sauce. 5pcs (230 Calories each)",
+                              "imageId": "hsj0utqmd6lwhmniaimm",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381603",
+                              "name": "Chicken Hariyali Steamed Momo",
+                              "description": "Serves 1 | \"Enjoy this snack as a party appetizer or as a light meal by itself. Hot steamed momos filled with chicken marinated in herbs and spices. 5pcs\n(40 Calories each)",
+                              "imageId": "kexu4uzpfysjytprizmx",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381604",
+                              "name": "Chicken Tikka Steamed Momo",
+                              "description": "Serves 1 | \"Tender chicken tikka chunks stuffed into thin momo sheets and steamed. This momo is best served with ketchup or spicy momo sauce. 5pcs\n(40 Calories each)\"",
+                              "imageId": "ckdgpgdejn0ikeghyqm9",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381606",
+                              "name": "Butter Chicken Steamed Momo",
+                              "description": "Serves 1 | Butter Chicken Steamed Momo 5pcs (290 Calories each)",
+                              "imageId": "amjdvyma0a83xp2dii1x",
+                              "price": 19900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Fried Momo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381541",
+                              "name": "Mixed Veg Fried Momo",
+                              "description": "Serves 1 | A delicious fried snack of mixed veggies inside a light wrapping served with spicy schezwan sauce. Bursting with flavour in every bite. 5pcs (380 Calories each)",
+                              "imageId": "nwkqej6io0wafjxjhnt7",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381542",
+                              "name": "Paneer Fried Momo",
+                              "description": "Serves 1 | Momos stuffed with a delicious filling of minced paneer with fresh vegetables and fried. Enjoy these momos with a generous dip of schezwan sauce. 5pcs (410 Calories each)",
+                              "imageId": "fsajj8sjhg5mru4ayca1",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381544",
+                              "name": "Corn & Cheese Fried Momo",
+                              "description": "Serves 1 | Delightful parcels of happiness packed with cheese, crunchy corn and fried to perfection. Enjoy as an anytime snack or side eat with schezwan sauce. 5pcs (400 Calories each)",
+                              "imageId": "ax0lvhrok2sipoxecbzd",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381543",
+                              "name": "Veg Schezwan Fried Momo",
+                              "description": "Serves 1 | Spicy momos filled with a twist of fresh vegetables tossed in schezwan spices and fried. Served hot with schezwan sauce. 5pcs (380 Calories each)",
+                              "imageId": "v3gtkbhda6fbmr3s9h3y",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381545",
+                              "name": "Chicken Fried Momo",
+                              "description": "Serves 1 | Most popular street food of flavoursome chicken cooked in the best spices and stuffed in a light momo wrapping. Fried and served hot with spicy schezwan sauce to spice things up. 5pcs (430 Calories each)",
+                              "imageId": "jhdibyc0e0samqixqzho",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381607",
+                              "name": "Mushroom Fried Momo",
+                              "description": "Serves 1 | \"Fried momos that make a great snack at parties. Finely chopped mushrooms cooked with spices and fresh veggies & filled in momo sheets. Best served with spicy momo sauce. 5pcs\n(380 Calories each)\"",
+                              "imageId": "qrq8txveiqjemvtfffwu",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381608",
+                              "name": "Chicken Hariyali Fried Momo",
+                              "description": "Serves 1 | \"A delicious momo filled with chicken cooked in green herbs and a spices paste and then fried until golden brown. These momos are best had with a tangy dip on the side. 5pcs\n(220 Calories each)\"",
+                              "imageId": "p0kcbpovobq2qmscwo1b",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381609",
+                              "name": "Chicken Tikka Fried Momo",
+                              "description": "Serves 1 | \"Generous filling of chicken tikka in a momo which is fried till golden and served hot along with a dipping sauce. A great appetizer or evening snack. 5pcs\n(240 Calories each)\"",
+                              "imageId": "p0kcbpovobq2qmscwo1b",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381610",
+                              "name": "Butter Chicken Fried Momo",
+                              "description": "Serves 1 | 5pcs (470 Calories each)",
+                              "imageId": "zokpyoz9evyjabzjtbqu",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381611",
+                              "name": "Pizza Momo Fried",
+                              "description": "Serves 1 | 5pcs (580 Calories each)",
+                              "imageId": "nqzetg2fmxwddbwgv9cs",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381546",
+                              "name": "Chicken Cheese Fried Momo",
+                              "description": "Serves 5 | Serve these piping hot fried momos filled with delicious chicken & gooey cheese with a generous dip of schezwan sauce. Great party snack for the weekend. 5pcs (440 Calories each)",
+                              "imageId": "sz3zhmbaytuzg08ib3qs",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381547",
+                              "name": "Chicken Peri Peri Fried Momo",
+                              "description": "Serves 1 | Spicy succulent fried chicken momos perfectly seasoned with peri peri flavour. Add to the zing by serving these at your party with our signature schezwan sauce. 5pcs (410 Calories each)",
+                              "imageId": "n8h4bhehjjsupay7q2u1",
+                              "price": 22900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Pan Tossed Momo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381548",
+                              "name": "Mixed Veg Pan Tossed Momo",
+                              "description": "Serves 1 | A delicious fried snack of mixed veggies inside a light wrapping coated with spicy schezwan sauce. Bursting with flavour in every bite. 5pcs (410 Calories each)",
+                              "imageId": "hzrvwhjicxavtzvlfn0f",
+                              "isVeg": 1,
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381550",
+                              "name": "Paneer Pan Tossed Momo",
+                              "description": "Serves 1 | Momos stuffed with a delicious filling of minced paneer with fresh vegetables and fried. These momos are topped with a generous helping of schezwan sauce. 5pcs (410 Calories each)",
+                              "imageId": "hzrvwhjicxavtzvlfn0f",
+                              "isVeg": 1,
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381551",
+                              "name": "Veg Schezwan Pan Tossed Momo",
+                              "description": "Serves 1 | Spicy momos filled with a twist of fresh vegetables tossed in authentic spices and fried. Served hot with schezwan sauce topping. 5pcs (410 Calories each)",
+                              "imageId": "hzrvwhjicxavtzvlfn0f",
+                              "isVeg": 1,
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381553",
+                              "name": "Corn & Cheese Pan Tossed Momo",
+                              "description": "Serves 1 | Delightful parcels of happiness packed with cheese, crunchy corn, fried to perfection and smothered with schezwan sauce. Enjoy as an anytime snack or a side eat. 5pcs (430 Calories each)",
+                              "imageId": "hzrvwhjicxavtzvlfn0f",
+                              "isVeg": 1,
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381554",
+                              "name": "Chicken Pan Tossed Momo",
+                              "description": "Serves 1 | Most popular street food of flavoursome chicken cooked in the best spices and stuffed in a light Momo wrapping. Fried and served hot with a spicy schezwan sauce drizzle to spice things up. 5pcs (460 Calories each)",
+                              "imageId": "znrvmjavuvjr1q6izkou",
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381555",
+                              "name": "Chicken Cheese Pan Tossed Momo",
+                              "description": "Serves 1 | These piping hot fried momos are filled with delicious chicken & gooey cheese and topped generously with schezwan sauce. Great party snack for the weekend. 5pcs (460 Calories each)",
+                              "imageId": "znrvmjavuvjr1q6izkou",
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381556",
+                              "name": "Chicken Peri Peri Pan Tossed Momo",
+                              "description": "Serves 1 | Spicy succulent fried chicken momos perfectly seasoned with peri peri flavour. Our signature schezwan sauce topping adds to the zing! 5pcs (430 Calories each)",
+                              "imageId": "znrvmjavuvjr1q6izkou",
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381597",
+                              "name": "Mushroom Pan Tossed Momo",
+                              "description": "Serves 1 | 5pcs (410 Calories each)",
+                              "imageId": "hzrvwhjicxavtzvlfn0f",
+                              "isVeg": 1,
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381598",
+                              "name": "Chicken Hariyali Pan Tossed Momo",
+                              "description": "Serves 1 | \"Fried momos filled with Hariyali Chicken filling and sauteed in a mouthwatering momo sauce. Just the right way to indulge on a cold winter night. 5pcs\n(240 Calories each)\"",
+                              "imageId": "hzrvwhjicxavtzvlfn0f",
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381599",
+                              "name": "Chicken Tikka Pan Tossed Momo",
+                              "description": "Serves 1 | 5pcs (240 Calories each)",
+                              "imageId": "hzrvwhjicxavtzvlfn0f",
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381600",
+                              "name": "Butter Chicken Pan Tossed Momo",
+                              "description": "Serves 1 | 5pcs (500 Calories each)",
+                              "imageId": "hzrvwhjicxavtzvlfn0f",
+                              "price": 26900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Moburg",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381560",
+                              "name": "Veg Moburg",
+                              "description": "Serves 1 | A unique burger of a soft bun layered with delicious veg fried momos and fresh vegetables, all tied together with our signature sauce.",
+                              "imageId": "eo5vmbkjzrxzmuoqwazo",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381561",
+                              "name": "Corn & Cheese Moburg",
+                              "description": "Serves 1 | Delightful parcels of happiness packed with cheese, crunchy corn, fried to perfection and layered inside a burger bun. Enjoy as an anytime snack or a meal by itself.",
+                              "imageId": "dvw3ozozb7ziwltems87",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381563",
+                              "name": "Paneer Moburg",
+                              "description": "Serves 1 | Momos stuffed with a delicious filling of minced paneer are fried and placed inside a burger bun with crunchy fresh vegetables.",
+                              "imageId": "eo5vmbkjzrxzmuoqwazo",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934210",
+                              "name": "Veg Schezwan Moburg",
+                              "description": "Serves 1 | Burger loaded with the goodness of delicious veg schezwan momos with fresh crunchy veggies and thick veg mayo to surpass your expectations!",
+                              "imageId": "eo5vmbkjzrxzmuoqwazo",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934183",
+                              "name": "Mushroom Moburg",
+                              "description": "Serves 1 | When mushroom, momo and burger meet, you get the best veg burger in town! Soft bun stuffed with fresh veggies, mushroom momos and a delicious mayo, this burger is the ultimate in comfort food.",
+                              "imageId": "eo5vmbkjzrxzmuoqwazo",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381564",
+                              "name": "Chicken Moburg",
+                              "description": "Serves 1 | Most popular street food of delicious fried chicken momos layered inside a burger bun with fresh veggies.",
+                              "imageId": "cdk282iwq3cpb8uxyq4a",
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381565",
+                              "name": "Chicken Cheese Moburg",
+                              "description": "Serves 1 | These piping hot fried momos are filled with delicious chicken & gooey cheese and placed inside a soft bun along with crunchy vegetables. Great party snack for the weekend.",
+                              "imageId": "qfbiruqmoaetpj6m0lz6",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934191",
+                              "name": "Butter Chicken Moburg",
+                              "description": "Serves 1 | Warm bun with a delicious butter chicken momos, crunchy fresh veggies and creamy mayo. You have to try it to enjoy it!",
+                              "imageId": "eo5vmbkjzrxzmuoqwazo",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934212",
+                              "name": "Chicken Peri Peri Moburg",
+                              "description": "Serves 1 | Crunchy fried peri peri chicken momos stuffed in a burger bun along with fresh veggies and mayo. A delicious burger to be savoured at any time of day.",
+                              "imageId": "eo5vmbkjzrxzmuoqwazo",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934186",
+                              "name": "Chicken Hariyali Moburg",
+                              "description": "Serves 1 | An unmistakable delicacy of a fried chicken hariyali momos combined with fresh veggies and a smooth mayo inside a soft burger bun. A flavour not to be missed!",
+                              "imageId": "eo5vmbkjzrxzmuoqwazo",
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934187",
+                              "name": "Chicken Tikka Moburg",
+                              "description": "Serves 1 | Fusion brings together chicken tikka and momos insde a soft burger bun. Relish this delicious burger with creamy mayo and crunchy veggies.",
+                              "imageId": "eo5vmbkjzrxzmuoqwazo",
+                              "price": 22900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Mowrap",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381567",
+                              "name": "Veg Mowrap",
+                              "description": "Serves 1 | A unique roll of a paratha layered with delicious veg fried momos and fresh vegetables, all tied together with our signature sauce.",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381568",
+                              "name": "Corn & Cheese Mowrap",
+                              "description": "Serves 1 | Delightful parcels of happiness packed with cheese, crunchy corn, fried to perfection and layered inside a healthy paratha. Enjoy as an anytime snack or a meal by itself.",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381569",
+                              "name": "Paneer Mowrap",
+                              "description": "Serves 1 | Momos stuffed with a delicious filling of minced paneer are fried and placed inside a freshly rolled paratha with crunchy fresh vegetables.",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934214",
+                              "name": "Veg Schezwan Mowrap",
+                              "description": "Serves 1 | Paratha stuffed with fried veg schezwan momos along with delicious mint mayo and fresh veggies. A satisfying wrap for any meal!",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934216",
+                              "name": "Mushroom Mowrap",
+                              "description": "Serves 1 | Crispy fried mushroom momos inside a piping hot laccha paratha served with delicious mint mayo and crunchy veggies.",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934202",
+                              "name": "Butter Chicken Mowrap",
+                              "description": "Serves 1 | Butter chicken momo layered with fresh veggies and a scrumptious mint mayo makes this wrap a must have!",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934196",
+                              "name": "Chicken Hariyali Mowrap",
+                              "description": "Serves 1 | Delicious chicken hariyali momos fried till crunchy and stuffed inside soft laccha paratha along with crunchy veggies and mint mayo.",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934207",
+                              "name": "Chicken Peri Peri Mowrap",
+                              "description": "Serves 1 | Fried Chicken peri peri momos, mint mayo and fresh veggies rolled into a delicious roll made with soft laccha paratha.",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "93934199",
+                              "name": "Chicken Tikka Mowrap",
+                              "description": "Serves 1 | A scrumptious wrap made with fried chicken tikka momos and fresh veggies all tied together with a delicious mint sauce inside a laccha paratha.",
+                              "imageId": "d43nrhxtytxjlvoevti1",
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381570",
+                              "name": "Chicken Mowrap",
+                              "description": "Serves 1 | Most popular street food of delicious fried chicken momos layered inside a warm paratha with fresh veggies.",
+                              "imageId": "lfi3or4qy96n0w4syh4x",
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381571",
+                              "name": "Chicken Cheese Mowrap",
+                              "description": "Serves 1 | These piping hot fried momos are filled with delicious chicken & gooey cheese and placed inside a hot paratha along with crunchy vegetables. Great party snack for the weekend.",
+                              "imageId": "lfi3or4qy96n0w4syh4x",
+                              "price": 22900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Let's Snack",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381572",
+                              "name": "French Fries",
+                              "description": "Serves 1 | Be it a side dish to a meal or just a snack, these crisp fried French Fries are so satisfying! (440 Calories each)",
+                              "imageId": "p7g01vrjsxqgn1tm3fp6",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381574",
+                              "name": "Chilli Garlic French Fries",
+                              "description": "Serves 1 | French fries sprinkled generously with our in-house punchy seasoning of Chilli Garlic. Warning - these get over in a jiffy! (440 Calories each)",
+                              "imageId": "uinimjjge8xp2m9jw0cp",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381575",
+                              "name": "Lemon Pepper French Fries",
+                              "description": "Serves 1 | A unique seasoning of lemony tang with freshly ground pepper dusted on top of crispy fried french fries. Worthy of the finger lick! (440 Calories each)",
+                              "imageId": "g2hmn4w8c4wyjtmfwtnm",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381577",
+                              "name": "Peri Peri French Fries",
+                              "description": "Serves 1 | Humble fries that are fried to a crisp and spiced with the zingy flavour of Peri Peri. These are sure to turn the heat on! (450 Calories each)",
+                              "imageId": "45c52feffeb0168a10ebb04f1fe25b89",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381578",
+                              "name": "Jalepeno Poppers",
+                              "description": "Serves 1 | Lightly spiced, lightly coated and fried to perfection, these round pops will make everyone love the wholesome flavour of garlic! (470 Calories each)",
+                              "imageId": "lno8dzsklb13hpjnq4ik",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381579",
+                              "name": "Veg Fingers",
+                              "description": "Serves 1 | Long pieces of crumb coated veg fingers that are a great accompaniment to a Kaati roll! (400 Calories each)",
+                              "imageId": "od5hcjocgwovgjaz5npd",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381580",
+                              "name": "Chicken Popcorn",
+                              "description": "Serves 1 | Crispy, golden fried chicken bits perfect as anytime snacks. (470 Calories each)",
+                              "imageId": "atmty8cieohlrk5nvyxy",
+                              "price": 24900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381581",
+                              "name": "Chicken Fingers",
+                              "description": "Serves 1 | A crunchy, mouth-watering appetizer of spicy, batter-fried chicken fingers. (340 Calories each)",
+                              "imageId": "od5hcjocgwovgjaz5npd",
+                              "price": 24900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381589",
+                              "name": "Choco Lava Cake",
+                              "description": "Serves 1 | A small chocolate cake with a soft, gooey center of rich chocolate. This cake is best enjoyed warm with a scoop of vanilla ice cream, creating a perfect balance of rich chocolate and creamy sweetness.",
+                              "imageId": "39a993439dee1eefa9b56d5fcdff6aed",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86381590",
+                              "name": "Walnut Brownie",
+                              "description": "Serves 1 | A dense & moist pastry that combines a rich, chocolatey flavor with the nutty crunch of walnut and baked until it has a crispy top and a fudgy center. It is an indulgent treat for chocolate lovers.",
+                              "imageId": "cbc6f7cbc9887de2e8c270c48b4d1996",
+                              "isVeg": 1,
+                              "price": 12900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Momo Zone - The Momo Company",
+                      "area": "Wakad",
+                      "completeAddress": "Sahil Vighnesh Residency, S No 158/159, Bhujbal Wasti Wakad, Pune, Pune Cantonment Board, Pune PMC, Maharashtra, 411057 ."
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

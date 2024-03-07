@@ -1,0 +1,544 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "393858",
+              "name": "Samosa Singh",
+              "cuisines": ["North Indian", "Snacks"],
+              "veg": true,
+              "nudgeBanners": [
+                {
+                  "minValue": 490,
+                  "maxValue": 700,
+                  "priority": 2,
+                  "couponCode": "PARTY",
+                  "discountInfo": { "discountType": "Percentage", "value": 25 },
+                  "lockedMessage": "Add items worth ₹<amount> to unlock flat 25% off | Code PARTY",
+                  "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 25% off",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "title": "Samosa & Kachori",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "72220957",
+                              "name": "Kadai Paneer Samosa (3 pcs)",
+                              "description": "Serves 1 | For the die hard paneer lovers, the hit mix of juicy paneer, tangy tomatoes & onions in our samosa. Lips mackingly rich.",
+                              "imageId": "t5opmujjhqnsvjxpoiy8",
+                              "isVeg": 1,
+                              "price": 14700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "88179653",
+                              "name": "Veggie Spice Samosa (3 pcs)",
+                              "description": "Serves 1 | The verdant pot pourri of Indian veggies tucked in a crispy samosa. Lush & healthy.",
+                              "imageId": "zdyujr4u2a5wvvowygde",
+                              "isVeg": 1,
+                              "price": 10800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101333787",
+                              "name": "Manchurian Samosa (3 Pcs)",
+                              "description": "Serves 1 | Manchurian is a tasty Indo Chinese dish of fried veggie balls in a spicy, sweet and tangy sauce, filled inside a crisp samosa.",
+                              "imageId": "hgcayy8scnpse9e2d1mf",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101333788",
+                              "name": "Cheese Chilli Samosa (3 Pcs)",
+                              "description": "Serves 1 | The crunchy outside with gooey melted cheese inside, with capsicum, chilli flakes, some special herbs to hit that exact hunger spot. Finger-food meets India's snacking.",
+                              "imageId": "cumgqboy7wpl8mra4xlc",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "102216815",
+                              "name": "Punjabi Aloo Samosa (2 Pcs)",
+                              "description": "Serves 1 | Classic Punjabi samosa with North Indian spices and green peas. Served with mint chutney and tamarind chutney.",
+                              "imageId": "uvwgezk0m09smnzfkksk",
+                              "isVeg": 1,
+                              "price": 9400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104251706",
+                              "name": "Cheese n Corn Samosa (3Pcs)",
+                              "description": "Serves 1 | A delicate combination of corn & cheese inside our warm & crispy samosa served with green and tamarind chutney.",
+                              "imageId": "jmgu5lvgq0l9ljiel1dq",
+                              "isVeg": 1,
+                              "price": 12800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104251714",
+                              "name": "Moong Dal Kachori (3 Pcs)",
+                              "description": "Serves 1 | The light kachori with its crunchy outer and its flavoured dal filling, makes for that perfect casual evening meet, a formal function or just a filler.",
+                              "imageId": "oxk0jnubqsihj11fe3zd",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104251716",
+                              "name": "Aloo Pyaaz Kachori (3Pcs)",
+                              "description": "Serves 1 | Enjoy this delicious evening snack straight from the streets of Rajasthan .This delicious and crispy kachori is filled with spicy aloo & onion filling. Serve these as an evening snack with our special chutney .",
+                              "imageId": "ule4l0tsjlavppdld6gd",
+                              "isVeg": 1,
+                              "price": 11300
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Chaat",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "83617119",
+                              "name": "Dal Kachori Dahi Chaat",
+                              "description": "Serves 1 | The fresh crumble of our dal kachori, topped with an insatiable mix of fresh yogurt, green & red chutney, onion toppings and breezy sev.",
+                              "imageId": "ep8vtyptey55xbgymp6d",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "85268465",
+                              "name": "Tikki Chole Chaat",
+                              "description": "Serves 1 | The taste of a delectably cooked choley gravy and piping hot tikki topped with sev and chutney makes it a memory to cherish.",
+                              "imageId": "axysgapjtxnfnv2yctsv",
+                              "isVeg": 1,
+                              "price": 14700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "85293416",
+                              "name": "Ragda Pateez",
+                              "description": "Serves 1 | Aaloo tikki with matar gravy served with chatpata chutney, onion and sev bhujia. Part of the street food culture across Maharashtra and Gujarat.",
+                              "imageId": "wt9eg4arohvg1d3ugwud",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86059564",
+                              "name": "Dahi Papdi Chaat",
+                              "description": "Serves 1 | The crunchy flavour of the papdi, wrapped in the potpourri style mix of fresh yogurt, sweet & sour chutney, chaat masala and a sprinkle of sev.",
+                              "imageId": "bdltrzdioxcaakhuojbh",
+                              "isVeg": 1,
+                              "price": 13500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86059594",
+                              "name": "Masala Puri",
+                              "description": "Serves 1 | Garma garam matar ki gravy with crushed papdi and some chopped onion and chutney- the way you get on South India streets.",
+                              "imageId": "rtvrhqzdfam8e7apioga",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86823218",
+                              "name": "Kachori Chole Chaat",
+                              "description": "Serves 1 | The delicious popular street food made with khasta kachori, chole topped with sweet curd , masala peanuts , sev , onion, and our own green & sweet chutney.",
+                              "imageId": "rlbxhdxixprhpu4axovd",
+                              "isVeg": 1,
+                              "price": 14700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101333778",
+                              "name": "Samosa Chole Chaat",
+                              "description": "Serves 1 | The taste of our samosa crush marries the piping hot choley gravy, served with a generous topping of green chutney and sev to make it much more exciting.",
+                              "imageId": "mp0l0wvru5ktxbgfhmgk",
+                              "isVeg": 1,
+                              "price": 14700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104251708",
+                              "name": "Dahi Bhalla",
+                              "description": "Serves 1 | Dollops of yogurt spread over spongy soft and delectable bhallas & a generous sprinkling of chat masala and sweet n sour chutney mix. The one eat no one says no to.",
+                              "imageId": "tsmsuy0jmazgmzg7xye9",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "All-Day Breakfast",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104251704",
+                              "name": "Aloo Tikki Pav (2 Pcs)",
+                              "description": "Serves 1 | The symbol of our street food credo, the aloo tikki served up hot inside the soft buns of a fresh pav with a treat of green & red chutney making it a sweet and sour treat to remember.",
+                              "imageId": "vcy7iz2j5srup5zvkozr",
+                              "isVeg": 1,
+                              "price": 10400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104251718",
+                              "name": "Vada Pav (2 Pcs)",
+                              "description": "Serves 1 | The humble street food of Mumbai with our delicious potato vada sandwiched between two slices of soft pav served with roasted green chili and our very own green and sweet chutney.",
+                              "imageId": "jba2kchkv79alnst6h0z",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Bucket - Samosa & Kachori",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86517351",
+                              "name": "Khasta Kachori Bucket - Moong Dal Kachori (10 Pcs)",
+                              "description": "Serves 1 | 10Pcs of Khasta Rajasthani Kachori - filled with moong dal, garnished with Hing , spices and condiments.",
+                              "imageId": "ibmnh9csewh3fth5jcxl",
+                              "isVeg": 1,
+                              "price": 39900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104251717",
+                              "name": "Samosa Bucket - Punjabi Aloo (8Pcs)",
+                              "description": "Serves 1 | Now enjoy our newly launched Classic Punjabi samosa with North Indian Spices and Green peas. Served with mint chutney and tamarind chutney.",
+                              "imageId": "wfudovs8obhxctpoksea",
+                              "isVeg": 1,
+                              "price": 28500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "106586754",
+                              "name": "Cheesy Bucket (10 pcs)",
+                              "description": "Cheese Chilli Samosa (5 pcs) & Cheese n Corn Samosa (5 pcs). Served with pani puri chutney and pudina chutney.",
+                              "imageId": "7af509d629a2edee4082cd18b4e54f20",
+                              "isVeg": 1,
+                              "price": 39900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "106586755",
+                              "name": "Mixed Kachori Bucket (10 pcs)",
+                              "description": "Moong daal kachori (5 pcs) & Pyaaz Kachori (5 pcs). Served with pani puri chutney and pudina chutney.",
+                              "imageId": "e5b11c96f543098bc580eefb1f06c1ec",
+                              "isVeg": 1,
+                              "price": 39900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "106586756",
+                              "name": "Papdi Bucket\r",
+                              "description": "Crispy papdi sprinkled with chatpata seasonings served with pani puri chutney and pudina chutney. \r\n",
+                              "imageId": "383345d255dba3bed3391f564a7964e5",
+                              "isVeg": 1,
+                              "price": 9900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Mini Meals- Indian Street Food",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "83926432",
+                              "name": "Butter Pav Bhaji",
+                              "description": "Serves 1 | Classical street food style vegetable mash curry served with delectable soft & thinly roasted bread pav. The pav bhaji is the first choice of any sworn snack eater across the country.",
+                              "imageId": "lnpou7uuld2qp6nsx9oy",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86059578",
+                              "name": "Mattar Kulcha",
+                              "description": "Serves 1 | Dilli style matar gravy served with light and fluffy masala kulchas-serving the same as cycle wale bhaiya from olden days.",
+                              "imageId": "ukv2f9h68pt33tfwjwiw",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101333842",
+                              "name": "Chole Bhature",
+                              "description": "Serves 1 | The classic North Indian style chickpea gravy cooked with fresh onion, tomato and spices served with 2 soft bhature. Served with pickle and onion along the side. Start your day with it, sneak a bit during lunch or enjoy it late at night.",
+                              "imageId": "lkb2cxeetefsbtfacx6a",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104573310",
+                              "name": "Chole Kulcha (2 Pcs)",
+                              "description": "Serves 1 | The spine tingling mix of white peas, ginger, lemon & tomato served with a soft leavened bread or kulcha for that perfect snack.",
+                              "imageId": "oczw0m4mkq2xxkgap9uo",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Super Saver Combos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "83926433",
+                              "name": "Mini Meal Combo (Serves 2-3)",
+                              "description": "Serves 1 | Flavourful combo of Pav Bhaji paired with flaky, munchy Papdi Chaat alongside with Gulab Jamun (2pcs) to satisfy your sweet tooth",
+                              "imageId": "negrik9wgbmtwqnxeeli",
+                              "isVeg": 1,
+                              "price": 34700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104285396",
+                              "name": "Chole Bhature Dahi Bhalla Combo",
+                              "description": "Serves 1 | The ever-famous and absolutely delicious Chole Bhature and Dahi Bhalla served along with lip-smacking Gulab jamun (2pcs).",
+                              "imageId": "lkb2cxeetefsbtfacx6a",
+                              "isVeg": 1,
+                              "price": 35900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104285397",
+                              "name": "Cool Chaat Basket (Serves 3-4)",
+                              "description": "Serves 1 | The ultimate chaat favorites with the cooling effect of yogurt, consist of Dhai Bhalla, Papdi chaat, Dal kachori dahi chaat. Topped up with sweet-sour chutney and crisp sev.",
+                              "imageId": "e6o5szpfsdozambaz6jl",
+                              "isVeg": 1,
+                              "price": 40300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104285399",
+                              "name": "Hot Chaat Basket (Serves 2-3)",
+                              "description": "Serves 1 | Crushed Samosa and Tikki Chole dressed in fresh yogurt, sweet-sour chutney and sev.",
+                              "imageId": "izogsdvpghgy9ainf6pd",
+                              "isVeg": 1,
+                              "price": 28400
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101333848",
+                              "name": "Sweet Lassi - 250ml",
+                              "description": "Serves 1 | Sweetened curd beaten until frothy, served chilled.",
+                              "imageId": "k8sc2q4jnosz4mhdcce0",
+                              "isVeg": 1,
+                              "price": 11300
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Sweet Cravings",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "83617123",
+                              "name": "Rabri Jamun",
+                              "description": "Serves 1 | Just to make sweetness even more magical we combined best of both the worlds. Droolfull gulab jamun dipped in rich and creamy rabdi. Dil bole aur chahiye! (100 gms Rabri and 2 pcs Gulab jamun).",
+                              "imageId": "pq7rkwxuuy3p0i0v8iyn",
+                              "isVeg": 1,
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101333798",
+                              "name": "Moong Dal Halwa (100 Gms)",
+                              "description": "Serves 1 | A rich delicious dessert made from moong dal, khand, ghee and loaded with dry fruits. A mouth watering treat just for you!\n \n Allergen Information- Contains Gluten, Dairy, Nut",
+                              "imageId": "rfoegdb3wgljfmcw2puc",
+                              "isVeg": 1,
+                              "price": 12400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101333817",
+                              "name": "Rabri (100 Gms)",
+                              "description": "Serves 1 | North Indian delicacy made with slowly simmered milk with richness of malai and cream it.",
+                              "imageId": "khek6pgwihiduvsxtbs0",
+                              "isVeg": 1,
+                              "price": 12400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104251712",
+                              "name": "Gulab Jamun (2Pcs)",
+                              "description": "Serves 1 | Straight out of Delhi streets, the king of desserts. A classic Indian sweet with melt-in-mouth dumplings made of khoya and dipped in a rose and cardamom flavoured sugar syrup to satiate your sweet tooth.",
+                              "imageId": "kjicndy37xldznipfiou",
+                              "isVeg": 1,
+                              "price": 8500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

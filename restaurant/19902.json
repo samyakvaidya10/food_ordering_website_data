@@ -1,0 +1,815 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "19902",
+              "name": "Radha Krishna Pure Veg(Hinjewadi)",
+              "cuisines": ["Chinese", "South Indian"],
+              "veg": true,
+              "nudgeBanners": [
+                {
+                  "minValue": 174,
+                  "maxValue": 249,
+                  "priority": 1,
+                  "couponCode": "FLASHDEAL",
+                  "discountInfo": { "discountType": "Flat", "value": 125 },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code FLASHDEAL",
+                  "unlockedMessage": "FLASHDEAL Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {}
+                },
+                {
+                  "minValue": 455,
+                  "maxValue": 650,
+                  "priority": 4,
+                  "couponCode": "PARTY",
+                  "discountInfo": { "discountType": "Percentage", "value": 20 },
+                  "lockedMessage": "Add items worth ₹<amount> to unlock flat 20% off | Code PARTY",
+                  "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 20% off",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90817277",
+                              "name": "Veg Biryani",
+                              "imageId": "820b2b3279d96ab832429f0035f7bc9b",
+                              "isVeg": 1,
+                              "price": 20900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90682245",
+                              "name": "Regular Pav Bhaji",
+                              "imageId": "fmnc1qe8ud57wshthhf9",
+                              "isVeg": 1,
+                              "price": 15500,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766545",
+                              "name": "Amul Pav Bhaji",
+                              "imageId": "xc9be3umkr66n6frxcvk",
+                              "isVeg": 1,
+                              "price": 16500,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90817268",
+                              "name": "Palak Paneer",
+                              "imageId": "89ddea3956908f77cbcaca7b761488da",
+                              "isVeg": 1,
+                              "price": 24900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90541590",
+                              "name": "Veg Kadai",
+                              "imageId": "znvkjkmrotkkjsnlt8gc",
+                              "isVeg": 1,
+                              "price": 22900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766570",
+                              "name": "Naan",
+                              "imageId": "ibpvrkvurzwvwnxpteaq",
+                              "isVeg": 1,
+                              "price": 3700,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766572",
+                              "name": "Kulcha",
+                              "imageId": "x8yaaybh9zlb0fv23yvi",
+                              "isVeg": 1,
+                              "price": 3700,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766435",
+                              "name": "Veg Hakka Noodles",
+                              "imageId": "8bac1be51d613759ab2425e935be6a08",
+                              "isVeg": 1,
+                              "price": 18900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766560",
+                              "name": "Dal Khichadi",
+                              "imageId": "d88b9283157fa10b851521cd15c253a1",
+                              "isVeg": 1,
+                              "price": 20900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90541603",
+                              "name": "Dal Khichadi Tadka",
+                              "imageId": "bc1c5174d52d69941663d99ceb9dcffb",
+                              "isVeg": 1,
+                              "price": 22900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90817282",
+                              "name": "Veg Combination Schezwan (Rice + Noodles) ",
+                              "imageId": "zyuwnys1vgp41ozemgq0",
+                              "isVeg": 1,
+                              "price": 20900,
+                              "showImage": true
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Swiggy Exclusive Combos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "132902828",
+                              "name": "Special Paneer Tikka Biryani + Gulab Jamun",
+                              "description": "Paneer Tikka Biryani is a flavorful Indian rice dish that combines the rich and aromatic flavors of biryani with the grilled goodness of Paneer Tikka. \nServed with 3 pieces of delicious Gulab Jamun.",
+                              "imageId": "186fcfd15a3dd8f53774ed6140654da0",
+                              "isVeg": 1,
+                              "price": 31500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90705934",
+                              "name": "Paneer Biryani + Gulab Jamun",
+                              "imageId": "51253f98a1664371f03aaa59b313d334",
+                              "isVeg": 1,
+                              "price": 29900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90705936",
+                              "name": "Amul Pav Bhaji + Gulab Jamun",
+                              "imageId": "f440026edd5fd9aeac37850a4f8c83df",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90817271",
+                              "name": "Dal Khichadi Tadka + Butter Milk",
+                              "imageId": "cc595b22a3a9023773e1218182851b4d",
+                              "isVeg": 1,
+                              "price": 24900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90705935",
+                              "name": "Veg Biryani + Gulab Jamun",
+                              "imageId": "13d309db7f7c1144cdae9ff73a240aa6",
+                              "isVeg": 1,
+                              "price": 28900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "48574552",
+                              "name": "Veg Biryani + Butter Milk",
+                              "imageId": "85ffd9ef91741a2fb2ef8ada55f6f57c",
+                              "isVeg": 1,
+                              "price": 24900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Biryani",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766553",
+                              "name": "Special Paneer Tikka Biryani",
+                              "imageId": "b12dd0884a105f4299e441baccdff70b",
+                              "isVeg": 1,
+                              "price": 24500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766554",
+                              "name": "Special Paneer Tikka Biryani Jumbo",
+                              "imageId": "6bc129b06bd834623a18865a7eedeeb3",
+                              "isVeg": 1,
+                              "price": 47900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90817277",
+                              "name": "Veg Biryani",
+                              "imageId": "820b2b3279d96ab832429f0035f7bc9b",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766550",
+                              "name": "Veg Biryani Jumbo",
+                              "imageId": "31b17cc75e2d9d18f6b3f0411f3ae421",
+                              "isVeg": 1,
+                              "price": 40900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766551",
+                              "name": "Paneer Biryani",
+                              "imageId": "2579cd2fe2e716937cb5ce3d80325922",
+                              "isVeg": 1,
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766552",
+                              "name": "Paneer Biryani Jumbo",
+                              "isVeg": 1,
+                              "price": 46900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5173499",
+                              "name": "Mushroom Biryani",
+                              "imageId": "7b7c8d01d351d703fa52a6d27a049f5c",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5173500",
+                              "name": "Mushroom Biryani Jumbo",
+                              "isVeg": 1,
+                              "price": 40900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Pav Bhaji",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90682245",
+                              "name": "Regular Pav Bhaji",
+                              "imageId": "fmnc1qe8ud57wshthhf9",
+                              "isVeg": 1,
+                              "price": 15500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766545",
+                              "name": "Amul Pav Bhaji",
+                              "description": "Medium Spicy",
+                              "imageId": "xc9be3umkr66n6frxcvk",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90682247",
+                              "name": "Pav Jodi",
+                              "imageId": "dca55c3df878e05a45d37520ef6dff8d",
+                              "isVeg": 1,
+                              "price": 3000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90817270",
+                              "name": "Finger Chips",
+                              "imageId": "0abda461f8748b3765ad900c5bf2280a",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Dal",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7539836",
+                              "name": "Dal Fry",
+                              "description": "Medium Spicy",
+                              "imageId": "31b02f989ee885d678b669832485470a",
+                              "isVeg": 1,
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766662",
+                              "name": "Dal Tadka",
+                              "imageId": "ad5b6605c53cf4ee1cfb6ce5d4d706b5",
+                              "isVeg": 1,
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766547",
+                              "name": "Dal Kolhapuri",
+                              "description": "Medium Spicy",
+                              "imageId": "cb96354b2e9452e46ddba98db2156062",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5173498",
+                              "name": "Dal Lehsuni Tadkawala",
+                              "imageId": "3c03335a7b3491399297b3170290b55f",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Family Binge Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90541573",
+                              "name": "2 Veg Hakka Noodles + 2 Veg Manchurian Dry + 2 Paneer Chilli Dry + 1 Thums Up (600 Ml)",
+                              "category": "Family Binge Combo",
+                              "imageId": "3f7a2ff96ea004bdf4988cd07621354f",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 119900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90541575",
+                              "name": "2 Paneer Chilli (Dry) + 1 Paneer Butter Masala + 6 Roti + 2 Gulab Jamun",
+                              "category": "Family Binge Combo",
+                              "imageId": "25bcc8097638779d062ad79f9bbfabce",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 99900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "13 ratings",
+                                  "ratingCountV2": "13"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90541577",
+                              "name": "1 Rk Special Paneer (3 Person) + 6 Roti +2 Jeera Rice + 2 Dal Fry +3 Gulab Jamun+2 Thums Up (600 Ml)",
+                              "category": "Family Binge Combo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 129900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90541579",
+                              "name": "3 Amul Pav Bhaji + 4 Pav Jodi + 1 Finger Chips + 3 Butter Milk",
+                              "category": "Family Binge Combo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 77900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": { "vegClassifier": "VEG" },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "7 ratings",
+                                  "ratingCountV2": "7"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Rice",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766560",
+                              "name": "Dal Khichadi",
+                              "imageId": "d88b9283157fa10b851521cd15c253a1",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90541603",
+                              "name": "Dal Khichadi Tadka",
+                              "imageId": "bc1c5174d52d69941663d99ceb9dcffb",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90541602",
+                              "name": "Palak Khichadi ",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766556",
+                              "name": "Veg Pulav",
+                              "description": "Medium Spicy",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766557",
+                              "name": "Veg Tawa Pulav",
+                              "description": "Medium Spicy",
+                              "isVeg": 1,
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766558",
+                              "name": "Green Peas Pulav",
+                              "imageId": "c6379b18bd3c8b75702cfb37eb1c8c68",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5173323",
+                              "name": "Jeera Rice",
+                              "description": "Medium Spicy",
+                              "imageId": "cc3e8f95d89865b71725f534438db92b",
+                              "isVeg": 1,
+                              "price": 17500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766566",
+                              "name": "Steam Rice",
+                              "isVeg": 1,
+                              "price": 17500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Soups",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766416",
+                              "name": "Veg Manchow Soup ",
+                              "imageId": "ekizu2n03kx69afjhjj7",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766436",
+                              "name": "Veg Hot & Sour Soup",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766437",
+                              "name": "Veg Sweet Corn Soup",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766444",
+                              "name": "Veg Lemon Coriander Soup",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766439",
+                              "name": "Cream of Mushroom Soup",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766440",
+                              "name": "Cream Of Veg Soup",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Dessert",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "90817273",
+                              "name": "Gulab Jamun",
+                              "imageId": "0e429807ec4070802cef9f19bab08f0a",
+                              "isVeg": 1,
+                              "price": 7900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Papad",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5173502",
+                              "name": "Fried Papad",
+                              "imageId": "ca51e093c7133a768ef582707c08f7f5",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3766590",
+                              "name": "Roasted Papad",
+                              "isVeg": 1,
+                              "price": 4500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

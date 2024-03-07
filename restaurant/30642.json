@@ -1,0 +1,477 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "30642",
+              "name": "Cheesiano Pizza",
+              "cuisines": ["Pizzas", "Pastas"],
+              "nudgeBanners": [
+                {
+                  "minValue": 139,
+                  "maxValue": 199,
+                  "priority": 1,
+                  "couponCode": "FLASHDEAL",
+                  "discountInfo": { "discountType": "Flat", "value": 125 },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code FLASHDEAL",
+                  "unlockedMessage": "FLASHDEAL Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {}
+                },
+                {
+                  "minValue": 314,
+                  "maxValue": 449,
+                  "priority": 4,
+                  "couponCode": "CARNIVAL",
+                  "discountInfo": { "discountType": "Flat", "value": 175 },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹175 | Code CARNIVAL",
+                  "unlockedMessage": "CARNIVAL Coupon Unlocked! Use it to save ₹175",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "68490395",
+                              "name": "Veg Italian White Sauce Penne Pasta",
+                              "description": "The Veg Italian White Sauce Penne Pasta is a delicious pasta dish made with penne pasta tossed in a creamy white sauce. The white sauce is made with liquid cheese, fresh cream, and oregano, and is then mixed with saut?ed onions, for added flavor and texture.",
+                              "imageId": "5c4667dc3643b5ab81c777908b4d8d36",
+                              "isVeg": 1,
+                              "price": 23900,
+                              "showImage": true
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60584179",
+                              "name": "Paneer Peri Peri Pizza",
+                              "description": "Paneer Peri Peri Pizza is a delicious pizza that is typically made with a base of Mozzarella cheese and a spicy Peri-Peri sauce topped with chunks of Paneer, sliced onions, capsicum, tomatoes, and jalapeno peppers.",
+                              "imageId": "38467c1c971b0fbb85577da6d7f2e801",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 33900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60584183",
+                              "name": "Sizzling Paneer Exotica Pizza",
+                              "description": "Sizzling Paneer Exotica Pizza is a spicy and delicious pizza that features a blend of different flavours and textures. This pizza is topped with chunks of spicy Paneer, sliced onions, black olives, mushrooms, and red paprika.",
+                              "imageId": "c6b6621d73cd5d5bbfb2b6a3b360a2b3",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 30900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60584198",
+                              "name": "Veg Mexicana Pizza",
+                              "description": "Veg Mexicana Pizza is a spicy and delicious pizza that is loaded with vegetables and bold flavours.the pizza starts with a base of Mozzarella cheese and Italian pizza sauce topped with sliced onions, tomatoes, capsicum, jalape?os, red paprika, and green chillies.",
+                              "imageId": "56fa629ba7b2b11d876b082b8f842cd7",
+                              "isVeg": 1,
+                              "showImage": true,
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60584216",
+                              "name": "Cheesy Chicken Pizza",
+                              "description": "Cheesy Chicken Pizza is a mouthwatering pizza that features a base of Italian pizza sauce, Mozzarella cheese, and tender chunks of chicken, all topped off with a generous amount of melted cheese.",
+                              "imageId": "60074b0a2b515bbc0b1f75c3d083275c",
+                              "showImage": true,
+                              "price": 33900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "71505189",
+                              "name": "Chicken Alfredo Pizza",
+                              "description": "Chicken Alfredo Pizza is a delicious and creamy pizza that features a base of Alfredo sauce, Mozzarella cheese, grilled chicken, sliced onions, capsicum, and black olives.",
+                              "imageId": "dd5749a3e5fa5fd7c88ee40a1b9cfe5e",
+                              "showImage": true,
+                              "price": 30900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60584240",
+                              "name": "Chicken Tandoori Pizza",
+                              "description": "Chicken Tandoori Pizza is a delicious and flavourful pizza that features a base of Tandoori sauce, Mozzarella cheese, chicken tandoori, sliced onions, capsicum, and red paprika.",
+                              "imageId": "40d085006a3fa83173fa92b49e177e42",
+                              "showImage": true,
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60584208",
+                              "name": "Butter Chicken Pizza",
+                              "description": "Butter Chicken Pizza is a delicious and creamy pizza that features a base of Makhani sauce, Mozzarella cheese, Mughlai butter chicken, sliced capsicum, onions, and garnished with chopped coriander.",
+                              "imageId": "b6b94c5a149d3edf55b67e5ff1ffb3e4",
+                              "showImage": true,
+                              "price": 31900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60584237",
+                              "name": "Chicken Supreme Pizza",
+                              "description": "Chicken Supreme Pizza is a popular pizza that combines the flavors of Indian spices with classic pizza toppings. The Pizza features a base of Italian pizza sauce and mozzarella cheese, topped with spicy chicken, chicken tikka, and chicken meatballs, as well as sliced onions and capsicum.",
+                              "imageId": "e0193a0f90f385851caaad9335401fd6",
+                              "showImage": true,
+                              "price": 31900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "71505191",
+                              "name": "Chicken Overloaded Pizza",
+                              "description": "Chicken Overloaded Pizza is a meat lover's dream! This pizza features a generous amount of Mozzarella cheese, along with a variety of chicken toppings, including herbed chicken, sausage, hot and spicy chicken, chicken meatballs, and chicken salami.",
+                              "imageId": "5e8a57c516d958956b4a2409ea765ccb",
+                              "showImage": true,
+                              "price": 36900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Pasta",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "68490395",
+                              "name": "Veg Italian White Sauce Penne Pasta",
+                              "description": "The Veg Italian White Sauce Penne Pasta is a delicious pasta dish made with penne pasta tossed in a creamy white sauce. The white sauce is made with liquid cheese, fresh cream, and oregano, and is then mixed with saut?ed onions, for added flavor and texture.",
+                              "imageId": "5c4667dc3643b5ab81c777908b4d8d36",
+                              "isVeg": 1,
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "68490396",
+                              "name": "Veg Italian Red Sauce Penne Pasta",
+                              "description": "Penne Pasta Tossed in a light Sauce of Tomatoes, with Red Onions, Capsicums, Corn and Garnished with Cheese",
+                              "imageId": "883a98be09e9460287dfdd804f7903aa",
+                              "isVeg": 1,
+                              "price": 22900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "68490394",
+                              "name": "Veg Pink Sauce Penne Pasta",
+                              "description": "A Contemporary Pink Sauce Penne Pasta Saut?ed with Onions, Capsicums and Cheese",
+                              "imageId": "8e87207e60cc51963329ae3714906e7a",
+                              "isVeg": 1,
+                              "price": 24900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "68490398",
+                              "name": "Chicken White Sauce Penne Pasta",
+                              "description": "Boneless | A comfort food favourite with chunky chicken simmered in a rich tomato sauce with red onions, corn and topped with tons of cheese",
+                              "imageId": "fdaf223de389fc177f69e00212b4006a",
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "68490397",
+                              "name": "Chicken Red Sauce Penne Pasta",
+                              "description": "Boneless | A comfort food favourite with chunky chicken simmered in a rich tomato sauce with red onions, capsicum, corn with tons of cheese.",
+                              "imageId": "873608c2df964b091f0c4364610e13d8",
+                              "price": 23900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "68490399",
+                              "name": "Chicken Pink Sauce Penne Pasta",
+                              "description": "Boneless | A contemporary pink sauce penne pasta sauteed with chunky chicken, onions, capsicums and cheese",
+                              "imageId": "7e23060efe4f2a7671928c56a27b2fb6",
+                              "price": 21900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Christmas & New Year Combos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756584",
+                              "name": "Christmas Combo for 2",
+                              "description": "Enjoy the discounted combos for 2, including 2 regular pizzas, 1 side and 1 beverage from the available options.",
+                              "imageId": "3d986320bc7b55c099569fad09f92660",
+                              "isVeg": 1,
+                              "price": 59900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756595",
+                              "name": "Special Christmas Combo for 2",
+                              "description": "Choose any 2 special Pizzas from the below options",
+                              "imageId": "c7afdef2cb8d5e43cacd8576ff116494",
+                              "isVeg": 1,
+                              "price": 64900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756596",
+                              "name": "Special Christmas Combo for 4",
+                              "description": "Special Pizza Combo for 4, including 4 regular pizzas, 2 sides and 2 beverages!",
+                              "imageId": "8446a1ca832ba670faddadb0c60b1294",
+                              "isVeg": 1,
+                              "price": 104900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Combo's",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756576",
+                              "name": "Value Pizza Meal For 1",
+                              "description": "Meal For 1 ,Choose Your any 1 Small Pizza, Garlic Bread Sticks or Pepsi",
+                              "imageId": "5227b2da5f95334aa468f97ae260d853",
+                              "isVeg": 1,
+                              "price": 24900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756574",
+                              "name": "Classic Pizza Meal for 1",
+                              "description": "Delicious Meal for 1 ,Choose Your any Small Pizza, Along with  Garlic bread Sticks or Choco Lava Cake Or Pepsi",
+                              "imageId": "0ca7548cfd7bfd1729c4bb4ea278ecb5",
+                              "isVeg": 1,
+                              "price": 29900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Burgerino",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756573",
+                              "name": "Cheesy Alloo Masti Burger",
+                              "description": "Aloo tikki burger is a delicious fusion dish that combines the flavours of Indian cuisine with the classic American burger. Aloo tikki is a popular Indian street food made from mashed potatoes mixed with a variety of spices and herbs, shaped into patties typically consists of a soft burger bun, a vegetarian patty melted cheese, lettuce, tomato, onion.",
+                              "imageId": "7369a78102688f77b24b057e53f460b3",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756575",
+                              "name": "Tandoori Chicken Burger",
+                              "description": "A chicken tandoori burger is a fusion of Indian and American cuisine that combines the bold flavours of tandoori chicken with the classic American burger. The burger typically features a juicy chicken patty that has been marinated in a mixture of yogurt and tandoori spices, which includes a blend of spices like cumin, coriander, ginger, garlic, and chili powder.This burger is a delicious and satisfying meal that is perfect for anyone who loves the bold and flavourful spices of Indian cuisine.",
+                              "imageId": "a12621f91a347dadbf3336107f59033c",
+                              "price": 21900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Veg Salads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756580",
+                              "name": "Cheesy Delight Salad",
+                              "description": "Cheesy Delight Salad is a Crisp mix of colorful garden-fresh vegetables, meticulously tossed to perfection, creating a symphony of flavors and textures that tantalize your taste buds. A wholesome and satisfying salad that celebrates nature's bounty in every bite.",
+                              "imageId": "70fea0f2efd14498edfab1e105e1d381",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756586",
+                              "name": "Corn and Peas Salad",
+                              "description": "Corn and peas salad has natural sweetness of tender corn and peas, this refreshing medley offers a vibrant and wholesome twist to your plate. Enjoy a symphony of flavors and textures that celebrate the goodness of farm-fresh ingredients",
+                              "imageId": "68fad866cb9f7fb3daac5ea74cac9593",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756599",
+                              "name": "Veg Paneer salad",
+                              "description": "Indulge in a delightful harmony of flavors with our Veg Paneer Salad with tender paneer cheese, lovingly combined with fresh greens and a generous sprinkle of cheese, creates a delectable balance of creaminess and crunch. A savory sensation that takes your salad experience to the next level.",
+                              "imageId": "fde9d640554c0d12c9b367edc25a352f",
+                              "isVeg": 1,
+                              "price": 24900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Non Veg Salads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756581",
+                              "name": "Chicken and cheese salad",
+                              "description": "Salad is a perfect blend of protein with succulent chicken pieces paired with creamy cheese, nestled atop a bed of crisp greens and vibrant vegetables. Its a savory symphony that satisfies your cravings while keeping your meal light and refreshing.",
+                              "imageId": "76946de7e96dc84235d1f8a86963ea05",
+                              "price": 24900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756582",
+                              "name": "Chicken and egg salad",
+                              "description": "A chicken and egg salad is a delicious and satisfying dish made with a combination of tender cooked chicken, eggs, and a variety of fresh vegetables and seasonings. This salad is known for its delightful mix of textures and flavors, making it a popular choice for lunch or a light dinner. Here's a description of a typical chicken and egg salad",
+                              "imageId": "829204225779d7d8461a9881394346c5",
+                              "price": 27900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756591",
+                              "name": "Peri peri chicken salad",
+                              "description": "It contains hearty portions of tender chicken, accompanied by an array of fresh and vibrant ingredients, thus creating a satisfying and nourishing ensemble. Its a delicious balance of taste and nutrition that leaves you energized and satisfied.",
+                              "imageId": "f7c17ac5a32b6c27a9f6fe4e3a275aee",
+                              "price": 26900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Pocket friendly Pizzas",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "135756577",
+                              "name": "2 Veg pizzas (Pocket friendly)",
+                              "description": "Get 2 pocket friendly pizzas at never before seen prices!",
+                              "isVeg": 1,
+                              "price": 27900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "3168",
+              "name": "Eatsome- Wraps & Rolls",
+              "cuisines": ["North Indian", "Street Food"],
+              "nudgeBanners": [
+                {
+                  "priority": 1,
+                  "couponCode": "BOGO",
+                  "discountInfo": { "discountType": "BXGY", "value": 100 },
+                  "lockedMessage": "Add <amount> more <TagInfo> item(s) to avail the offer",
+                  "unlockedMessage": "Yay! 1 item worth <X> is now FREE!",
+                  "minItemCount": 1,
+                  "maxItemCount": 2,
+                  "type": "B1G1",
+                  "nudgeTagInfo": {
+                    "title": "Buy 1 Get 1",
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#753428",
+                    "separatorColor": "#E44629",
+                    "fontName": "FONT_NAME_CONDENSED_BOLD"
+                  },
+                  "styling": {
+                    "backgroundColor": "#2C1F1D",
+                    "textColor": "#B3FFFFFF"
+                  },
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "title": "Special Big Saver Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957071",
+                              "name": "3 Paneer Wrap Combo",
+                              "description": "Great Saving on combos of Three Bestseller Paneer Wraps",
+                              "imageId": "f3327b61529cd96bb392fdcedd2b6449",
+                              "isVeg": 1,
+                              "price": 42900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957060",
+                              "name": "3 Chicken Wrap Combo.",
+                              "description": "Great Saving on combos of Three Bestseller Chicken Wraps",
+                              "imageId": "3163c1fb2e097781a5cec327f37ca4aa",
+                              "price": 44900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957064",
+                              "name": "2 Paneer Mayo Wrap & 2 Cheesy Corn Wrap (4 Wraps)",
+                              "imageId": "bb080107c03a0795c62b92b818c1fc75",
+                              "isVeg": 1,
+                              "price": 48900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957068",
+                              "name": "2 Chicken Bhuna Wrap & 2 Chicken Tikka Wrap (4 Wraps)",
+                              "imageId": "ddebbc4c003324747972fe0ab54c6607",
+                              "price": 48900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Best Wrap And Beverages Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957066",
+                              "name": "2 Chicken Wrap & 1 Beverages combo",
+                              "description": "Great Saving on combos of Bestseller Wraps",
+                              "imageId": "06c00b829f3c0cd6ece555d6cd0f8396",
+                              "price": 34900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957206",
+                              "name": "2 Veg Wrap & 1 Beverages Combo",
+                              "description": "Great Saving on combos of Bestseller Wraps",
+                              "imageId": "06f60cbd37e04528d31a970458d0c60f",
+                              "isVeg": 1,
+                              "price": 33900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Wrap Combo - Super Saver",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "48605786",
+                              "name": "Super Saver Wrap Combo",
+                              "description": "Choose any 3 Wraps",
+                              "imageId": "659b5352345cf8ef2deecdae0bdb2944",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957220",
+                              "name": "2 Students Friendly Wrap Combo",
+                              "description": "Great Saving on combos of Two Best sellers",
+                              "imageId": "661f6017917c57b2ff6ae5a4b63dec75",
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "124016197",
+                              "name": "2 Mini Wraps",
+                              "imageId": "436d4694176932ce12a3d6e781db7924",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957216",
+                              "name": "2 Classic Non Veg Wrap Combo",
+                              "description": "Great Saving on combos of Two Best sellers",
+                              "imageId": "06c00b829f3c0cd6ece555d6cd0f8396",
+                              "price": 29900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133957212",
+                              "name": "2 Classic Veg Wrap Combo",
+                              "description": "Great Saving on combos of Two Best sellers",
+                              "imageId": "bb080107c03a0795c62b92b818c1fc75",
+                              "isVeg": 1,
+                              "price": 29900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Paratha Meal",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108507974",
+                              "name": "Paratha And Chole Masala Meal - Serves 1",
+                              "description": "2 Parathas with 1 Chole Masala",
+                              "imageId": "c0e84178959bc5165c2716c5fc9abffc",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108508041",
+                              "name": "Paratha And Dal Makhani Meal - Serves 1",
+                              "description": "2 Parathas with 1 Dal Makhani",
+                              "imageId": "f8d6719991ca89270f245594f20dcafa",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108507973",
+                              "name": "Paratha And Chicken Kheema Meal - Serves 1",
+                              "description": "2 Parathas with 1 chicken keema",
+                              "imageId": "d8eb3d4d799597d944e9a658301d3f21",
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108507991",
+                              "name": "Paratha And Chicken Bhuna Meal - Serves 1",
+                              "description": "2 Parathas with Chicken Bhuna",
+                              "imageId": "71b636d701f0cea060c5930bf6be0712",
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108507985",
+                              "name": "Paratha And Chicken Chettinad Meal - Serves 1",
+                              "description": "2 Parathas with Chicken Chettinad",
+                              "imageId": "f9461a852c8c84f9013478ac767fb9c1",
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108507992",
+                              "name": "Paratha And Paneer Tikka Masala Meal - Serves 1",
+                              "description": "2 parathas with paneer tikka masala serves 1",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108507995",
+                              "name": "Paratha And Rajma Masala Meal - Serves 1",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Masalas or Curries",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4376120",
+                              "name": "Chole Masala",
+                              "description": "Zesty chole cooked to perfection in a spiced onion gravy.",
+                              "imageId": "1355e269ade1d6669a04da288702ea62",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "86603107",
+                              "name": "Dal Makhani",
+                              "description": "Creamed lentils slow cooked and flavored with fresh ginger, garlic and rich blend of herbs and spices. Our house secret recipe.",
+                              "imageId": "953f8d5f86b383d7f4f94fc617e63fbf",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "111740159",
+                              "name": "Paneer Tikka Masala",
+                              "description": "Paneer tikka masala a popular punjabi delight, creamy and indulgent dish with paneer cooked in an onion-tomato based gravy.",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77998595",
+                              "name": "Chicken Bhuna Masala",
+                              "description": "Flavorful chicken pieces slow-cooked in spicy bhuna masala",
+                              "imageId": "96d6a57f7e3b53c16ec1cec0e3a6437d",
+                              "price": 22900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
