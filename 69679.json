@@ -1,0 +1,3517 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "69679",
+              "name": "Udupi Tadka's Gokul",
+              "cuisines": [
+                "South Indian",
+                "Biryani"
+              ],
+              "veg": true,
+              "nudgeBanners": [
+                {
+                  "minValue": 104,
+                  "maxValue": 149,
+                  "priority": 1,
+                  "couponCode": "SNACKSBINGE",
+                  "discountInfo": {
+                    "discountType": "Percentage",
+                    "value": 50
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save upto ₹100 | Code SNACKSBINGE",
+                  "unlockedMessage": "SNACKSBINGE Coupon Unlocked! Use it to save upto ₹100",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19021012",
+                              "name": "Dal Tadka ",
+                              "category": "Khana",
+                              "description": "Dal Tadka, which is prepared by adding a tadka on top of the dal",
+                              "imageId": "mbxibx3yki1trh2qzjgr",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "340 ratings",
+                                  "ratingCountV2": "340"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19021157",
+                              "name": "Paneer Tikka Masala ",
+                              "category": "Khana",
+                              "description": "Paneer tikka masala is an Indian dish of marinated paneer served in a spiced gravy",
+                              "imageId": "9c3fc86c53ecf97bebbb663b4b293fa2",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 26400,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "1054 ratings",
+                                  "ratingCountV2": "1054"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550881",
+                              "name": "Paneer Butter Masala ",
+                              "category": "Khana",
+                              "description": "A rich and creamy vegetarian dish coated in a smooth and flavorful butter sauce.",
+                              "imageId": "903a4311b73b69fc2e1c65610de0ea72",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 24200,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "844 ratings",
+                                  "ratingCountV2": "844"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19021014",
+                              "name": "Veg Biryani ",
+                              "category": "Khana",
+                              "description": "A flavorful Indian rice dish with mixed vegetables.",
+                              "imageId": "dc351c09e87b1984a6291b08e27631ea",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "568 ratings",
+                                  "ratingCountV2": "568"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "19021005",
+                              "name": "Dal Khichdi ",
+                              "category": "Khana",
+                              "description": "A delicious and comforting meal, made from rice and moong lentils.",
+                              "imageId": "h7sz51acteujhohcrt49",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "1269 ratings",
+                                  "ratingCountV2": "1269"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550882",
+                              "name": "Sev Bhaji (Punjabi) ",
+                              "category": "Khana",
+                              "imageId": "25eb07dea680fb25efd963edb939217b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 20700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "348 ratings",
+                                  "ratingCountV2": "348"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "45504127",
+                              "name": "Dal Khichadi Tadka ",
+                              "category": "Khana",
+                              "imageId": "0e7d37bbe356106f443b47f0d6966521",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "78 ratings",
+                                  "ratingCountV2": "78"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550877",
+                              "name": "Medu Vada Sambar (2 Pc)",
+                              "category": "South ka Nastha",
+                              "description": "Crispy fried savory dumplings served with savory lentil soup, perfect for breakfast or anytime snack.",
+                              "imageId": "j2omwqivrbk7aykwiwc1",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "55 ratings",
+                                  "ratingCountV2": "55"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550869",
+                              "name": "Idli Sambar ",
+                              "category": "South ka Nastha",
+                              "imageId": "hb3reyy0jwjdgpyxdsvd",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "258 ratings",
+                                  "ratingCountV2": "258"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "120494574",
+                              "name": "Loni Dosa",
+                              "category": "South ka Nastha",
+                              "description": "Dosa",
+                              "imageId": "8584b22c70f25e22887e16a2e29b43bb",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18400,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550899",
+                              "name": "Batata Vada",
+                              "category": "South ka Nastha",
+                              "description": "A crispy and flavorful Indian snack filled with a delicious surprise at its center.",
+                              "imageId": "60ce8c0d0b4b45363baf989ca15c6cdc",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "41 ratings",
+                                  "ratingCountV2": "41"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550885",
+                              "name": "Rava Masala Dosa ",
+                              "category": "South ka Nastha",
+                              "description": "Tawa- toasted, crispy rava dosa folded in with masala.",
+                              "imageId": "xrwbi4o0zuzttqzuoin0",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15400,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "67 ratings",
+                                  "ratingCountV2": "67"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550892",
+                              "name": "Mysore Sada Dosa ",
+                              "category": "South ka Nastha",
+                              "imageId": "cf8c39da2bc5934d828163393e0e13d4",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13200,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "22 ratings",
+                                  "ratingCountV2": "22"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550887",
+                              "name": "Onion Uttappam ",
+                              "category": "South ka Nastha",
+                              "description": "A savory and flavorful Uttapam topped with caramelized onions.",
+                              "imageId": "2bb0f293e78b3b3489bf1a37a105ca1d",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14300,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "149 ratings",
+                                  "ratingCountV2": "149"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550894",
+                              "name": "Masala Dosa ",
+                              "category": "South ka Nastha",
+                              "description": "A crispy and savory South Indian breakfast staple with a flavorful filling.",
+                              "imageId": "mdqpbmjakkao8jgklwmg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "318 ratings",
+                                  "ratingCountV2": "318"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550896",
+                              "name": "Mysore Masala Dosa ",
+                              "category": "South ka Nastha",
+                              "description": "A semi-spicy, crispy and delicious dosa with masala folded into it.",
+                              "imageId": "xyt6utgpxsm6wphkwj0h",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14300,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "172 ratings",
+                                  "ratingCountV2": "172"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550895",
+                              "name": "Rava Sada Dosa ",
+                              "category": "South ka Nastha",
+                              "description": "Deliciously crispy dosa made with rava; served with sambhar and chutney - perfect sanck to satisfy your hunger.",
+                              "imageId": "463257f06e0bea8fd8ea4bfe5b47ed7e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14300,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550900",
+                              "name": "Plain Dosa ",
+                              "category": "South ka Nastha",
+                              "description": "Irresistibly crispy dosa cooked to perfection served with chutney and sambhar.",
+                              "imageId": "kdc7hrvu2z3l6nnpjr1p",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12100,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "72 ratings",
+                                  "ratingCountV2": "72"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "115962999",
+                              "name": "Sabudana Khichadi ",
+                              "category": "South ka Nastha",
+                              "description": "Sabudana khichadi upvas re",
+                              "imageId": "c3c6e8433e4d7468d99b94d4f2709a46",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13200,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "104550884",
+                              "name": "Paper Sada Dosa",
+                              "category": "South ka Nastha",
+                              "description": "Crispy crepe with delicate aroma and distinct flavor.",
+                              "imageId": "81278ad437e4e81fb62094a26a3c1497",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17300,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "32 ratings",
+                                  "ratingCountV2": "32"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Khana",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021012",
+                              "name": "Dal Tadka ",
+                              "description": "Dal Tadka, which is prepared by adding a tadka on top of the dal",
+                              "imageId": "mbxibx3yki1trh2qzjgr",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021157",
+                              "name": "Paneer Tikka Masala ",
+                              "description": "Paneer tikka masala is an Indian dish of marinated paneer served in a spiced gravy",
+                              "imageId": "9c3fc86c53ecf97bebbb663b4b293fa2",
+                              "isVeg": 1,
+                              "price": 26400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550881",
+                              "name": "Paneer Butter Masala ",
+                              "description": "A rich and creamy vegetarian dish coated in a smooth and flavorful butter sauce.",
+                              "imageId": "903a4311b73b69fc2e1c65610de0ea72",
+                              "isVeg": 1,
+                              "price": 24200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021155",
+                              "name": "Paneer Lacchedar ",
+                              "description": "A savory and rich Paneer Main Course with a creamy texture.",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550908",
+                              "name": "Butter Naan",
+                              "description": "North Indian bread with a generous serving of butter that tastes brilliant when paired with a gravy.",
+                              "isVeg": 1,
+                              "price": 7300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021014",
+                              "name": "Veg Biryani ",
+                              "description": "A flavorful Indian rice dish with mixed vegetables.",
+                              "imageId": "dc351c09e87b1984a6291b08e27631ea",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021005",
+                              "name": "Dal Khichdi ",
+                              "description": "A delicious and comforting meal, made from rice and moong lentils.",
+                              "imageId": "h7sz51acteujhohcrt49",
+                              "isVeg": 1,
+                              "price": 19800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550882",
+                              "name": "Sev Bhaji (Punjabi) ",
+                              "imageId": "25eb07dea680fb25efd963edb939217b",
+                              "isVeg": 1,
+                              "price": 20700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "45504127",
+                              "name": "Dal Khichadi Tadka ",
+                              "imageId": "0e7d37bbe356106f443b47f0d6966521",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021117",
+                              "name": "Bhaji Amti ",
+                              "description": "Maine course",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550910",
+                              "name": "Butter Roti",
+                              "description": "A warm and flaky Indian bread smothered in rich, creamy butter.",
+                              "isVeg": 1,
+                              "price": 4200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133055541",
+                              "name": "Cheese Butter Garlic Naan",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Sandwich",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021075",
+                              "name": "Veg Grilled Sandwich ",
+                              "description": "A wholesome sandwich with assorted veggies tossed in a simple dressing and grilled to perfection.",
+                              "isVeg": 1,
+                              "price": 15400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550893",
+                              "name": "Veg Cheese Grilled Sandwich ",
+                              "description": "Hearty sandwich stuffed generously with assorted seasoned vegetables, cheese and grilled to perfection.",
+                              "isVeg": 1,
+                              "price": 17600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021079",
+                              "name": "Cheese Garlic Bread Sandwich",
+                              "isVeg": 1,
+                              "price": 17300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550911",
+                              "name": "Cheese Chilli Toast ",
+                              "description": "Well toasted bread layered with chillies and cheese.",
+                              "isVeg": 1,
+                              "price": 17600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021082",
+                              "name": "Veg Club Sandwich ",
+                              "description": "A wholesome sub with tomato, cheese, sauteed mushroom, jalapenos and a veggie salad filling served with crisps.",
+                              "isVeg": 1,
+                              "price": 19800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021085",
+                              "name": "Classic Club Sandwich ",
+                              "isVeg": 1,
+                              "price": 19800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021087",
+                              "name": "Veg Jungli Sandwich",
+                              "isVeg": 1,
+                              "price": 17300
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "South ka Nastha",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550879",
+                              "name": "Tomato Omelette Dosa ",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126611556",
+                              "name": "Sabudana Wada",
+                              "description": "Upvas ke liye",
+                              "isVeg": 1,
+                              "price": 13800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "120494245",
+                              "name": "Podi Dosa",
+                              "description": "Dosa",
+                              "isVeg": 1,
+                              "price": 17300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550877",
+                              "name": "Medu Vada Sambar (2 Pc)",
+                              "description": "Crispy fried savory dumplings served with savory lentil soup, perfect for breakfast or anytime snack.",
+                              "imageId": "j2omwqivrbk7aykwiwc1",
+                              "isVeg": 1,
+                              "price": 14900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "120494300",
+                              "name": "Jini Dosa",
+                              "description": "Dosa",
+                              "isVeg": 1,
+                              "price": 18400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550867",
+                              "name": "Fried Idli",
+                              "description": "Crispy goodness on the outside, soft and fluffy on the inside - a perfect snack or breakfast option.",
+                              "isVeg": 1,
+                              "price": 12600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550869",
+                              "name": "Idli Sambar ",
+                              "imageId": "hb3reyy0jwjdgpyxdsvd",
+                              "isVeg": 1,
+                              "price": 11500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "120494574",
+                              "name": "Loni Dosa",
+                              "description": "Dosa",
+                              "imageId": "8584b22c70f25e22887e16a2e29b43bb",
+                              "isVeg": 1,
+                              "price": 18400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550870",
+                              "name": "Dahi Idli",
+                              "description": "A savoury South Indian dish with a creamy twist!",
+                              "isVeg": 1,
+                              "price": 14900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550899",
+                              "name": "Batata Vada",
+                              "description": "A crispy and flavorful Indian snack filled with a delicious surprise at its center.",
+                              "imageId": "60ce8c0d0b4b45363baf989ca15c6cdc",
+                              "isVeg": 1,
+                              "price": 11500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550888",
+                              "name": "Masala Uttapam ",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550885",
+                              "name": "Rava Masala Dosa ",
+                              "description": "Tawa- toasted, crispy rava dosa folded in with masala.",
+                              "imageId": "xrwbi4o0zuzttqzuoin0",
+                              "isVeg": 1,
+                              "price": 15400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550891",
+                              "name": "Plain Uttapam ",
+                              "description": "An interesting spin on the classic dosa with batter spread to a thick consistency served with 2 types of chutney and sambhar.",
+                              "isVeg": 1,
+                              "price": 11000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550892",
+                              "name": "Mysore Sada Dosa ",
+                              "imageId": "cf8c39da2bc5934d828163393e0e13d4",
+                              "isVeg": 1,
+                              "price": 13200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550887",
+                              "name": "Onion Uttappam ",
+                              "description": "A savory and flavorful Uttapam topped with caramelized onions.",
+                              "imageId": "2bb0f293e78b3b3489bf1a37a105ca1d",
+                              "isVeg": 1,
+                              "price": 14300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550894",
+                              "name": "Masala Dosa ",
+                              "description": "A crispy and savory South Indian breakfast staple with a flavorful filling.",
+                              "imageId": "mdqpbmjakkao8jgklwmg",
+                              "isVeg": 1,
+                              "price": 12000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550896",
+                              "name": "Mysore Masala Dosa ",
+                              "description": "A semi-spicy, crispy and delicious dosa with masala folded into it.",
+                              "imageId": "xyt6utgpxsm6wphkwj0h",
+                              "isVeg": 1,
+                              "price": 14300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550895",
+                              "name": "Rava Sada Dosa ",
+                              "description": "Deliciously crispy dosa made with rava; served with sambhar and chutney - perfect sanck to satisfy your hunger.",
+                              "imageId": "463257f06e0bea8fd8ea4bfe5b47ed7e",
+                              "isVeg": 1,
+                              "price": 14300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550878",
+                              "name": "Pineapple Sheera",
+                              "description": "A tasteful dish made by slow cooking rava and sugar flavored with juicy bits of pineapple and rich ghee.",
+                              "isVeg": 1,
+                              "price": 12600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550900",
+                              "name": "Plain Dosa ",
+                              "description": "Irresistibly crispy dosa cooked to perfection served with chutney and sambhar.",
+                              "imageId": "kdc7hrvu2z3l6nnpjr1p",
+                              "isVeg": 1,
+                              "price": 12100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550883",
+                              "name": "Paper Masala Dosa",
+                              "description": "Tawa-toasted crispy thin dosa, folded in with masala.",
+                              "isVeg": 1,
+                              "price": 19600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "115962999",
+                              "name": "Sabudana Khichadi ",
+                              "description": "Sabudana khichadi upvas re",
+                              "imageId": "c3c6e8433e4d7468d99b94d4f2709a46",
+                              "isVeg": 1,
+                              "price": 13200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550884",
+                              "name": "Paper Sada Dosa",
+                              "description": "Crispy crepe with delicate aroma and distinct flavor.",
+                              "imageId": "81278ad437e4e81fb62094a26a3c1497",
+                              "isVeg": 1,
+                              "price": 17300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550886",
+                              "name": "Upma",
+                              "description": "A savory and filling breakfast staple from South India.",
+                              "isVeg": 1,
+                              "price": 11500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Soups",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021107",
+                              "name": "Cream of Palak Soup",
+                              "isVeg": 1,
+                              "price": 15700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550913",
+                              "name": "Veg Manchow Soup ",
+                              "description": "A warm and flavorful vegetarian soup, perfect for any season.",
+                              "imageId": "d6389dc136305f38f1429cef23786b31",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021110",
+                              "name": "Sweet Corn Veg Soup ",
+                              "isVeg": 1,
+                              "price": 15000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021108",
+                              "name": "Cream Of Veg Soup",
+                              "description": "Vibrant, smooth and rich - a comforting bowl of delight.",
+                              "isVeg": 1,
+                              "price": 15700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550915",
+                              "name": "Cream Of Tomato Soup",
+                              "description": "Velvety smooth soup with a delectable tomato flavour.",
+                              "imageId": "0fcb6db5bd6780a14214ef76c5bab501",
+                              "isVeg": 1,
+                              "price": 15700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021112",
+                              "name": "Hot & Sour Veg Soup",
+                              "isVeg": 1,
+                              "price": 15700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "126669484",
+                              "name": "Cream Of Mushroom Soup",
+                              "description": "Stater",
+                              "isVeg": 1,
+                              "price": 17700
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021053",
+                              "name": "Tandoori Gobi ",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021056",
+                              "name": "Paneer Tikka Dry",
+                              "description": "Soft paneer cubes marinated in a seasoned masala and cooked in a tandoor.",
+                              "isVeg": 1,
+                              "price": 33300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021055",
+                              "name": "Mushroom Tikka ",
+                              "description": "A fragrant and savory treat of succulent mushrooms, grilled to perfection with a rich blend of authentic Indian spices.",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550858",
+                              "name": "Veg Manchurian Gravy",
+                              "description": "A savory and satisfying Pan Asian & Chinese creation with a rich gravy.",
+                              "imageId": "2df8f7dff23f0ef0325ef43b133bd9dc",
+                              "isVeg": 1,
+                              "price": 28800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021052",
+                              "name": "Veg Seekh Kebab ",
+                              "description": "Savoury and smoky Indian kebab made with tender vegetables and aromatic spices.",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020970",
+                              "name": "Paneer 65 ",
+                              "description": "Deliciously crispy thin and long dosa smothered with butter; served with sambhar and chutney - a typical South Indian breakfast.",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550859",
+                              "name": "Paneer Schezwan (Serves 1)",
+                              "isVeg": 1,
+                              "price": 30300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020978",
+                              "name": "Paneer Crispy ",
+                              "description": "Crispy bites of goodness with a rich creamy filling.",
+                              "imageId": "iaxidqzy8hkl6p7phtxw",
+                              "isVeg": 1,
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550860",
+                              "name": "Soybean Chilli (Serves 1)",
+                              "imageId": "hpwnbzoyogtbsjgov8eu",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550912",
+                              "name": "Veg Manchurian Dry ",
+                              "description": "Crispy fried vegetable balls tossed in a flavorful sauce.",
+                              "imageId": "bqstaxrwlfgxauznjwsd",
+                              "isVeg": 1,
+                              "price": 25300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021164",
+                              "name": "Veg 65 ",
+                              "description": "A tantalizing vegetarian dish with bold flavors and textures.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020960",
+                              "name": "Mushroom Manchurian ",
+                              "description": "Deep-fried, crispy meaty mushrooms tossed in a thick and spicy Manchurian gravy.",
+                              "isVeg": 1,
+                              "price": 31000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550864",
+                              "name": "Tandoori Aloo",
+                              "description": "Juicy, smoky and flavorful Tandoori potatoes cooked in the tandoor oven.",
+                              "isVeg": 1,
+                              "price": 26400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020967",
+                              "name": "Paneer Shanghai",
+                              "description": "A savory delight that blends rich, creamy paneer with a touch of tangy sweetness.",
+                              "isVeg": 1,
+                              "price": 30300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020975",
+                              "name": "Veg Crispy ",
+                              "description": "Crispy and savory vegetarian starter perfect for any meal or occasion.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020987",
+                              "name": "Veg Crunchy ",
+                              "description": "A crispy and satisfying vegetarian delight perfect for starting your meal.",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550876",
+                              "name": "Todays Special Paneer",
+                              "isVeg": 1,
+                              "price": 33300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550889",
+                              "name": "Chinese Bhel",
+                              "description": "A fusion of Chinese and Indian flavors, this veg dish is a treat for your taste buds.",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021128",
+                              "name": "Paneer Chilli Gravy",
+                              "description": "A tantalizingly indulgent Chinese delight that is bound to tickle your taste buds.",
+                              "imageId": "9e73ce96d89648385216ea9ca6153ba5",
+                              "isVeg": 1,
+                              "price": 31100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550914",
+                              "name": "Paneer Chilli Dry (Serves 2)",
+                              "description": "A perfect starter with crispy bites and a delicious creamy center.",
+                              "imageId": "mupnlszklgfxkfxqjhec",
+                              "isVeg": 1,
+                              "price": 30300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020964",
+                              "name": "Mushroom Chilli",
+                              "description": "Delectable mushrooms cooked in a spicy and tasty chilli sauce - perfect dish to satisfy your cravings.",
+                              "isVeg": 1,
+                              "price": 32400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020984",
+                              "name": "Chana Chilli",
+                              "description": "A flavorful and satisfying legume dish with a touch of heat.",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Bhaji Pakoda & Pantry",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021062",
+                              "name": "Kanda Bhaji ",
+                              "description": "Crispy fried fritters bursting with aromatic flavors!",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550917",
+                              "name": "Veg Sandwich (Serves 2)",
+                              "isVeg": 1,
+                              "price": 11500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021064",
+                              "name": "Finger Chips ",
+                              "description": "Crispy, golden potatoes that will satisfy your snack cravings any time of day.",
+                              "imageId": "69d786d61882160eb095bb9c0a2c5f82",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021163",
+                              "name": "Paneer Pakora",
+                              "description": "Super-soft paneer dunked in a seasoned gram flour batter and fried to golden perfection; served with dip.",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021059",
+                              "name": "Veg Pakora",
+                              "description": "Crisp and flavorful, perfect for an afternoon snack.",
+                              "isVeg": 1,
+                              "price": 19600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021070",
+                              "name": "Bread Butter ",
+                              "description": "A classic and comforting sandwich for any time of day.",
+                              "isVeg": 1,
+                              "price": 7700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021072",
+                              "name": "Bread Butter Jam ",
+                              "description": "A classic snack that's simple yet satisfying, perfect for a quick and tasty pick-me-up any time of day.",
+                              "isVeg": 1,
+                              "price": 9000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021098",
+                              "name": "Veg Cheese Sandwich ",
+                              "description": "A cheesy and savory veggie delight between two slices of bread.",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021100",
+                              "name": "Veg Toast Sandwich ",
+                              "description": "Well toasted bread stuffed with wholesome veggies.",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021102",
+                              "name": "Veg Cheese Toast Sandwich",
+                              "description": "Creamy cheese with fresh vegetables, sandwiched between crispy toast.",
+                              "isVeg": 1,
+                              "price": 16700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021160",
+                              "name": "Hara Bhara Kebab ",
+                              "description": "Flavorsome preparation with minced, seasoned vegetable patty cooked to a crispy golden brown.",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Main Course",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021148",
+                              "name": "Palak Paneer ",
+                              "description": "A creamy spinach and cheese dish that's full of flavor.",
+                              "imageId": "uvgiisvbafwb37uhjjzm",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021150",
+                              "name": "Paneer Masala ",
+                              "description": "A rich and flavorful vegetarian curry with soft and creamy cotton cheese.",
+                              "imageId": "fcf39585f5b5bd61388a63e1027bbcf1",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550857",
+                              "name": "Dum Aloo Punjabi ",
+                              "imageId": "nbpsizzltzcfb4vw5dpt",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021149",
+                              "name": "Mattar Paneer",
+                              "description": "A comforting vegetarian main course with a creamy sauce and soft paneer, perfect with fluffy rice.",
+                              "imageId": "gzbwipe2mmtctuhpcjpx",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021151",
+                              "name": "Paneer Bhurji ",
+                              "description": "A creamy Indian vegetarian delight, perfect for breakfast or lunch.",
+                              "imageId": "a6d7be7785e30a54a7c8546b298d1f45",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550865",
+                              "name": "Paneer Rara Masala ",
+                              "description": "Succulent chunks of paneer in a richly flavored tomato-based curry.",
+                              "isVeg": 1,
+                              "price": 31900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021154",
+                              "name": "Paneer Mirch Masala ",
+                              "description": "A delightful paneer dish with a flavorful masala sauce.",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550862",
+                              "name": "Paneer Khurchan",
+                              "description": "A rich and savory vegetarian delight from the Subz Sarai collection.",
+                              "isVeg": 1,
+                              "price": 33300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550868",
+                              "name": "Veg Kolhapuri ",
+                              "description": "A flavorful and savory Indian vegetable dish.",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021130",
+                              "name": "Aloo Mattar ",
+                              "description": "A flavorful and savory dish made with tender potatoes and green peas.",
+                              "imageId": "a8692cc1c4d8e3b00e46603b0c65408c",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550863",
+                              "name": "Bhati Ka Paneer",
+                              "isVeg": 1,
+                              "price": 33300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021131",
+                              "name": "Aloo Gobi ",
+                              "description": "An indulgent combo of aloo, phulka, and butter milk.",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021153",
+                              "name": "Paneer Kadai",
+                              "description": "A creamy and flavorful vegetarian main course that will tantalize your taste buds.",
+                              "imageId": "zi6xj4xlkdb6yfhqba20",
+                              "isVeg": 1,
+                              "price": 28800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550875",
+                              "name": "Kaju Masala ",
+                              "description": "A rich and savory vegetarian main course.",
+                              "imageId": "oaz0vwq0m0iek6eofbos",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021134",
+                              "name": "Aloo Palak ",
+                              "description": "A savory and flavorful dish combining potatoes and spinach.",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550897",
+                              "name": "Paneer Peshawari ",
+                              "description": "A creamy and flavorful vegetarian main course.",
+                              "isVeg": 1,
+                              "price": 31900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021141",
+                              "name": "Mushroom Masala ",
+                              "description": "A savory Indian dish featuring tender mushrooms in a rich and flavorful masala sauce.",
+                              "imageId": "31a0aa46d52e7155a6452e42d9f09562",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021156",
+                              "name": "Paneer Makhanwala",
+                              "description": "A rich and creamy vegetarian main course.",
+                              "imageId": "0bc2af2bd57b29bd9fcc146c5824ca92",
+                              "isVeg": 1,
+                              "price": 27600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021142",
+                              "name": "Mushroom Mirch Masala ",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550871",
+                              "name": "Paneer Tikka Masala Serve1",
+                              "imageId": "dzgntq17r72lv24bcqor",
+                              "isVeg": 1,
+                              "price": 27600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021143",
+                              "name": "Mushroom Paneer ",
+                              "description": "A tantalizing vegetarian starter with a delightful blend of flavors.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021147",
+                              "name": "Veg Kofta ",
+                              "description": "A scrumptious vegetarian main course with savory balls and flavorful sauce.",
+                              "imageId": "neecbqhicrhr61mglzyy",
+                              "isVeg": 1,
+                              "price": 19800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021159",
+                              "name": "Tawa Bhaji ",
+                              "imageId": "8457eddd1c367962debf300c5a2bd2de",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020963",
+                              "name": "Veg Handi ",
+                              "description": "A delectable medley of garden-fresh veggies in a flavorful blend.",
+                              "imageId": "vxpvd5sg0god0gwrhkc0",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020965",
+                              "name": "Veg Hyderbadi ",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020968",
+                              "name": "Veg Kadai ",
+                              "description": "A flavorful medley of vegetables in a rich, aromatic gravy.",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021136",
+                              "name": "Dum Aloo Kashmiri",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020976",
+                              "name": "Veg Patiala ",
+                              "description": "A flavorful main course packed with savory and satisfying vegetarian goodness.",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550898",
+                              "name": "Dal Tadka Serve1",
+                              "isVeg": 1,
+                              "price": 20700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020979",
+                              "name": "Veg Makkhanwala ",
+                              "description": "A rich and creamy vegetarian dish from northern India.",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021137",
+                              "name": "Lehsun Palak",
+                              "imageId": "6a16bcabcc234c9a15bf60c1ee098e72",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020982",
+                              "name": "Veg Lahori ",
+                              "description": "A flavorful vegetarian dish inspired by the cuisine of Lahore.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550918",
+                              "name": "Todays Special Paneer Maincouse",
+                              "description": "Indulge in a delectable vegetarian main course featuring paneer - the highlight of today's special.",
+                              "isVeg": 1,
+                              "price": 33300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020983",
+                              "name": "Veg Mirch Masala ",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021138",
+                              "name": "Mixed Veg Curry",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020986",
+                              "name": "Veg Deewani Handi ",
+                              "description": "A savory and hearty vegetarian dish with a blend of aromatic herbs and spices.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "105227327",
+                              "name": "Kaju Curry (sweet) Serve 1",
+                              "isVeg": 1,
+                              "price": 28800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020991",
+                              "name": "Bhindi Fry ",
+                              "description": "A delightful Maharashtrian main course that's sure to tickle your taste buds.",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021139",
+                              "name": "Kaju Curry Sweet",
+                              "isVeg": 1,
+                              "price": 28800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021132",
+                              "name": "Sev Bhaji (Kala Masala) ",
+                              "imageId": "c8c2c8791e1cbfa5e78269412466a3c7",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020988",
+                              "name": "Baingan Masala ",
+                              "description": "A rich, flavorful dish featuring tender chunks of eggplant in a fragrant, aromatic sauce.",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020990",
+                              "name": "Baingan Bharta ",
+                              "description": "A wholesome, hearty vegetarian main course packed with bold flavors and satisfying textures.",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020992",
+                              "name": "Baingan Handi ",
+                              "description": "A delectable veg Handi Special that will make you crave for more.",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021144",
+                              "name": "Mushroom Tawa",
+                              "description": "Sauteed mushrooms with aromatic spices, served as a hearty main course.",
+                              "isVeg": 1,
+                              "price": 29300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020994",
+                              "name": "Bhindi Masala ",
+                              "description": "A flavorful and aromatic dry vegetable dish perfect for any vegetarian meal.",
+                              "imageId": "2fa369455e739ac635ea4a78e397dc73",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021145",
+                              "name": "Malai Kofta(sweet)",
+                              "description": "Creamy vegetable balls simmered in rich cashew sauce.",
+                              "imageId": "bddca1287714462259b8a22cb6f26136",
+                              "isVeg": 1,
+                              "price": 28200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020996",
+                              "name": "Lehsuni Methi ",
+                              "description": "A flavorful vegetarian dish perfect as a main course.",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021146",
+                              "name": "Navratan Korma",
+                              "isVeg": 1,
+                              "price": 28200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021000",
+                              "name": "Veg Maratha ",
+                              "description": "A flavorful vegetarian main course that will transport your taste buds to Maharashtra.",
+                              "imageId": "rpjzcuvfq6utvpx0bp4i",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021007",
+                              "name": "Dal Fry ",
+                              "description": "A comforting and flavorful Punjabi dish made with lentils.",
+                              "imageId": "d6985c76dcd3514dd27d60cd03a750b4",
+                              "isVeg": 1,
+                              "price": 17000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021158",
+                              "name": "Sabji Chaman Bahar",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021009",
+                              "name": "Butter Dal Fry ",
+                              "imageId": "29499bd9ea4bffb5829ce87ff52f55a1",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020959",
+                              "name": "Veg Bhoona Masala",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021013",
+                              "name": "Dal Palak ",
+                              "description": "A comforting and nutritious creamy lentil dish with earthy spinach.",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020973",
+                              "name": "Veg Kolivada",
+                              "isVeg": 1,
+                              "price": 25100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020998",
+                              "name": "Besan Pithal",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "45504126",
+                              "name": "Paneer Tikka Tadka",
+                              "isVeg": 1,
+                              "price": 33300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "60351675",
+                              "name": "Paneer Ghee Roast",
+                              "description": "Paneer tossed in a tangy Mangalorean masala.",
+                              "isVeg": 1,
+                              "price": 34500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "122801566",
+                              "name": "Chanaa Masala",
+                              "description": "Maincourse",
+                              "isVeg": 1,
+                              "price": 20700
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Breads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021026",
+                              "name": "Roti (1 Pc)",
+                              "description": "A warm, freshly made Indian staple bread that is perfect for dipping in delicious curries and sauces.",
+                              "imageId": "yfizdylppb2brlf3maqv",
+                              "isVeg": 1,
+                              "price": 3700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021031",
+                              "name": "Naan ",
+                              "description": "A fluffy and flavorful Indian bread perfect for sopping up savory sauces and curries.",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021033",
+                              "name": "Paratha ",
+                              "description": "A flaky and flavorful Indian flatbread perfect for any main course dish.",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550905",
+                              "name": "Butter Garlic Naan (1 Pcs)",
+                              "isVeg": 1,
+                              "price": 8400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021035",
+                              "name": "Butter Paratha ",
+                              "description": "Flaky layers of buttery goodness in every bite.",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104789386",
+                              "name": "Chapati1",
+                              "description": "An aromatic and flavorful bread with a soft and tender texture.",
+                              "isVeg": 1,
+                              "price": 2700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021029",
+                              "name": "Butter Roti (1 Pc)",
+                              "description": "A buttery and scrumptious bread that melts in your mouth.",
+                              "isVeg": 1,
+                              "price": 4200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021038",
+                              "name": "Kulcha ",
+                              "description": "A mouthwatering Roti dish with a unique texture and a delectable flavor.",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021030",
+                              "name": "Butter Chapati (1 Pc)",
+                              "description": "A soft and flaky bread, layered with rich, smooth butter.",
+                              "isVeg": 1,
+                              "price": 3100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021039",
+                              "name": "Butter Kulcha ",
+                              "description": "A soft and buttery Indian bread, freshly baked in a tandoor oven.",
+                              "imageId": "dee5059a63364419fb453b91682c4f00",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021041",
+                              "name": "Missi Roti ",
+                              "description": "A scrumptious and savory Indian flatbread with a unique, hearty flavor.",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021042",
+                              "name": "Methi Roti ",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021034",
+                              "name": "Butter Naan (1 Pc)",
+                              "description": "Freshly baked bread brushed with butter to make it soft and flavorful.",
+                              "imageId": "dcwpnpm9cwd9pj75bonu",
+                              "isVeg": 1,
+                              "price": 7300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021043",
+                              "name": "Palak Roti ",
+                              "isVeg": 1,
+                              "price": 5000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021045",
+                              "name": "Aloo Paratha ",
+                              "description": "Wholesome parathas with generous seasoned potato stuffing; served with curd, salad and pickle.",
+                              "imageId": "e49be9131579cab965d5f7e2a9c6630f",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021046",
+                              "name": "Gobi Paratha ",
+                              "description": "Soft and fluffy flatbread with a mashed caulifloret stuffing.",
+                              "isVeg": 1,
+                              "price": 14000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021047",
+                              "name": "Stuffed Paratha ",
+                              "description": "A delightfully wholesome combo with flavor-packed stuffed paratha prepared with special masalas and assorted veggies.",
+                              "isVeg": 1,
+                              "price": 16000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021049",
+                              "name": "Paneer Paratha ",
+                              "description": "Hearty parathas with ample stuffing of seasoned paneer chunks; served with curd, salad and pickle.",
+                              "imageId": "2dc85b0ef4f67e0ae2b6c671e7eba50f",
+                              "isVeg": 1,
+                              "price": 19000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021051",
+                              "name": "Garlic Naan ",
+                              "description": "A fragrant Indian bread with a perfectly crispy exterior and soft, buttery interior.",
+                              "isVeg": 1,
+                              "price": 7000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Rice & Biryani",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021023",
+                              "name": "Veg Pulao ",
+                              "description": "A wholesome dish prepared by cooking chopped vegetables and rice in a flavorful Indian masala.",
+                              "isVeg": 1,
+                              "price": 21000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021021",
+                              "name": "Masala Rice ",
+                              "description": "Aromatic Basmati rice infused with warm Indian spices.",
+                              "isVeg": 1,
+                              "price": 20000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550902",
+                              "name": "Dal Khichdi (Serves 1-2)",
+                              "imageId": "rvnxgcbdqtkdrnodexdb",
+                              "isVeg": 1,
+                              "price": 20700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021022",
+                              "name": "Curd Rice ",
+                              "description": "A creamy and savory rice dish that melts in your mouth.",
+                              "isVeg": 1,
+                              "price": 18000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021025",
+                              "name": "Kashmiri Pulao ",
+                              "description": "An incredibly indulgent preparation made with aromatic rice and assorted veggies simmered in a rich masala; served with raita.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550906",
+                              "name": "Veg Biryani (Serves 1-2)",
+                              "description": "A flavorful and aromatic rice dish filled with vegetables.",
+                              "imageId": "wnaxyhy5wyu5j3barxlb",
+                              "isVeg": 1,
+                              "price": 23000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550907",
+                              "name": "Steam Rice ",
+                              "description": "Fluffy, aromatic long-grain rice, delicately cooked to perfection and served piping hot.",
+                              "isVeg": 1,
+                              "price": 13800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021019",
+                              "name": "Jeera Rice Half",
+                              "description": "Aromatic rice cooked in a tempering of cumin and whole spices.",
+                              "imageId": "bkcffvn9ica0nm2zulrd",
+                              "isVeg": 1,
+                              "price": 14600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "77276799",
+                              "name": "Jeera Rice Full",
+                              "description": "Aromatic rice seasoned with cumin seeds.",
+                              "imageId": "bihmi11rhxxsye5ctmtp",
+                              "isVeg": 1,
+                              "price": 16700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108835048",
+                              "name": "Paneer Tikka Biryani",
+                              "description": "This aromatic and flavorful rice dish features succulent cubes of grilled paneer.",
+                              "imageId": "29e0db28ed3a731d8108c8ab9baeb204",
+                              "isVeg": 1,
+                              "price": 31100
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Fried Rice & Noodles",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021076",
+                              "name": "Mushroom Fried Rice ",
+                              "description": "Fresh veggies and mushoorm tossed in a pan with steamed rice and flavorful sauces and spices.",
+                              "isVeg": 1,
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021080",
+                              "name": "Singapore Rice ",
+                              "description": "A tantalizing blend of rice and vegetables, glazed in Chinese flavors.",
+                              "isVeg": 1,
+                              "price": 22000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550903",
+                              "name": "Schezwan Fried Rice (Serves 1-2)",
+                              "description": "An aromatic mix of flavors infuse fluffy rice with savory vegetables and a kick of heat.",
+                              "isVeg": 1,
+                              "price": 27600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550919",
+                              "name": "Veg Hakka Noodles ",
+                              "description": "Indulge in a flavorful, vegetarian noodle dish that's loaded with delicious, fresh veggies and delectably seasoned for a unique taste experience.",
+                              "imageId": "vbpppi62ixuh7xjlsvqq",
+                              "isVeg": 1,
+                              "price": 25300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021083",
+                              "name": "Singapore Noodles ",
+                              "description": "A savory and flavorful stir-fry dish featuring chunky vegetables and delicious noodles.",
+                              "isVeg": 1,
+                              "price": 25000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550904",
+                              "name": "Veg Fried Rice (Serves 1-2)",
+                              "description": "Flavorful and aromatic rice with mixed vegetables.",
+                              "imageId": "jebhatl1hrhxjnlmg0ef",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021081",
+                              "name": "Honk Kong Rice",
+                              "description": "A tantalizing Chinese rice dish from Hong Kong with non-veg ingredients.",
+                              "isVeg": 1,
+                              "price": 24100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021084",
+                              "name": "Hong Kong Noodles ",
+                              "description": "A savory, flavorful noodle dish inspired by Hong Kong cuisine.",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021088",
+                              "name": "Schezwan Hakka Noodles ",
+                              "description": "A delicious Chinese noodle dish with bold, savory flavors.",
+                              "imageId": "8b37753aabab70e1f3e47ed0fd437a79",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218067",
+                              "name": "Noodles with Rice ",
+                              "description": "A satisfying blend of Chinese-style noodles and tender rice in a delicious vegetarian preparation.",
+                              "isVeg": 1,
+                              "price": 24000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550920",
+                              "name": "Triple Schezwan Rice (Serves 1)",
+                              "description": "A tantalizing fusion of Indian and Chinese flavors in a savory fried rice.",
+                              "isVeg": 1,
+                              "price": 27200
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Accompaniments",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021057",
+                              "name": "Roasted Papad ",
+                              "description": "Crispy and flavorful roasted goodness, perfect to start your meal.",
+                              "isVeg": 1,
+                              "price": 3300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021058",
+                              "name": "Fried Papad ",
+                              "description": "Crisp, golden and bursting with flavor, this Indian snack is a delight for your palate.",
+                              "isVeg": 1,
+                              "price": 3900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021060",
+                              "name": "Masala Papad ",
+                              "description": "A savory and aromatic vegetarian delight that brings excitement to your taste buds.",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021061",
+                              "name": "Nagi Papad",
+                              "isVeg": 1,
+                              "price": 4600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021063",
+                              "name": "Jaipuri Papad ",
+                              "isVeg": 1,
+                              "price": 7700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021068",
+                              "name": "Veg Raita ",
+                              "description": "A refreshing accompaniment made with mixed vegetables and yogurt.",
+                              "isVeg": 1,
+                              "price": 13000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021067",
+                              "name": "Plain Raita (Curd)",
+                              "isVeg": 1,
+                              "price": 12500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021069",
+                              "name": "Boondi Raita ",
+                              "description": "A refreshing and creamy side salad with small fried crispy balls.",
+                              "isVeg": 1,
+                              "price": 13000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021071",
+                              "name": "Pineapple Raita ",
+                              "description": "A tropical twist to a classic side dish, with the perfect blend of sweetness and tanginess.",
+                              "isVeg": 1,
+                              "price": 17000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Todays Special",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "108834732",
+                              "name": "Today Spl Biryani",
+                              "isVeg": 1,
+                              "price": 31100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550866",
+                              "name": "Todays Spl Veg Staters",
+                              "description": "Crispy plain dosa laden with butter; served along with flavor-packed sambhar and chutney - perfect to satiate your hunger pangs.",
+                              "isVeg": 1,
+                              "price": 31100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "105576564",
+                              "name": "Todays Spl Paneer Main Course",
+                              "isVeg": 1,
+                              "price": 33300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "56895223",
+                              "name": "Rumali Khakra (1 Pc)",
+                              "description": "Crisp, flavorful flatbread perfect for snacking.",
+                              "imageId": "ldx75sf8yot9e1gmyla7",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550874",
+                              "name": "Todays Spl Paneer Starter",
+                              "isVeg": 1,
+                              "price": 33300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "105576668",
+                              "name": "Todays Spl Veg Main Course",
+                              "isVeg": 1,
+                              "price": 31100
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021125",
+                              "name": "Fresh Lime Water",
+                              "description": "A refreshing citrus-filled drink, perfect for cooling down on a hot day.",
+                              "imageId": "igotoocq0az5te0ft1kc",
+                              "isVeg": 1,
+                              "price": 6300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104550890",
+                              "name": "Virgin Pina Colad",
+                              "isVeg": 1,
+                              "price": 18800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021126",
+                              "name": "Fresh Lime Soda",
+                              "description": "A refreshingly zesty, citrusy drink perfect for beating the heat and quenching your thirst.",
+                              "imageId": "jjihm2iruqj1jhai1dti",
+                              "isVeg": 1,
+                              "price": 7300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021127",
+                              "name": "Buttermilk",
+                              "isVeg": 1,
+                              "price": 7300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020962",
+                              "name": "Lassi",
+                              "description": "A refreshing and creamy yogurt-based drink, perfect for a hot summer day.",
+                              "isVeg": 1,
+                              "price": 12500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020966",
+                              "name": "Mango Lassi",
+                              "description": "Smooth and creamy, this refreshing Indian drink provides a fruity boost to your day.",
+                              "isVeg": 1,
+                              "price": 14600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020972",
+                              "name": "Fresh Juice",
+                              "isVeg": 1,
+                              "price": 12500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218049",
+                              "name": "Kiwi Passion",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218050",
+                              "name": "Blue Berry Lemon Night",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218051",
+                              "name": "Litchi Royal",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218052",
+                              "name": "Blue Lagoon",
+                              "description": "A refreshing and invigorating mocktail that will transport you to a tropical paradise.",
+                              "isVeg": 1,
+                              "price": 16200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218053",
+                              "name": "Watermelon Virgin Mojito",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218054",
+                              "name": "Green Apple Virgin Mojito",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218057",
+                              "name": "Mint Iced Tea",
+                              "isVeg": 1,
+                              "price": 13600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218059",
+                              "name": "Lemon Iced Tea",
+                              "description": "A refreshing blend of citrus and tea that's perfect for any occasion.",
+                              "isVeg": 1,
+                              "price": 13600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218061",
+                              "name": "Green Cooler",
+                              "isVeg": 1,
+                              "price": 17300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218063",
+                              "name": "Fruit Punch",
+                              "description": "A refreshing and sweet concoction of various juicy fruits, perfect for a hot summer day.",
+                              "isVeg": 1,
+                              "price": 18800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19020980",
+                              "name": "Soda",
+                              "isVeg": 1,
+                              "price": 4200
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Salads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218056",
+                              "name": "Caesar Salad ",
+                              "description": "A scrumptious salad containing iceberg lettuce, capsicum, bell peppers, shredded chicken, parmesan cheese and french dressing.",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218058",
+                              "name": "Hawain Salad",
+                              "isVeg": 1,
+                              "price": 17300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218060",
+                              "name": "Tossed Salad ",
+                              "description": "A delightful mix of fresh greens, vegetables, and herbs.",
+                              "isVeg": 1,
+                              "price": 16500
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218062",
+                              "name": "Khimchi Salad ",
+                              "isVeg": 1,
+                              "price": 15400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218064",
+                              "name": "Russian Salad ",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021092",
+                              "name": "Vanilla Ice Cream",
+                              "description": "Smooth, creamy, and delicately sweet, this classic dessert is the perfect way to end any meal.",
+                              "isVeg": 1,
+                              "price": 6900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021094",
+                              "name": "Strawberry Ice Cream",
+                              "description": "A dreamy pink dessert with rich, creamy texture and the refreshing taste of sweet, ripe strawberries.",
+                              "isVeg": 1,
+                              "price": 6900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021097",
+                              "name": "Butterscotch Ice Cream",
+                              "description": "A creamy, indulgent treat that's guaranteed to satisfy your sweet tooth.",
+                              "isVeg": 1,
+                              "price": 9200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021109",
+                              "name": "Vanilla Milkshake",
+                              "description": "A creamy and indulgent drink that's sweet, cool, and perfect for satisfying your sweet tooth cravings.",
+                              "isVeg": 1,
+                              "price": 15700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021111",
+                              "name": "Vanilla Milkshake with Vanilla Ice Cream",
+                              "isVeg": 1,
+                              "price": 17800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021113",
+                              "name": "Strawberry Milkshake",
+                              "description": "A creamy, fruity treat that's perfect for a warm day.",
+                              "isVeg": 1,
+                              "price": 15700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021115",
+                              "name": "Strawberry Milkshake with Vanilla Ice Cream",
+                              "isVeg": 1,
+                              "price": 17800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021116",
+                              "name": "Mango Milkshake",
+                              "description": "Soft, smooth and slurpy milkshake made from wholesome mangoes.",
+                              "isVeg": 1,
+                              "price": 16700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021118",
+                              "name": "Mango Milkshake with Vanilla Ice Cream",
+                              "isVeg": 1,
+                              "price": 19100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021119",
+                              "name": "Cold Coffee",
+                              "description": "A thirst-quenching, refreshing drink perfect for coffee lovers.",
+                              "isVeg": 1,
+                              "price": 16700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "19021120",
+                              "name": "Cold Coffee with Vanilla Ice Cream",
+                              "description": "A creamy and refreshing blend of coffee and vanilla ice cream.",
+                              "isVeg": 1,
+                              "price": 18800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218043",
+                              "name": "Kesar Pista Ice Cream",
+                              "description": "A delectable, creamy treat infused with the rich flavors of saffron and pistachios.",
+                              "isVeg": 1,
+                              "price": 9200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218044",
+                              "name": "Mango Ice Cream",
+                              "description": "A sweet and creamy treat packed with fruity flavor.",
+                              "isVeg": 1,
+                              "price": 9200
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218036",
+                              "name": "Vanilla Falooda",
+                              "isVeg": 1,
+                              "price": 18800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218037",
+                              "name": "Kesar Falooda",
+                              "isVeg": 1,
+                              "price": 19600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218038",
+                              "name": "Green Apple Falooda",
+                              "isVeg": 1,
+                              "price": 19600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218039",
+                              "name": "Litchi Falooda",
+                              "description": "Assorted veggies simmered in a coriander broth flavored with lemon and other herbs.",
+                              "isVeg": 1,
+                              "price": 19600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218040",
+                              "name": "Butterscotch Falooda",
+                              "description": "A creamy, sweet treat with hints of caramel and a burst of textures.",
+                              "isVeg": 1,
+                              "price": 19600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218041",
+                              "name": "Blue Berry Falooda",
+                              "isVeg": 1,
+                              "price": 19600
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "76218042",
+                              "name": "Rose Falooda",
+                              "description": "A refreshing and creamy chilled dessert with a floral twist.",
+                              "isVeg": 1,
+                              "price": 19600
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Udupi Tadka's Gokul",
+                      "area": "Mumbai Naka",
+                      "completeAddress": "Aher House Shri Hari Kute Marg opp manavta Curie Cancer Center"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
