@@ -1,0 +1,2614 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "509749",
+              "name": "Zomoz - The Momo Company",
+              "cuisines": [
+                "Chinese",
+                "Fast Food"
+              ],
+              "nudgeBanners": [
+                {
+                  "minValue": 349,
+                  "maxValue": 499,
+                  "priority": 2,
+                  "couponCode": "FLAVORFUL",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 125
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code FLAVORFUL",
+                  "unlockedMessage": "FLAVORFUL Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "109318761",
+                              "name": "Chocolate Bao (1 Pc)",
+                              "category": "Newly Launched Baos",
+                              "description": "Delicious buns filled with chocolate and nuts to round off that perfect meal!",
+                              "imageId": "72f6601d2211be8ef8b4e1e1cdd920d3",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134610",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134611",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299400",
+                              "name": "Barbeque Chicken Baos (4 Pcs)",
+                              "category": "Newly Launched Baos",
+                              "description": "Lite bite buns stuffed with delicious and smoky barbeque chicken, steamed and toasted to perfection",
+                              "imageId": "3731f42bb291e34620194ac0ed522a36",
+                              "inStock": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134685",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134686",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "113980968",
+                              "name": "Masala Paneer Steamed Momos (6pcs)",
+                              "category": "Chef's Special",
+                              "description": "Rich and creamy paneer prepared with indian spices and served with spicy momo sauce",
+                              "imageId": "812a6dacf1a9595c094be4066f39466b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134639",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134640",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134641",
+                                  "groupName": "Seasoning Add-on",
+                                  "choices": [
+                                    {
+                                      "id": "112656705",
+                                      "name": "Chilli Garlic Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656704",
+                                      "name": "Piri Piri Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299390",
+                              "name": "Experiment Box - Steamed Veg Momos (6pcs)",
+                              "category": "Experiment Box",
+                              "description": "Steamed momo combination of vegetable momos (2 pcs), paneer momos (2 pcs), manchurian momos (2 pcs)",
+                              "imageId": "e6cb0e24a71370077ee8e981becfb298",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134650",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134651",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299398",
+                              "name": "Experiment Box - Chicken Steamed Momos (6pcs)",
+                              "category": "Experiment Box",
+                              "description": "Steamed momo combination of chicken momos (2 pcs), cheese chicken (2 pcs) and zesty chicken (2 pcs)",
+                              "imageId": "x562tiqxavlt3tciqet3",
+                              "inStock": 1,
+                              "price": 18900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134681",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134682",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299401",
+                              "name": "Experiment Box - Hot & Crispy Veg Momos (6pcs)",
+                              "category": "Experiment Box",
+                              "description": "Hot & crispy momo combination of vegetable momos (2 pcs), paneer momos (2 pcs), manchurian momos (2 pcs)",
+                              "imageId": "39ad63af05f3f808a961ba411544a307",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134691",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299413",
+                              "name": "Experiment Box - Hot & Crispy Chicken Momos (6pcs)",
+                              "category": "Experiment Box",
+                              "description": "Hot & crispy momo combination of chicken momos (2 pcs), cheese chicken (2 pcs) and zesty chicken (2 pcs)",
+                              "imageId": "cjewpfkemzpwukbwuxzx",
+                              "inStock": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134714",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299383",
+                              "name": "Veg Steamed Momos (6pcs)",
+                              "category": "Steamed Momos",
+                              "description": "Not spicy | a hearty combination of grated cabbage, carrots, beans, sweet corn and various herbs steamed |served with spicy momo sauce",
+                              "imageId": "2f241a6467207b7e52145110699ba4f8",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134619",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134620",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134621",
+                                  "groupName": "Seasoning Add-on",
+                                  "choices": [
+                                    {
+                                      "id": "112656704",
+                                      "name": "Piri Piri Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656705",
+                                      "name": "Chilli Garlic Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299384",
+                              "name": "Veg Manchurian Steamed Momos (6pcs)",
+                              "category": "Steamed Momos",
+                              "description": "|serves-1, 6 pcs | |not spicy| flavorsome veggies with a kick to satisfy your spicy cravings steamed. |served dry| |served with spicy momo sauce|",
+                              "imageId": "gmj5no0baoyn3tf6zeol",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134624",
+                                  "groupName": "Seasoning Add-on",
+                                  "choices": [
+                                    {
+                                      "id": "112656704",
+                                      "name": "Piri Piri Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656705",
+                                      "name": "Chilli Garlic Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134625",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134626",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299385",
+                              "name": "Chicken Steamed Momos (6pcs)",
+                              "category": "Steamed Momos",
+                              "description": "|serves-1, 6 pcs | |not spicy| juicy and tender minced chicken mixed with choicest herbs and spices hand crafted into beautiful half-moon dumplings steamed. |served with spicy momo sauce| |dry , boneless|",
+                              "imageId": "pzudmwbzerpxjblwqp9g",
+                              "inStock": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134630",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134631",
+                                  "groupName": "Seasoning Add-on",
+                                  "choices": [
+                                    {
+                                      "id": "112656705",
+                                      "name": "Chilli Garlic Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656704",
+                                      "name": "Piri Piri Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134632",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "134 ratings",
+                                  "ratingCountV2": "134"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299386",
+                              "name": "Malai Paneer Steamed Momos (6pcs)",
+                              "category": "Steamed Momos",
+                              "description": "Soft malai paneer with other herbs steamed and served with spicy momo sauce",
+                              "imageId": "edqlnu8iiv5ccyg6gafo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134636",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134637",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134638",
+                                  "groupName": "Seasoning Add-on",
+                                  "choices": [
+                                    {
+                                      "id": "112656705",
+                                      "name": "Chilli Garlic Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656704",
+                                      "name": "Piri Piri Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299387",
+                              "name": "Zesty Chicken Steamed Momos (6pcs)",
+                              "category": "Steamed Momos",
+                              "description": "|serves 1 , 6 pcs | | spicy | tender chicken mixed with herbs and special spicy condiments steamed. |dry , boneless| |served with spicy momo sauce |",
+                              "imageId": "wyg6mnromtm1dp1av1ep",
+                              "inStock": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134642",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134643",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134644",
+                                  "groupName": "Seasoning Add-on",
+                                  "choices": [
+                                    {
+                                      "id": "112656705",
+                                      "name": "Chilli Garlic Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656704",
+                                      "name": "Piri Piri Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "18 ratings",
+                                  "ratingCountV2": "18"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299392",
+                              "name": "Veg Cheese Mushroom Steamed Momos (6pcs)",
+                              "category": "Steamed Momos",
+                              "description": "Mouthwatering veggies, mushroom & creamy cheese filling steamed and served with spicy momo sauce",
+                              "imageId": "ixjlrseemebldiqpfwdo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134654",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134655",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134656",
+                                  "groupName": "Seasoning Add-on",
+                                  "choices": [
+                                    {
+                                      "id": "112656705",
+                                      "name": "Chilli Garlic Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656704",
+                                      "name": "Piri Piri Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299394",
+                              "name": "Chicken & Cheese Steamed Momos (6pcs)",
+                              "category": "Steamed Momos",
+                              "description": "A rich combination of tender chicken and cheese that melts when steamed served with spicy momo sauce",
+                              "imageId": "mdef3z5ihpwedvfv9uvx",
+                              "inStock": 1,
+                              "price": 17900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134659",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134660",
+                                  "groupName": "Dip",
+                                  "choices": [
+                                    {
+                                      "id": "112656713",
+                                      "name": "Mayo Dip",
+                                      "price": 1100,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656707",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2600,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134661",
+                                  "groupName": "Seasoning Add-on",
+                                  "choices": [
+                                    {
+                                      "id": "112656705",
+                                      "name": "Chilli Garlic Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656704",
+                                      "name": "Piri Piri Sprinkler",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299391",
+                              "name": "Hot & Crispy Vegetable Momos (6pcs)",
+                              "category": "Hot & Crispy Momos",
+                              "description": "Zomoz' fried vegetable momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "zvl8i1fwvwiiaun8j8ft",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134652",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134653",
+                                  "groupName": "Dips",
+                                  "choices": [
+                                    {
+                                      "id": "112656711",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299399",
+                              "name": "Hot & Crispy Chicken Momos (6pcs)",
+                              "category": "Hot & Crispy Momos",
+                              "description": "Our special fried chicken momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "ovjqlpnlsajwl8zbbenh",
+                              "inStock": 1,
+                              "price": 18900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134683",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134684",
+                                  "groupName": "Dips",
+                                  "choices": [
+                                    {
+                                      "id": "112656711",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133299403",
+                              "name": "Hot & Crispy Paneer Momos (6pcs)",
+                              "category": "Hot & Crispy Momos",
+                              "description": "Our special fried paneer momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "gyswsjb45quezwewra7o",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "135134694",
+                                  "groupName": "Drinks",
+                                  "choices": [
+                                    {
+                                      "id": "112656712",
+                                      "name": "7 Up Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656706",
+                                      "name": "Mirinda Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656714",
+                                      "name": "Pepsi Black Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "112656710",
+                                      "name": "Pepsi Can - 300 Ml",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "135134695",
+                                  "groupName": "Dips",
+                                  "choices": [
+                                    {
+                                      "id": "112656711",
+                                      "name": "Schezwan Sauce",
+                                      "price": 2500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "58 ratings",
+                                  "ratingCountV2": "58"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Newly Launched Baos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "109318761",
+                              "name": "Chocolate Bao (1 Pc)",
+                              "description": "Delicious buns filled with chocolate and nuts to round off that perfect meal!",
+                              "imageId": "72f6601d2211be8ef8b4e1e1cdd920d3",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299400",
+                              "name": "Barbeque Chicken Baos (4 Pcs)",
+                              "description": "Lite bite buns stuffed with delicious and smoky barbeque chicken, steamed and toasted to perfection",
+                              "imageId": "3731f42bb291e34620194ac0ed522a36",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "109318759",
+                              "name": "Creamy Chicken Baos (4 Pcs)",
+                              "description": "Tender seasoned chicken, slowly cooked in rich cream, mozarella and cheddar cheese, makes its way into these lightly toasted flulffy buns",
+                              "imageId": "65a3a11f17093a241b004804901d903b",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "109318760",
+                              "name": "Creamy Veg Baos (4 Pcs)",
+                              "description": "Buns stuffed with fresh veggies and cheeeese! if you like this combination in a sandwich, you'll love this bao! [contains mushroom]",
+                              "imageId": "894f319b9ef97381d791bdc68755b561",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Chef's Special",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299381",
+                              "name": "Schezwan Chicken Momos (6 Pcs)",
+                              "description": "Tender chicken tossed in hot, spicy, sweet and flavorful schezwan sauce",
+                              "imageId": "yxhiqlk7keqlyezk9zdu",
+                              "price": 9900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113980968",
+                              "name": "Masala Paneer Steamed Momos (6pcs)",
+                              "description": "Rich and creamy paneer prepared with indian spices and served with spicy momo sauce",
+                              "imageId": "812a6dacf1a9595c094be4066f39466b",
+                              "isVeg": 1,
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299388",
+                              "name": "Butter Chicken Steamed Momos (6pcs)",
+                              "description": "|serves 1 , 6 pcs | | desi fusion! grilled chicken simmered in a spicy, aromatic, buttery and creamy tomato gravy! |dry , boneless|",
+                              "imageId": "cibjcmbmrpujw75cniie",
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299389",
+                              "name": "Chilli Chicken Momos (6pcs)",
+                              "description": "Indo chinese momos! chicken marinated in chinese sauces and stir fried with lots of onions, bell peppers, ginger & garlic!",
+                              "imageId": "hlbvvvhbn7l9uigfmxy7",
+                              "price": 16900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Experiment Box",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299390",
+                              "name": "Experiment Box - Steamed Veg Momos (6pcs)",
+                              "description": "Steamed momo combination of vegetable momos (2 pcs), paneer momos (2 pcs), manchurian momos (2 pcs)",
+                              "imageId": "e6cb0e24a71370077ee8e981becfb298",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299398",
+                              "name": "Experiment Box - Chicken Steamed Momos (6pcs)",
+                              "description": "Steamed momo combination of chicken momos (2 pcs), cheese chicken (2 pcs) and zesty chicken (2 pcs)",
+                              "imageId": "x562tiqxavlt3tciqet3",
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299401",
+                              "name": "Experiment Box - Hot & Crispy Veg Momos (6pcs)",
+                              "description": "Hot & crispy momo combination of vegetable momos (2 pcs), paneer momos (2 pcs), manchurian momos (2 pcs)",
+                              "imageId": "39ad63af05f3f808a961ba411544a307",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299413",
+                              "name": "Experiment Box - Hot & Crispy Chicken Momos (6pcs)",
+                              "description": "Hot & crispy momo combination of chicken momos (2 pcs), cheese chicken (2 pcs) and zesty chicken (2 pcs)",
+                              "imageId": "cjewpfkemzpwukbwuxzx",
+                              "price": 21900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Steamed Momos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299383",
+                              "name": "Veg Steamed Momos (6pcs)",
+                              "description": "Not spicy | a hearty combination of grated cabbage, carrots, beans, sweet corn and various herbs steamed |served with spicy momo sauce",
+                              "imageId": "2f241a6467207b7e52145110699ba4f8",
+                              "isVeg": 1,
+                              "price": 12900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299384",
+                              "name": "Veg Manchurian Steamed Momos (6pcs)",
+                              "description": "|serves-1, 6 pcs | |not spicy| flavorsome veggies with a kick to satisfy your spicy cravings steamed. |served dry| |served with spicy momo sauce|",
+                              "imageId": "gmj5no0baoyn3tf6zeol",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299385",
+                              "name": "Chicken Steamed Momos (6pcs)",
+                              "description": "|serves-1, 6 pcs | |not spicy| juicy and tender minced chicken mixed with choicest herbs and spices hand crafted into beautiful half-moon dumplings steamed. |served with spicy momo sauce| |dry , boneless|",
+                              "imageId": "pzudmwbzerpxjblwqp9g",
+                              "price": 14900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299386",
+                              "name": "Malai Paneer Steamed Momos (6pcs)",
+                              "description": "Soft malai paneer with other herbs steamed and served with spicy momo sauce",
+                              "imageId": "edqlnu8iiv5ccyg6gafo",
+                              "isVeg": 1,
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299387",
+                              "name": "Zesty Chicken Steamed Momos (6pcs)",
+                              "description": "|serves 1 , 6 pcs | | spicy | tender chicken mixed with herbs and special spicy condiments steamed. |dry , boneless| |served with spicy momo sauce |",
+                              "imageId": "wyg6mnromtm1dp1av1ep",
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299392",
+                              "name": "Veg Cheese Mushroom Steamed Momos (6pcs)",
+                              "description": "Mouthwatering veggies, mushroom & creamy cheese filling steamed and served with spicy momo sauce",
+                              "imageId": "ixjlrseemebldiqpfwdo",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299394",
+                              "name": "Chicken & Cheese Steamed Momos (6pcs)",
+                              "description": "A rich combination of tender chicken and cheese that melts when steamed served with spicy momo sauce",
+                              "imageId": "mdef3z5ihpwedvfv9uvx",
+                              "price": 17900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Hot & Crispy Momos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299391",
+                              "name": "Hot & Crispy Vegetable Momos (6pcs)",
+                              "description": "Zomoz' fried vegetable momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "zvl8i1fwvwiiaun8j8ft",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299395",
+                              "name": "Hot & Crispy Veg Manchurian Momos (6pcs)",
+                              "description": "Fried manchurian momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "qsfnp4uxtrvessfoojfa",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299399",
+                              "name": "Hot & Crispy Chicken Momos (6pcs)",
+                              "description": "Our special fried chicken momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "ovjqlpnlsajwl8zbbenh",
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299402",
+                              "name": "Hot & Crispy Masala Paneer Momos (6 Pcs)",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299403",
+                              "name": "Hot & Crispy Paneer Momos (6pcs)",
+                              "description": "Our special fried paneer momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "gyswsjb45quezwewra7o",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299404",
+                              "name": "Hot & Crispy Schezwan Chicken Momos (6 Pcs)",
+                              "imageId": "5c858bd92077cf7e7266f496c062a97e",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299405",
+                              "name": "Hot & Crispy Zesty Chicken Momos (6pcs)",
+                              "description": "Fried zesty chicken momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "tkre6aquykfmhiod7cbf",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299409",
+                              "name": "Hot & Crispy Butter Chicken Momos (6 Pcs)",
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299410",
+                              "name": "Hot & Crispy Chilli Chicken Momos (6 Pcs)",
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299411",
+                              "name": "Hot & Crispy Veg Cheese Mushroom Momos (6pcs)",
+                              "description": "Fried veg cheese mushroom momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise",
+                              "imageId": "bou2jlcc9h7v35jxvvfa",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299414",
+                              "name": "Hot & Crispy Chicken And Cheese Momos (6pcs)",
+                              "description": "|serves 1 6 pcs | | medium spicy | | deep | | frying | | boneless | | fried chicken & cheese momos, crunchy on the outside and juicy on the inside, served with spicy momo sauce and mayonnaise |",
+                              "imageId": "nqxcj0i7ideuvgsc3jjh",
+                              "price": 21900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Classic Fried",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113437086",
+                              "name": "Classic Fried Vegetable Momos (6 Pcs)",
+                              "description": "Mixed veg momos fried and served with spicy momo sauce and mayo dip",
+                              "imageId": "51bc3afc2208e264d23cf202e82b089b",
+                              "isVeg": 1,
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113437090",
+                              "name": "Classic Fried Chicken Momos (6 Pcs)",
+                              "description": "Chicken momos fried and served with spicy momo sauce and mayo dip",
+                              "imageId": "9e0c549c3a5c031ea5cba3908a4cb316",
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113437082",
+                              "name": "Classic Fried Masala Paneer Momos (6 Pcs)",
+                              "description": "Masala paneer momos fried and served with spicy momo sauce and mayo dip",
+                              "imageId": "7715d6625847000dbbdbe9897d91b878",
+                              "isVeg": 1,
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113437081",
+                              "name": "Classic Fried Paneer Momos (6 Pcs)",
+                              "description": "Paneer momos fried and served with spicy momo sauce and mayo dip",
+                              "imageId": "3992db2e87159e23cc04bf360664c820",
+                              "isVeg": 1,
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "113437089",
+                              "name": "Classic Fried Schezwan Chicken Momos (6 Pcs)",
+                              "description": "Schezwan chicken momos fried and served with spicy momo sauce and mayo dip",
+                              "imageId": "dcdb27e5de5f4a99e2b213a2d8994944",
+                              "price": 18900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Momos Tossed In Sauce",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299393",
+                              "name": "Veg Momos Tossed In Sauce (6pcs)",
+                              "description": "Vegetable momos fried and cooked in a host of flavoursome sauces of your choice",
+                              "imageId": "rbyiqjaxwgjq2zvxjyya",
+                              "isVeg": 1,
+                              "price": 16900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299396",
+                              "name": "Manchurian Momos Tossed In Sauce (6pcs)",
+                              "description": "Manchurain momos fried and cooked in a host of flavoursome sauces of your choice",
+                              "imageId": "mp05axbwmmdu5lv94hnj",
+                              "isVeg": 1,
+                              "price": 17900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299397",
+                              "name": "Chicken Momos Tossed In Sauce (6pcs)",
+                              "description": "|serves 1 6 pcs | | not spicy | | tossing | | deep | | semi-gravy | | boneless | | chicken momos fried and cooked in a host of flavoursome sauces of your choice |",
+                              "imageId": "fjt5xavu3v77j8hodfah",
+                              "price": 18900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299406",
+                              "name": "Malai Paneer Momos Tossed In Sauce (6pcs)",
+                              "description": "Paneer momos fried and cooked in a host of flavoursome sauces of your choice. ",
+                              "imageId": "f2hi7whe6iegyibrvoob",
+                              "isVeg": 1,
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299407",
+                              "name": "Zesty Chicken Tossed In Sauce Momos (6pcs)",
+                              "description": "Zesty chicken momos fried and cooked in a host of flavoursome sauces of your choice",
+                              "imageId": "jp95u0qqq6muudwflitz",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299408",
+                              "name": "Cheese Mushroom Tossed In Sauce Momos (6pcs)",
+                              "description": "Veg cheese mushroom momos fried and cooked in a host of flavoursome sauces of your choice. ",
+                              "imageId": "va6sgqj271v99ctrl4f0",
+                              "isVeg": 1,
+                              "price": 20900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299412",
+                              "name": "Chicken & Cheese Tossed In Sauce Momos (6pcs)",
+                              "description": "Chicken & cheese momos fried and cooked in a host of flavoursome sauces of your choice",
+                              "imageId": "kkxl1cglffd3ok1ryzjt",
+                              "price": 21900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Value Combos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133349452",
+                              "name": "Veg Steamed Momos + Any Drink + Fries",
+                              "description": "Save rs. 30 with this combo | convert your craving into a filling meal. Get 6 pcs of freshly steamed momos with hot crispy fries and a drink of your choice. ",
+                              "imageId": "lacm5g54twkzhe920qc6",
+                              "isVeg": 1,
+                              "price": 26900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "88134618",
+                              "name": "Chicken Steamed Momos + Any Drink + Fries",
+                              "description": "Save rs. 30 with this combo | indulge in 6 pieces of freshly steamed and succulent chicken momos, complemented with crispy fries and a drink of your choice |",
+                              "imageId": "vpcf3chggn43hm9b937w",
+                              "price": 29900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133349453",
+                              "name": "Hot & Crispy Veg Momos + Any Drink + Fries",
+                              "description": "Save rs. 40 with this combo | get the crispy scale tipping by enjoying 6 pieces of momos with golden brown fries and a drink of your choice. ",
+                              "imageId": "p54ugnqwczwgfepokzl4",
+                              "isVeg": 1,
+                              "price": 31900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "88134619",
+                              "name": "Hot & Crispy Chicken Momos + Any Drink + Fries",
+                              "description": "Save rs. 40 with this combo | dive into a world of crunchy on the outside and soft on the inside with our 6 pieces hot and crispy chicken momos and golden brown fries, alongside a drink of your choice. ",
+                              "imageId": "ubhbdiagbocfyrryifwv",
+                              "price": 32900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "102124702",
+                              "name": "Chicken Steamed Experiment Box + Any Drink + Fries",
+                              "description": "Save rs. 30 with this combo",
+                              "imageId": "c6nskrru7jxctjrnxxwi",
+                              "price": 33900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "102124701",
+                              "name": "Veg Steamed Experiment Box + Any Drink + Fries",
+                              "description": "Save rs. 30 with this combo",
+                              "imageId": "e17c626fc84196324822685e16b3380f",
+                              "isVeg": 1,
+                              "price": 32900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Drinks",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299377",
+                              "name": "7 Up Can - 300 Ml",
+                              "description": "|serves 1, 300 ml |",
+                              "imageId": "daf7e63b584fb44a3e8d3e3095915a0d",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299378",
+                              "name": "Mirinda Can - 300 Ml",
+                              "description": "|serves 1, 300 ml |",
+                              "imageId": "6748762f2ce8bccba5e8f8279c9edc83",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299379",
+                              "name": "Pepsi Black Can - 300 Ml",
+                              "description": "|serves 1, 300 ml |",
+                              "imageId": "3ed022f6bfce2f35789250788db1fc58",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299380",
+                              "name": "Pepsi Can - 300 Ml",
+                              "description": "|serves 1, 300 ml |",
+                              "imageId": "fcf0a7a33cbb9f4ee0151142a47db20a",
+                              "isVeg": 1,
+                              "price": 6000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Sides And Extras",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299382",
+                              "name": "French Fries",
+                              "description": "|serves 1 | good old english fries, crispy on the outside, tender on the inside. |served dry | |served with hot & sweet ketchup| |deep frying|",
+                              "imageId": "im11ehgomoiz7hgotxqf",
+                              "isVeg": 1,
+                              "price": 12900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "88134615",
+                              "name": "Veg Nuggets",
+                              "description": "Flavorful combination of mix veggies and potatoes served with hot & sweet ketchup",
+                              "imageId": "d1rmj1otv2dzcww6sjbu",
+                              "isVeg": 1,
+                              "price": 12900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "88134613",
+                              "name": "Peri Peri Fries",
+                              "description": "|serves-1 | crispy fries tossed in mouth-watering peri peri seasoning. |served dry | |served with hot & sweet ketchup| |deep frying|",
+                              "imageId": "47c1fd18591bd7a6694ac25f187e89c1",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "88134614",
+                              "name": "Chicken Nuggets",
+                              "description": "8 pcs | tender and irresistible bite sized boneless chicken pieces served with hot & sweet ketchup |",
+                              "imageId": "mdzmmcku1iamm8jya8nn",
+                              "price": 14900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Sauce It Up",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299375",
+                              "name": "Mayo Dip",
+                              "description": "|serves-1 | |served dry |",
+                              "imageId": "2741285263534d097af37fe5e603c128",
+                              "isVeg": 1,
+                              "price": 1000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "133299376",
+                              "name": "Momo Sauce",
+                              "description": "|serves-1 | | spicy | |served dry |",
+                              "isVeg": 1,
+                              "price": 1000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "109318764",
+                              "name": "Schezwan Sauce",
+                              "description": "Your favourite hot & spicy sauce made with red chillies, sichaun peppers and soy sauce!",
+                              "imageId": "360d076c863c0d13ec247dd8a230a672",
+                              "isVeg": 1,
+                              "price": 2500
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Zomoz - The Momo Company",
+                      "area": "Hinjawadi",
+                      "completeAddress": "1st floor, s no 275/1 & 275/3, Time square Building, Bhatewara nagar, Dange chowk road, phase -1, hinjewadi, pune, pin -411057"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

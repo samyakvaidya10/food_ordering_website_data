@@ -1,0 +1,756 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "744767",
+              "name": "The Momo Box",
+              "cuisines": [
+                "Chinese"
+              ],
+              "nudgeBanners": [
+                {
+                  "minValue": 174,
+                  "maxValue": 249,
+                  "priority": 1,
+                  "couponCode": "SWIGGYWEEKENDS",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 125
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code SWIGGYWEEKENDS",
+                  "unlockedMessage": "SWIGGYWEEKENDS Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Combo",
+                      "categories": [
+                        {
+                          "title": "Veg Combo",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992070",
+                                  "name": "Paneer Momos (3 Pcs) + Veg Fried Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "addons": [
+                                    {
+                                      "groupId": "103382050",
+                                      "groupName": "Make It A Meal",
+                                      "choices": [
+                                        {
+                                          "id": "96491558",
+                                          "name": "French Fries Small + Ice Tea (250 Ml)",
+                                          "price": 17900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "96491559",
+                                          "name": "French Fries Small + Pepsi/coke/thumbsup-250ml",
+                                          "price": 17900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "96491560",
+                                          "name": "French Fries Large + Ice Tea (250 Ml)",
+                                          "price": 19900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "96491561",
+                                          "name": "French Fries Large + Pepsi/coke/thumbsup-250ml",
+                                          "price": 19900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992069",
+                                  "name": "Paneer Fried Momos (3 Pcs) + Paneer Fried Peri Peri Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "addons": [
+                                    {
+                                      "groupId": "103382049",
+                                      "groupName": "Make It A Meal",
+                                      "choices": [
+                                        {
+                                          "id": "96491554",
+                                          "name": "French Fries Small + Ice Tea (250 Ml)",
+                                          "price": 17900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "96491555",
+                                          "name": "French Fries Small + Pepsi/coke/thumbsup-250ml",
+                                          "price": 17900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "96491556",
+                                          "name": "French Fries Large + Ice Tea (250 Ml)",
+                                          "price": 19900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "96491557",
+                                          "name": "French Fries Large + Pepsi/coke/thumbsup-250ml",
+                                          "price": 19900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992079",
+                                  "name": "Veg Tandoori Momos (3 Pcs) + Veg Fried Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "imageId": "szit5vmy0x5arxgpq4g5",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992072",
+                                  "name": "Veg Tandoori Momos (3 Pcs) + Veg Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992071",
+                                  "name": "Veg Afghani Tandoori Momos (3 Pcs) + Veg Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Non Veg Combo",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992065",
+                                  "name": "Chicken Momos (3 Pcs) + Chicken Fried Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "imageId": "xc7be92bvgwpdgxwg2ap",
+                                  "inStock": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992066",
+                                  "name": "Chicken Momos (3 Pcs) + Chicken Fried Peri Peri Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "inStock": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992064",
+                                  "name": "Chicken Afghani Momos (3 Pcs) + Chicken Fried Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "inStock": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121992067",
+                                  "name": "Chicken Tandoori Peri Peri Momos (3 Pcs) + Chicken Fried Momos (3 Pcs)",
+                                  "category": "Combo",
+                                  "inStock": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Momos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222077",
+                              "name": "Veg Momos [6 pcs]",
+                              "description": "| serve 1 | super soft, yummy, and scrumptious momos packed with a medley of fresh veggies. | served with mayo & chilli chutney |",
+                              "imageId": "z4utl7f9o7umgu1jt4tq",
+                              "isVeg": 1,
+                              "price": 10000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222076",
+                              "name": "Veg Cheese Momos [6 pcs]",
+                              "description": "| serve 1 | the fusion of veggies and cheese stuffed into steamed momos to tickle your taste buds",
+                              "imageId": "eokmucdaapcx5txrhb3r",
+                              "isVeg": 1,
+                              "price": 10000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222065",
+                              "name": "Veg Fried Momos [6 pcs]",
+                              "description": "Veggie packed, delicious, and lip smacking dumplings fried to a flavorsome perfection (serve 1)",
+                              "imageId": "ja1xmjycllo07u9pxv0c",
+                              "isVeg": 1,
+                              "price": 10000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222064",
+                              "name": "Paneer Fried Momos [6 pcs]",
+                              "description": "Teamed momos filled with tawa tossed paneer marinated in a rich indian marinade blend and fried to the crisp",
+                              "imageId": "oysrglmnqy0bieyxt8yj",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222075",
+                              "name": "Paneer Fried Cheese Momos [6 pcs]",
+                              "description": "Teamed momos filled with tawa tossed paneer marinated in a rich indian marinade blend and fried to the crisp and topped with cheese",
+                              "imageId": "ffusbvurlgg2f5fr9thi",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222072",
+                              "name": "Paneer Grilled Momos [6 pcs]",
+                              "description": "Teamed momos filled with tawa tossed paneer marinated in a rich indian marinade blend and grilled perfectly",
+                              "imageId": "o9wsd73cn6tppfzckxtb",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222066",
+                              "name": "Paneer Fried Peri Peri Momos [6 pcs]",
+                              "description": "Paneer momos deep fried and sprinkled with a housemade peri peri masala. ",
+                              "imageId": "zrs8tfihheaza9nyhyug",
+                              "isVeg": 1,
+                              "price": 15900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222074",
+                              "name": "Soya Fried Momos [6 pcs]",
+                              "description": "Minced soya chunk momos, mixed with housemade spices to give succulent taste fried to the crisp",
+                              "imageId": "it1n71lektmddf8rh8pv",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222063",
+                              "name": "Soya Grilled Momos [6 pcs]",
+                              "description": "Minced soya chunk momos, mixed with housemade spices and grilled to the perfection to give succulent taste",
+                              "imageId": "rdgqlvm4kq2hqlhlmu2s",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992039",
+                              "name": "Chicken Manchurian Momos Box [6 pcs]",
+                              "description": "| serve 1 | irresistibly delightful, yummy, and mouth watering dumplings with a filling of chicken manchurian",
+                              "imageId": "ldzrztsqp52hyqfcibk8",
+                              "price": 15800
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222078",
+                              "name": "Corn Fried Cheese Peri Peri Momos Box [6 pcs]",
+                              "imageId": "btbxcummmesx2990zern",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222061",
+                              "name": "Tandoori Afghani Chicken Momos [6 pcs]",
+                              "price": 12900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222070",
+                              "name": "Chicken Momos Grilled [6 pcs]",
+                              "price": 12900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222069",
+                              "name": "Tandoori Chicken Momos [6 pcs]",
+                              "description": "| serve 1 | delish, ambrosial, and appetizing momos with a stuffing of spiced tandoori chicken chunks",
+                              "price": 12900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222068",
+                              "name": "Veg Tandoori Afghani Momos [6 pcs]",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222060",
+                              "name": "Veg Peri Peri Tandoori Momos [6 pcs]",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222082",
+                              "name": "Veg Peri Peri Fried Momos [6 pcs]",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222080",
+                              "name": "Corn Cheese Fried Momos Box [6 pcs]",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222062",
+                              "name": "Corn Grilled Momos [6 pcs]",
+                              "isVeg": 1,
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992051",
+                              "name": "Soya Fried Cheese Momos",
+                              "imageId": "arnudml0q9r4m0dmdi1r",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992068",
+                              "name": "Mutton Fried Cheese Momos",
+                              "price": 19900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222071",
+                              "name": "Paneer Schezwan Fried Momos [6 pcs]",
+                              "isVeg": 1,
+                              "price": 21900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "129222067",
+                              "name": "Soya Fried Peri Peri Momos Box [6 pcs]",
+                              "isVeg": 1,
+                              "price": 11900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Sides",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992050",
+                              "name": "Peri Peri French Fries",
+                              "description": "French fries tossed in peri peri",
+                              "imageId": "awhfkp696l19zsmqxgu9",
+                              "isVeg": 1,
+                              "price": 10900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992041",
+                              "name": "Chicken Nuggets",
+                              "imageId": "cazxliyzot2wr5ucrbcl",
+                              "price": 13900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992046",
+                              "name": "Salted Fries",
+                              "isVeg": 1,
+                              "price": 9900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "122318533",
+                              "name": "Coke [600 ml]",
+                              "isVeg": 1,
+                              "price": 8900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992043",
+                              "name": "Pepsi/thumps/coke-250ml",
+                              "description": "Any 1 as per availbility",
+                              "imageId": "zhsh2dmigmotmevkmt3x",
+                              "isVeg": 1,
+                              "price": 5900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992045",
+                              "name": "Iced Tea (250 Ml)",
+                              "isVeg": 1,
+                              "price": 9900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Burgers",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "121992077",
+                              "name": "The Chicken Monster Burger",
+                              "price": 29900
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "The Momo Box",
+                      "area": "Hinjewadi",
+                      "completeAddress": "Matoshree Food Court, Rajiv Gandhi Technical Park, Hinjavadi, Mulshi, Pune, Maharashtra - 411057"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2982 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "745635",
+              "name": "Mad Momos",
+              "cuisines": [
+                "Chinese",
+                "Tibetan"
+              ],
+              "nudgeBanners": [
+                {
+                  "minValue": 174,
+                  "maxValue": 249,
+                  "priority": 1,
+                  "couponCode": "SWIGGYWEEKENDS",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 125
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code SWIGGYWEEKENDS",
+                  "unlockedMessage": "SWIGGYWEEKENDS Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Combos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735966",
+                              "name": "Chicken Tandoori Momos (3pcs) With Chicken Fried Momos (3pcs)",
+                              "category": "Combos",
+                              "imageId": "krwc6s0oaytvcyurgamc",
+                              "inStock": 1,
+                              "price": 15800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "102931773",
+                                  "groupName": "Upgrade To A Meal",
+                                  "choices": [
+                                    {
+                                      "id": "96241848",
+                                      "name": "French Fries (Small) +Pepsi/coke/thumbsup -250ml",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241849",
+                                      "name": "French Fries (Small) + Iced Tea (250 Ml)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241850",
+                                      "name": "French Fries (Large) +Pepsi/coke/thumbsup -250ml",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241851",
+                                      "name": "French Fries (Large) + Iced Tea (250 Ml)",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931774",
+                                  "groupName": "Add On",
+                                  "choices": [
+                                    {
+                                      "id": "96241852",
+                                      "name": "House Special Mayo",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241853",
+                                      "name": "Momos Chutney",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931775",
+                                  "groupName": "Refreshments",
+                                  "choices": [
+                                    {
+                                      "id": "96241854",
+                                      "name": "Coke (250 Ml)",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241855",
+                                      "name": "Coke (600 Ml)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241856",
+                                      "name": "Fresh Lime Soda",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241857",
+                                      "name": "Fresh Lime Water",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241858",
+                                      "name": "Lemon Mint Soda",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241859",
+                                      "name": "Lemon Mint Water",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241860",
+                                      "name": "Lemon Iced Tea",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241861",
+                                      "name": "Mineral Water",
+                                      "price": 5000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931776",
+                                  "groupName": "Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "96241862",
+                                      "name": "Choco Lava",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241863",
+                                      "name": "Chocolate Brownie",
+                                      "price": 13900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931777",
+                                  "groupName": "Shakes",
+                                  "choices": [
+                                    {
+                                      "id": "96241864",
+                                      "name": "Cold Coffee Shake",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241865",
+                                      "name": "Chocolate Shake",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241866",
+                                      "name": "Choco Cold Coffee",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241867",
+                                      "name": "Vanilla Shake",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241868",
+                                      "name": "Oreo Shake",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241869",
+                                      "name": "Brownie Shake",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241870",
+                                      "name": "Kit Kat Shake",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241871",
+                                      "name": "Cadbury Bournville Shake",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931778",
+                                  "groupName": "Sides",
+                                  "choices": [
+                                    {
+                                      "id": "96241872",
+                                      "name": "French Fries",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241873",
+                                      "name": "Peri Peri French Fries",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241874",
+                                      "name": "French Fries Italiano",
+                                      "price": 11900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241875",
+                                      "name": "Peri Peri Cheese French Fries",
+                                      "price": 11900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241876",
+                                      "name": "Salted Cheese French Fries",
+                                      "price": 11900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241877",
+                                      "name": "Nachos",
+                                      "price": 11900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241878",
+                                      "name": "Chicken Nuggets",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241879",
+                                      "name": "Chicken Seekh Kebab",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241880",
+                                      "name": "Chicken Sausages",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241881",
+                                      "name": "Nachos And Wafers",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 10,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735964",
+                              "name": "Chicken Schezwan Fried Momos (3pcs) With Chicken Fried Momos (3pcs)",
+                              "category": "Combos",
+                              "imageId": "ckdlnerqvzky5vzvbhqd",
+                              "inStock": 1,
+                              "price": 15800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "102931767",
+                                  "groupName": "Upgrade To A Meal",
+                                  "choices": [
+                                    {
+                                      "id": "96241814",
+                                      "name": "French Fries (Small) +Pepsi/coke/thumbsup -250ml",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241815",
+                                      "name": "French Fries (Small) + Iced Tea (250 Ml)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241816",
+                                      "name": "French Fries (Large) +Pepsi/coke/thumbsup -250ml",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241817",
+                                      "name": "French Fries (Large) + Iced Tea (250 Ml)",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931768",
+                                  "groupName": "Add On",
+                                  "choices": [
+                                    {
+                                      "id": "96241818",
+                                      "name": "House Special Mayo",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241819",
+                                      "name": "Momos Chutney",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931769",
+                                  "groupName": "Refreshments",
+                                  "choices": [
+                                    {
+                                      "id": "96241820",
+                                      "name": "Coke (250 Ml)",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241821",
+                                      "name": "Coke (600 Ml)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241822",
+                                      "name": "Fresh Lime Soda",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241823",
+                                      "name": "Fresh Lime Water",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241824",
+                                      "name": "Lemon Mint Soda",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241825",
+                                      "name": "Lemon Mint Water",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241826",
+                                      "name": "Lemon Iced Tea",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241827",
+                                      "name": "Mineral Water",
+                                      "price": 5000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931770",
+                                  "groupName": "Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "96241828",
+                                      "name": "Choco Lava",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241829",
+                                      "name": "Chocolate Brownie",
+                                      "price": 13900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931771",
+                                  "groupName": "Shakes",
+                                  "choices": [
+                                    {
+                                      "id": "96241830",
+                                      "name": "Cold Coffee Shake",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241831",
+                                      "name": "Chocolate Shake",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241832",
+                                      "name": "Choco Cold Coffee",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241833",
+                                      "name": "Vanilla Shake",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241834",
+                                      "name": "Oreo Shake",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241835",
+                                      "name": "Brownie Shake",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241836",
+                                      "name": "Kit Kat Shake",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241837",
+                                      "name": "Cadbury Bournville Shake",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931772",
+                                  "groupName": "Sides",
+                                  "choices": [
+                                    {
+                                      "id": "96241838",
+                                      "name": "French Fries",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241839",
+                                      "name": "Peri Peri French Fries",
+                                      "price": 10900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241840",
+                                      "name": "French Fries Italiano",
+                                      "price": 11900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241841",
+                                      "name": "Peri Peri Cheese French Fries",
+                                      "price": 11900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241842",
+                                      "name": "Salted Cheese French Fries",
+                                      "price": 11900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241843",
+                                      "name": "Nachos",
+                                      "price": 11900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241844",
+                                      "name": "Chicken Nuggets",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241845",
+                                      "name": "Chicken Seekh Kebab",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241846",
+                                      "name": "Chicken Sausages",
+                                      "price": 12900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96241847",
+                                      "name": "Nachos And Wafers",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 10,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735805",
+                              "name": "Veg Momos Combo",
+                              "category": "Combos",
+                              "imageId": "l6awp7cfm5k1pbjylszh",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735806",
+                              "name": "Veg Tandoori Momos Combo",
+                              "category": "Combos",
+                              "imageId": "cluwc5elqmx86qk2zqy2",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735807",
+                              "name": "Veg Fried Momos Combo",
+                              "category": "Combos",
+                              "imageId": "l0u3ujihxvhaezsjbpdt",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735808",
+                              "name": "Veg Tandoori Momos(3pcs) With Veg Fried Momos(3pcs)",
+                              "category": "Combos",
+                              "imageId": "ah5p1zqsz0ygecsvpyyr",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 23900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735809",
+                              "name": "Veg Schezwan Fried Momos (3pcs) With Veg Fried Momos (3pcs)",
+                              "category": "Combos",
+                              "imageId": "ngvznou4djv5bk7ikciu",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 23900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735810",
+                              "name": "Chicken Momos Combo",
+                              "category": "Combos",
+                              "imageId": "dnayt5cwvd4hswntlukd",
+                              "inStock": 1,
+                              "price": 23900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735811",
+                              "name": "Chicken Tandoori Momos Combo",
+                              "category": "Combos",
+                              "imageId": "iuz0pxg2zsekvc4i08li",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735812",
+                              "name": "Chicken Fried Momos Combo",
+                              "category": "Combos",
+                              "imageId": "vhhtznog62khan38lcpy",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735813",
+                              "name": "Chicken Afghani Tandoori Momos Combo",
+                              "category": "Combos",
+                              "imageId": "de6dl77c3wnwsylfwqx6",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735814",
+                              "name": "Veg Fried Momos (3pcs) With Veg Momos (3pcs)",
+                              "category": "Combos",
+                              "imageId": "bxtitg9ntkbl6ont9u1i",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Kurkure Momos (New)",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735883",
+                              "name": "Veg Kurkure Peri Peri Momos (Must Try) [6 pcs]",
+                              "category": "Kurkure Momos (New)",
+                              "description": "| serve 1 | item can't served with pepsi. ",
+                              "imageId": "progemkmfq0l0ftvqfxx",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "102931568",
+                                  "groupName": "Make It A Meal",
+                                  "choices": [
+                                    {
+                                      "id": "96240889",
+                                      "name": "French Fries [Small ]+Iced Tea [250 Ml]",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240886",
+                                      "name": "French Fries [Large] +Pepsi/coke/thumbsup -250ml",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240888",
+                                      "name": "French Fries [Small ]+Pepsi/coke/thumbsup -250ml",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240887",
+                                      "name": "French Fries [Large]+iced Tea [250 Ml]",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931569",
+                                  "groupName": "Add On",
+                                  "choices": [
+                                    {
+                                      "id": "96240891",
+                                      "name": "Extra Momos Chutney",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240890",
+                                      "name": "Cheese Topping",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240892",
+                                      "name": "House Special Mayo",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 3,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931570",
+                                  "groupName": "Choice Of Sides",
+                                  "choices": [
+                                    {
+                                      "id": "96240893",
+                                      "name": "Salted French Fries",
+                                      "price": 13900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240895",
+                                      "name": "Peri Peri Cheese French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240894",
+                                      "name": "French Fries Italiano",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240897",
+                                      "name": "Salted Cheese French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240896",
+                                      "name": "Peri Peri French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931571",
+                                  "groupName": "Choice Of Refreshments",
+                                  "choices": [
+                                    {
+                                      "id": "96240901",
+                                      "name": "Pepsi 250 Ml",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240900",
+                                      "name": "Pepsi 600 Ml",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240899",
+                                      "name": "Mineral Water",
+                                      "price": 5000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240898",
+                                      "name": "Lemon Ice Tea ",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931572",
+                                  "groupName": "Choice Of Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "96240903",
+                                      "name": "Chocolate Brownie",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240902",
+                                      "name": "Choco Lava",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931573",
+                                  "groupName": "Extras",
+                                  "choices": [
+                                    {
+                                      "id": "96240904",
+                                      "name": "Cheese",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735884",
+                              "name": "Veg Kurkure Momos",
+                              "category": "Kurkure Momos (New)",
+                              "description": "Soft on the inside and crispy on the outside",
+                              "imageId": "progemkmfq0l0ftvqfxx",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "30607011",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "6 pcs",
+                                        "default": 1,
+                                        "id": "95199482",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "8 pcs",
+                                        "id": "95199483",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607011",
+                                        "variationId": "95199482"
+                                      }
+                                    ],
+                                    "price": 14900,
+                                    "addonCombinations": [
+                                      {
+                                        "groupId": "102931574",
+                                        "addonId": "96240905"
+                                      },
+                                      {
+                                        "groupId": "102931574",
+                                        "addonId": "96240906"
+                                      },
+                                      {
+                                        "groupId": "102931574",
+                                        "addonId": "96240907"
+                                      },
+                                      {
+                                        "groupId": "102931574",
+                                        "addonId": "96240908"
+                                      },
+                                      {
+                                        "groupId": "102931575",
+                                        "addonId": "96240909"
+                                      },
+                                      {
+                                        "groupId": "102931575",
+                                        "addonId": "96240910"
+                                      },
+                                      {
+                                        "groupId": "102931575",
+                                        "addonId": "96240911"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240912"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240913"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240914"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240915"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240916"
+                                      },
+                                      {
+                                        "groupId": "102931577",
+                                        "addonId": "96240917"
+                                      },
+                                      {
+                                        "groupId": "102931577",
+                                        "addonId": "96240918"
+                                      },
+                                      {
+                                        "groupId": "102931577",
+                                        "addonId": "96240919"
+                                      },
+                                      {
+                                        "groupId": "102931577",
+                                        "addonId": "96240920"
+                                      },
+                                      {
+                                        "groupId": "102931578",
+                                        "addonId": "96240921"
+                                      },
+                                      {
+                                        "groupId": "102931578",
+                                        "addonId": "96240922"
+                                      },
+                                      {
+                                        "groupId": "102931579",
+                                        "addonId": "96240923"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607011",
+                                        "variationId": "95199483"
+                                      }
+                                    ],
+                                    "price": 19900,
+                                    "addonCombinations": [
+                                      {
+                                        "groupId": "102931574",
+                                        "addonId": "96240905"
+                                      },
+                                      {
+                                        "groupId": "102931574",
+                                        "addonId": "96240906"
+                                      },
+                                      {
+                                        "groupId": "102931574",
+                                        "addonId": "96240907"
+                                      },
+                                      {
+                                        "groupId": "102931574",
+                                        "addonId": "96240908"
+                                      },
+                                      {
+                                        "groupId": "102931575",
+                                        "addonId": "96240909"
+                                      },
+                                      {
+                                        "groupId": "102931575",
+                                        "addonId": "96240910"
+                                      },
+                                      {
+                                        "groupId": "102931575",
+                                        "addonId": "96240911"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240912"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240913"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240914"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240915"
+                                      },
+                                      {
+                                        "groupId": "102931576",
+                                        "addonId": "96240916"
+                                      },
+                                      {
+                                        "groupId": "102931577",
+                                        "addonId": "96240917"
+                                      },
+                                      {
+                                        "groupId": "102931577",
+                                        "addonId": "96240918"
+                                      },
+                                      {
+                                        "groupId": "102931577",
+                                        "addonId": "96240919"
+                                      },
+                                      {
+                                        "groupId": "102931577",
+                                        "addonId": "96240920"
+                                      },
+                                      {
+                                        "groupId": "102931578",
+                                        "addonId": "96240921"
+                                      },
+                                      {
+                                        "groupId": "102931578",
+                                        "addonId": "96240922"
+                                      },
+                                      {
+                                        "groupId": "102931579",
+                                        "addonId": "96240923"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "102931574",
+                                  "groupName": "Make It A Meal",
+                                  "choices": [
+                                    {
+                                      "id": "96240905",
+                                      "name": "French Fries [Large] +Pepsi/coke/thumbsup -250ml",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240907",
+                                      "name": "French Fries [Small ]+Pepsi/coke/thumbsup -250ml",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240906",
+                                      "name": "French Fries [Large]+iced Tea [250 Ml]",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240908",
+                                      "name": "French Fries [Small ]+Iced Tea [250 Ml]",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931575",
+                                  "groupName": "Add On",
+                                  "choices": [
+                                    {
+                                      "id": "96240911",
+                                      "name": "House Special Mayo",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240909",
+                                      "name": "Cheese Topping",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240910",
+                                      "name": "Extra Momos Chutney",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 3,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931576",
+                                  "groupName": "Choice Of Sides",
+                                  "choices": [
+                                    {
+                                      "id": "96240912",
+                                      "name": "Salted French Fries",
+                                      "price": 13900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240914",
+                                      "name": "Peri Peri Cheese French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240913",
+                                      "name": "French Fries Italiano",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240916",
+                                      "name": "Salted Cheese French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240915",
+                                      "name": "Peri Peri French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931577",
+                                  "groupName": "Choice Of Refreshments",
+                                  "choices": [
+                                    {
+                                      "id": "96240918",
+                                      "name": "Mineral Water",
+                                      "price": 5000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240917",
+                                      "name": "Lemon Ice Tea ",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240919",
+                                      "name": "Pepsi 600 Ml",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240920",
+                                      "name": "Pepsi 250 Ml",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931578",
+                                  "groupName": "Choice Of Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "96240922",
+                                      "name": "Chocolate Brownie",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240921",
+                                      "name": "Choco Lava",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931579",
+                                  "groupName": "Extras",
+                                  "choices": [
+                                    {
+                                      "id": "96240923",
+                                      "name": "Cheese",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "defaultPrice": 14900,
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735885",
+                              "name": "Chicken Kurkure Peri Peri Momos (Must Try)",
+                              "category": "Kurkure Momos (New)",
+                              "description": "A new favorite in the current street food affair. Juicy momos recasted in the magic mix of seasoned flour and bread crumbs are deep fried to golden and amazingly crunchy bites. ",
+                              "imageId": "popouvkuoqy0gh5zkoqf",
+                              "inStock": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "30607012",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "6 pcs",
+                                        "default": 1,
+                                        "id": "95199484",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "8 pcs",
+                                        "id": "95199485",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607012",
+                                        "variationId": "95199484"
+                                      }
+                                    ],
+                                    "price": 15800,
+                                    "addonCombinations": [
+                                      {
+                                        "groupId": "102931580",
+                                        "addonId": "96240925"
+                                      },
+                                      {
+                                        "groupId": "102931580",
+                                        "addonId": "96240926"
+                                      },
+                                      {
+                                        "groupId": "102931580",
+                                        "addonId": "96240927"
+                                      },
+                                      {
+                                        "groupId": "102931580",
+                                        "addonId": "96240928"
+                                      },
+                                      {
+                                        "groupId": "102931581",
+                                        "addonId": "96240929"
+                                      },
+                                      {
+                                        "groupId": "102931581",
+                                        "addonId": "96240930"
+                                      },
+                                      {
+                                        "groupId": "102931581",
+                                        "addonId": "96240931"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240932"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240933"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240934"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240935"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240936"
+                                      },
+                                      {
+                                        "groupId": "102931583",
+                                        "addonId": "96240937"
+                                      },
+                                      {
+                                        "groupId": "102931583",
+                                        "addonId": "96240938"
+                                      },
+                                      {
+                                        "groupId": "102931583",
+                                        "addonId": "96240939"
+                                      },
+                                      {
+                                        "groupId": "102931583",
+                                        "addonId": "96240940"
+                                      },
+                                      {
+                                        "groupId": "102931584",
+                                        "addonId": "96240941"
+                                      },
+                                      {
+                                        "groupId": "102931584",
+                                        "addonId": "96240942"
+                                      },
+                                      {
+                                        "groupId": "102931585",
+                                        "addonId": "96240943"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607012",
+                                        "variationId": "95199485"
+                                      }
+                                    ],
+                                    "price": 20900,
+                                    "addonCombinations": [
+                                      {
+                                        "groupId": "102931580",
+                                        "addonId": "96240925"
+                                      },
+                                      {
+                                        "groupId": "102931580",
+                                        "addonId": "96240926"
+                                      },
+                                      {
+                                        "groupId": "102931580",
+                                        "addonId": "96240927"
+                                      },
+                                      {
+                                        "groupId": "102931580",
+                                        "addonId": "96240928"
+                                      },
+                                      {
+                                        "groupId": "102931581",
+                                        "addonId": "96240929"
+                                      },
+                                      {
+                                        "groupId": "102931581",
+                                        "addonId": "96240930"
+                                      },
+                                      {
+                                        "groupId": "102931581",
+                                        "addonId": "96240931"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240932"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240933"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240934"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240935"
+                                      },
+                                      {
+                                        "groupId": "102931582",
+                                        "addonId": "96240936"
+                                      },
+                                      {
+                                        "groupId": "102931583",
+                                        "addonId": "96240937"
+                                      },
+                                      {
+                                        "groupId": "102931583",
+                                        "addonId": "96240938"
+                                      },
+                                      {
+                                        "groupId": "102931583",
+                                        "addonId": "96240939"
+                                      },
+                                      {
+                                        "groupId": "102931583",
+                                        "addonId": "96240940"
+                                      },
+                                      {
+                                        "groupId": "102931584",
+                                        "addonId": "96240941"
+                                      },
+                                      {
+                                        "groupId": "102931584",
+                                        "addonId": "96240942"
+                                      },
+                                      {
+                                        "groupId": "102931585",
+                                        "addonId": "96240943"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "102931580",
+                                  "groupName": "Make It A Meal",
+                                  "choices": [
+                                    {
+                                      "id": "96240925",
+                                      "name": "French Fries [Large] +Pepsi/coke/thumbsup -250ml",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240927",
+                                      "name": "French Fries [Small ]+Pepsi/coke/thumbsup -250ml",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240926",
+                                      "name": "French Fries [Large]+iced Tea [250 Ml]",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240928",
+                                      "name": "French Fries [Small ]+Iced Tea [250 Ml]",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931581",
+                                  "groupName": "Add On",
+                                  "choices": [
+                                    {
+                                      "id": "96240929",
+                                      "name": "Cheese Topping",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240930",
+                                      "name": "Extra Momos Chutney",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240931",
+                                      "name": "House Special Mayo",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 3,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931582",
+                                  "groupName": "Choice Of Sides",
+                                  "choices": [
+                                    {
+                                      "id": "96240934",
+                                      "name": "Peri Peri Cheese French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240933",
+                                      "name": "French Fries Italiano",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240936",
+                                      "name": "Salted Cheese French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240935",
+                                      "name": "Peri Peri French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240932",
+                                      "name": "Salted French Fries",
+                                      "price": 13900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931583",
+                                  "groupName": "Choice Of Refreshments",
+                                  "choices": [
+                                    {
+                                      "id": "96240938",
+                                      "name": "Mineral Water",
+                                      "price": 5000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240937",
+                                      "name": "Lemon Ice Tea ",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240939",
+                                      "name": "Pepsi 600 Ml",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240940",
+                                      "name": "Pepsi 250 Ml",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931584",
+                                  "groupName": "Choice Of Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "96240941",
+                                      "name": "Choco Lava",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240942",
+                                      "name": "Chocolate Brownie",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931585",
+                                  "groupName": "Extras",
+                                  "choices": [
+                                    {
+                                      "id": "96240943",
+                                      "name": "Cheese",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "defaultPrice": 15800,
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.7",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735886",
+                              "name": "Chicken Kurkure Momos",
+                              "category": "Kurkure Momos (New)",
+                              "description": "A new favorite in the current street food affair. Juicy momos recasted in the magic mix of seasoned flour and bread crumbs are deep fried to golden and amazingly crunchy bites. ",
+                              "imageId": "zr9l4khs7z3xarmgtx3a",
+                              "inStock": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "30607013",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "6 pcs",
+                                        "default": 1,
+                                        "id": "95199486",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "8 pcs",
+                                        "id": "95199487",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607013",
+                                        "variationId": "95199486"
+                                      }
+                                    ],
+                                    "price": 14900,
+                                    "addonCombinations": [
+                                      {
+                                        "groupId": "102931586",
+                                        "addonId": "96240944"
+                                      },
+                                      {
+                                        "groupId": "102931586",
+                                        "addonId": "96240945"
+                                      },
+                                      {
+                                        "groupId": "102931586",
+                                        "addonId": "96240946"
+                                      },
+                                      {
+                                        "groupId": "102931586",
+                                        "addonId": "96240947"
+                                      },
+                                      {
+                                        "groupId": "102931587",
+                                        "addonId": "96240948"
+                                      },
+                                      {
+                                        "groupId": "102931587",
+                                        "addonId": "96240949"
+                                      },
+                                      {
+                                        "groupId": "102931587",
+                                        "addonId": "96240950"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240951"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240952"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240953"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240954"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240955"
+                                      },
+                                      {
+                                        "groupId": "102931589",
+                                        "addonId": "96240956"
+                                      },
+                                      {
+                                        "groupId": "102931589",
+                                        "addonId": "96240957"
+                                      },
+                                      {
+                                        "groupId": "102931589",
+                                        "addonId": "96240958"
+                                      },
+                                      {
+                                        "groupId": "102931589",
+                                        "addonId": "96240959"
+                                      },
+                                      {
+                                        "groupId": "102931590",
+                                        "addonId": "96240960"
+                                      },
+                                      {
+                                        "groupId": "102931590",
+                                        "addonId": "96240961"
+                                      },
+                                      {
+                                        "groupId": "102931591",
+                                        "addonId": "96240962"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607013",
+                                        "variationId": "95199487"
+                                      }
+                                    ],
+                                    "price": 15800,
+                                    "addonCombinations": [
+                                      {
+                                        "groupId": "102931586",
+                                        "addonId": "96240944"
+                                      },
+                                      {
+                                        "groupId": "102931586",
+                                        "addonId": "96240945"
+                                      },
+                                      {
+                                        "groupId": "102931586",
+                                        "addonId": "96240946"
+                                      },
+                                      {
+                                        "groupId": "102931586",
+                                        "addonId": "96240947"
+                                      },
+                                      {
+                                        "groupId": "102931587",
+                                        "addonId": "96240948"
+                                      },
+                                      {
+                                        "groupId": "102931587",
+                                        "addonId": "96240949"
+                                      },
+                                      {
+                                        "groupId": "102931587",
+                                        "addonId": "96240950"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240951"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240952"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240953"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240954"
+                                      },
+                                      {
+                                        "groupId": "102931588",
+                                        "addonId": "96240955"
+                                      },
+                                      {
+                                        "groupId": "102931589",
+                                        "addonId": "96240956"
+                                      },
+                                      {
+                                        "groupId": "102931589",
+                                        "addonId": "96240957"
+                                      },
+                                      {
+                                        "groupId": "102931589",
+                                        "addonId": "96240958"
+                                      },
+                                      {
+                                        "groupId": "102931589",
+                                        "addonId": "96240959"
+                                      },
+                                      {
+                                        "groupId": "102931590",
+                                        "addonId": "96240960"
+                                      },
+                                      {
+                                        "groupId": "102931590",
+                                        "addonId": "96240961"
+                                      },
+                                      {
+                                        "groupId": "102931591",
+                                        "addonId": "96240962"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "102931586",
+                                  "groupName": "Make It A Meal",
+                                  "choices": [
+                                    {
+                                      "id": "96240945",
+                                      "name": "French Fries [Large]+iced Tea [250 Ml]",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240944",
+                                      "name": "French Fries [Large] +Pepsi/coke/thumbsup -250ml",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240947",
+                                      "name": "French Fries [Small ]+Iced Tea [250 Ml]",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240946",
+                                      "name": "French Fries [Small ]+Pepsi/coke/thumbsup -250ml",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931587",
+                                  "groupName": "Add On",
+                                  "choices": [
+                                    {
+                                      "id": "96240949",
+                                      "name": "Extra Momos Chutney",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240948",
+                                      "name": "Cheese Topping",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240950",
+                                      "name": "House Special Mayo",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 3,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931588",
+                                  "groupName": "Choice Of Sides",
+                                  "choices": [
+                                    {
+                                      "id": "96240955",
+                                      "name": "Salted Cheese French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240952",
+                                      "name": "French Fries Italiano",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240951",
+                                      "name": "Salted French Fries",
+                                      "price": 13900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240954",
+                                      "name": "Peri Peri French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240953",
+                                      "name": "Peri Peri Cheese French Fries",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 5,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931589",
+                                  "groupName": "Choice Of Refreshments",
+                                  "choices": [
+                                    {
+                                      "id": "96240956",
+                                      "name": "Lemon Ice Tea ",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240958",
+                                      "name": "Pepsi 600 Ml",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240957",
+                                      "name": "Mineral Water",
+                                      "price": 5000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240959",
+                                      "name": "Pepsi 250 Ml",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931590",
+                                  "groupName": "Choice Of Desserts",
+                                  "choices": [
+                                    {
+                                      "id": "96240961",
+                                      "name": "Chocolate Brownie",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240960",
+                                      "name": "Choco Lava",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 2,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931591",
+                                  "groupName": "Extras",
+                                  "choices": [
+                                    {
+                                      "id": "96240962",
+                                      "name": "Cheese",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "defaultPrice": 14900,
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "15 ratings",
+                                  "ratingCountV2": "15"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735882",
+                              "name": "Paneer Kurkure Momos",
+                              "category": "Kurkure Momos (New)",
+                              "description": "Crunchy cottage cheese momos with a crispy covering. ",
+                              "imageId": "tagj9paby1vdes8nevmb",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "30607010",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "6 pcs",
+                                        "default": 1,
+                                        "id": "95199480",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "8 pcs",
+                                        "id": "95199481",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607010",
+                                        "variationId": "95199480"
+                                      }
+                                    ],
+                                    "price": 14900,
+                                    "addonCombinations": [
+                                      {
+                                        "groupId": "102931566",
+                                        "addonId": "96240879"
+                                      },
+                                      {
+                                        "groupId": "102931566",
+                                        "addonId": "96240880"
+                                      },
+                                      {
+                                        "groupId": "102931566",
+                                        "addonId": "96240881"
+                                      },
+                                      {
+                                        "groupId": "102931566",
+                                        "addonId": "96240882"
+                                      },
+                                      {
+                                        "groupId": "102931567",
+                                        "addonId": "96240883"
+                                      },
+                                      {
+                                        "groupId": "102931567",
+                                        "addonId": "96240884"
+                                      },
+                                      {
+                                        "groupId": "102931567",
+                                        "addonId": "96240885"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607010",
+                                        "variationId": "95199481"
+                                      }
+                                    ],
+                                    "price": 20900,
+                                    "addonCombinations": [
+                                      {
+                                        "groupId": "102931566",
+                                        "addonId": "96240879"
+                                      },
+                                      {
+                                        "groupId": "102931566",
+                                        "addonId": "96240880"
+                                      },
+                                      {
+                                        "groupId": "102931566",
+                                        "addonId": "96240881"
+                                      },
+                                      {
+                                        "groupId": "102931566",
+                                        "addonId": "96240882"
+                                      },
+                                      {
+                                        "groupId": "102931567",
+                                        "addonId": "96240883"
+                                      },
+                                      {
+                                        "groupId": "102931567",
+                                        "addonId": "96240884"
+                                      },
+                                      {
+                                        "groupId": "102931567",
+                                        "addonId": "96240885"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "addons": [
+                                {
+                                  "groupId": "102931566",
+                                  "groupName": "Make It A Combo",
+                                  "choices": [
+                                    {
+                                      "id": "96240879",
+                                      "name": "French Fries [Large] + Pepsi/coke/thumbsup -250ml",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240880",
+                                      "name": "French Fries [Large]+iced Tea [250 Ml]",
+                                      "price": 15900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240882",
+                                      "name": "French Fries [Small]+iced Tea [250 Ml]",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240881",
+                                      "name": "French Fries [Small] +Pepsi/coke/thumbsup -250ml",
+                                      "price": 14900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 4,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "102931567",
+                                  "groupName": "Add On",
+                                  "choices": [
+                                    {
+                                      "id": "96240884",
+                                      "name": "Extra Momos Chutney",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240883",
+                                      "name": "Cheese Topping",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "96240885",
+                                      "name": "House Special Mayo",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 3,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "defaultPrice": 14900,
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.0",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735899",
+                              "name": "Mineral Water (1 Ltr)",
+                              "category": "Beverages",
+                              "description": "| 1 ltr | a bottle of mineral loaded water to quench your thirst anywhere and at any time. ",
+                              "imageId": "ftdpbehgqd5ain9udhtr",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735896",
+                              "name": "Lemon Iced Tea",
+                              "category": "Beverages",
+                              "description": "Refreshing lemon flavoured iced tea",
+                              "imageId": "zb52fw9u5y60aile0wjq",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735897",
+                              "name": "Mineral Water",
+                              "category": "Beverages",
+                              "description": "| 1 ltr | a bottle of mineral loaded water to quench your thirst anywhere and at any time. ",
+                              "imageId": "ftdpbehgqd5ain9udhtr",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121735898",
+                              "name": "Pepsi/coke/thumps (Any 1 As Per Availability)",
+                              "category": "Beverages",
+                              "description": "Worlds no. 1 beverage. ",
+                              "imageId": "zhsh2dmigmotmevkmt3x",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "30607022",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "250 ml",
+                                        "default": 1,
+                                        "id": "95199512",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "600 ml",
+                                        "id": "95199513",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607022",
+                                        "variationId": "95199512"
+                                      }
+                                    ],
+                                    "price": 8900
+                                  },
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "30607022",
+                                        "variationId": "95199513"
+                                      }
+                                    ],
+                                    "price": 9900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "defaultPrice": 8900,
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Mad Momos",
+                      "area": "Hinjewadi",
+                      "completeAddress": "Matoshree Food Court, Rajiv Gandhi Technical Park, Hinjavadi, Mulshi, Pune, Maharashtra - 411057"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
